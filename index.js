@@ -25,18 +25,20 @@ client.once("disconnect", () => {
 
 client.on("messageCreate", async message => {
 
-	if (!message.content.startsWith(prefix)) return;
+	let messageContent = message.content.toLowerCase()
 
-	if (message.content.startsWith(`${prefix}list`)) {
+	if (!messageContent.startsWith(prefix)) return;
+
+	if (messageContent.startsWith(`${prefix}list`)) {
 
 		message.channel.send(Object.keys(jsondata).join("\n"));
 
 
-	} else if (message.content.startsWith(`${prefix}use`)) {
+	} else if (messageContent.startsWith(`${prefix}use`)) {
 
 		use( message )
 
-	} else if (message.content.startsWith(`${prefix}next`)) {
+	} else if (messageContent.startsWith(`${prefix}next`)) {
 
 		if (questions.length == 0) {
 			message.channel.send("No questions queued");
@@ -44,7 +46,7 @@ client.on("messageCreate", async message => {
 			next( message );
 		}
 
-	} else if (message.content.startsWith(`${prefix}answer`)) {
+	} else if (messageContent.startsWith(`${prefix}answer`)) {
 
 		answer( message );
 
