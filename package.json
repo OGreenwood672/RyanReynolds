@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/OGreenwood672/RyanReynolds/issues"
   },
-  "homepage": "https://github.com/OGreenwood672/RyanReynolds#readme"
+  "homepage": "https://github.com/OGreenwood672/RyanReynolds#readme",
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0"
+  }
 }
