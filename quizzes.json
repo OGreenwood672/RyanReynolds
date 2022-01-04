@@ -1,0 +1,3815 @@
+{
+    "Particle physics, Particle physics": [
+        [
+            "Proton",
+            "A positively charged baryon with a relative mass of 1."
+        ],
+        [
+            "Neutron",
+            "A neutral baryon with relative mass of 1."
+        ],
+        [
+            "Electron",
+            "A lepton with a relative charge of -1 and a relative mass of 0.0005 sometimes called a \u03b2- particle."
+        ],
+        [
+            "Atom",
+            "A particle made up of protons and neutrons in a central nucleus, and electrons orbiting the nucleus."
+        ],
+        [
+            "Mass",
+            "The amount of matter in an object (kg)."
+        ],
+        [
+            "Relative mass",
+            "The mass of a particle compared to the mass of a proton."
+        ],
+        [
+            "Ion",
+            "An atom or molecule with a net electric charge due to the loss or gain of one or more electrons."
+        ],
+        [
+            "Isotope",
+            "One of two or more forms of an element with the same proton number but a different nucleon number."
+        ],
+        [
+            "Beta particle",
+            "\u03b2- is another name for an electron used commonly in \u03b2- decay."
+        ],
+        [
+            "Strong nuclear force",
+            "A fundamental force with a short range which is attractive at small separations and repulsive art very small separations, responsible for the stability of nuclei."
+        ],
+        [
+            "Neutrino",
+            "A lepton with almost no mass and zero charge."
+        ],
+        [
+            "Conservation",
+            "The principle by which the total value of a physical quantity or parameter remains constant in a system which is not subject to external influence."
+        ],
+        [
+            "Antiparticle",
+            "A particle with the same rest mass and energy as it's corresponding particle but with equal and opposite charge."
+        ],
+        [
+            "Rest energy",
+            "Three amount of energy that would be produced if all of a particle's mass was transformed into energy."
+        ],
+        [
+            "Planck constant",
+            "6.63x10^-34Js (h)"
+        ],
+        [
+            "Annihilation",
+            "The process by which a particle and its antiparticle meet and their mass gets converted to energy in the form of a pair of gamma ray photons."
+        ],
+        [
+            "Pair production",
+            "A process of converting energy to mass in which a gamma ray photon has enough energy to produce a particle-antiparticle pair."
+        ],
+        [
+            "Hadron",
+            "A particle made up of quarks that is affected by the strong nuclear force."
+        ],
+        [
+            "Lepton",
+            "A fundamental particle that is not affected by affected by the strong nuclear force."
+        ],
+        [
+            "Muon",
+            "A lepton \u03bc-"
+        ],
+        [
+            "Quark",
+            "A fundamental particle that makes up hadrons."
+        ],
+        [
+            "Strangeness",
+            "A property which particles that contain strange quarks have. Strange particle are always produced in pairs."
+        ],
+        [
+            "Momentum",
+            "The product of an objects mass and velocity. This must be conserved in interactions."
+        ],
+        [
+            "Quantum number",
+            "A number that represents a property of a particle that must be conserved in all interactions for example baron number and lepton number. Strangeness is an exception as it is not always conserved."
+        ],
+        [
+            "fundamental particle",
+            "one that is not made of any smaller particles. quarks and leptons"
+        ],
+        [
+            "quarks (forces)",
+            "fundamental particles that are affected by the strong force"
+        ],
+        [
+            "leptons ( forces)",
+            "fundamental particles that are not affected by the strong force"
+        ],
+        [
+            "weak force",
+            "force that converts one type of quark into another. Responsible for beta decay"
+        ],
+        [
+            "electromagnetic force",
+            "force that acts between charged particles"
+        ],
+        [
+            "gravity",
+            "force that acts between all objects with energy"
+        ],
+        [
+            "E = mc^2",
+            "energy released by the complete annihilation of a particle of mass m."
+        ],
+        [
+            "particle accelerator",
+            "uses electric field to accelerate charged particles"
+        ],
+        [
+            "Large Hadron Collider",
+            "CERN, Switzerland/France. Accelerates protons to 7TeV in two beams"
+        ],
+        [
+            "particle detector",
+            "Detects the path of charged particles. uses a magnetic field to bend particles produced after collision to determine charge and momentum"
+        ],
+        [
+            "bubble chamber",
+            "type of particle detector. charged particles leave a trail of gas bubbles in a pressurised liquid."
+        ],
+        [
+            "neutron (quarks)",
+            "baryon, Q = 0, B = +1, udd"
+        ]
+    ],
+    "AQA Alevel Physics Particles": [
+        [
+            "Alpha Decay",
+            "radioactive decay in which an atomic nucleus emits an alpha particle (helium-4 nucleus)"
+        ],
+        [
+            "Annihilation",
+            "conversion of matter into energy, especially the mutual conversion of a particle and an antiparticle into electromagnetic radiation."
+        ],
+        [
+            "Antibaryon",
+            "hadron consisting of three antiquarks. Antibaryons have a baryon number of -1."
+        ],
+        [
+            "Antimuon (\u03bc+)",
+            "positively-charged antiparticle of the muon."
+        ],
+        [
+            "Antineutron (n\u0305)",
+            "antiparticle of the neutron."
+        ],
+        [
+            "Antiparticle",
+            "opposite of a particle, have the same rest mass and, if charged, have opposite charge. They aregiven the same symbol as the particle but with opposite charge or, if uncharged or a quark, a bar on top: e.g.\ud835\udf08\u0305 (anti electron-neutrino) and u\u0305 (anti-up quark)."
+        ],
+        [
+            "Antiquark",
+            "antiparticle of a quark."
+        ],
+        [
+            "Atom",
+            "smallest constituent of ordinary matter that retains the properties of a chemical element."
+        ],
+        [
+            "Atomic Mass Unit (amu)",
+            "unit of atomic mass, equal to one twelfth of the mass of an atom of carbon-12. Its value is given on the data sheet as 1.661 x 10-27 kg."
+        ],
+        [
+            "Baryon",
+            "hadron consisting of three quarks. See neutron and proton. Baryons have a baryon number of +1."
+        ],
+        [
+            "Baryon Number (B)",
+            "quantum number equal to the number of baryons in a system of subatomic particles minus the number of antibaryons. Quarks and antiquarks respectively have baryon numbers of + 1/3 & - 1/3 ."
+        ],
+        [
+            "Beta Decay",
+            "radioactive decay in which an atomic nucleus emits a beta particle along with an electron antineutrino or electron neutrino."
+        ],
+        [
+            "Beta Particle",
+            "Beta negative particles are fast-moving electrons emitted by unstable, neutron-rich nuclei or the decay of a free neutron. Beta positive particles are positrons, the antiparticle of the electron, emitted by proton-rich nuclei."
+        ],
+        [
+            "Charge, Q",
+            "electric charge causes matter to experience the electromagnetic interaction. Positive and negative, an absence of which is referred to as neutral."
+        ],
+        [
+            "Cloud chamber",
+            "simple detector revealing the paths of alpha particles in (usually) ethanol-saturated air. The ionisation of the air causes instantaneous formation of condensation trails along the radiation path"
+        ],
+        [
+            "Conservation Laws",
+            "conservation of energy, momentum, charge, baryon number and lepton number apply to all particle interactions. Conservation of strangeness applies to strong interactions only."
+        ],
+        [
+            "de Broglie Wavelength",
+            "effective wavelength of a matter particle"
+        ],
+        [
+            "Electron, e-",
+            "sub-atomic particle, the lightest lepton."
+        ],
+        [
+            "Electromagnetic Interaction",
+            "a force that occurs between electrically charged particles."
+        ],
+        [
+            "Electron Capture",
+            "atom inner-shell electron captured by the nucleus, effectively reverse beta decay."
+        ],
+        [
+            "Electron Diffraction",
+            "observation that a beam of electrons fired through a suitable target (thin metal or graphite) will behave like waves, diffracting through the gaps between atoms to certain angles only."
+        ],
+        [
+            "Electron Volt (eV)",
+            "unit of energy, equal to the amount transferred when one electron is accelerated through a potential difference of 1 V. From the definition of p.d., 1 eV = 1.6 x 10-19 J"
+        ],
+        [
+            "Energy Level",
+            "given as... h\ud835\udc53 = \ud835\udc381 \u2212 \ud835\udc382"
+        ],
+        [
+            "Exchange Particle",
+            "virtual particles that interact between particles to give rise to forces of attraction orrepulsion"
+        ],
+        [
+            "Excitation",
+            "when an atom absorbs energy without becoming ionised as a result of an electron transitionfrom a lower to a higher energy level."
+        ],
+        [
+            "Feynman Diagram",
+            "pictorial representations describing the behaviour of subatomic particles, but they arenot trajectories of the interacting particles in space and time. Generally, read left to right. Particles arerepresented by straight lines with arrows, exchange particles are wavy lines, time is usually on the x-axis.Particles are created/annihilated at the vertices between the lines"
+        ],
+        [
+            "Geiger counter",
+            "instrument for measuring ionising radiation (including alpha, beta and gamma) count orcount rate in a Geiger-M\u00fcller tube, based on principle discovered in the Cavendish Laboratory in 1908."
+        ],
+        [
+            "Hadron",
+            "particles and antiparticles which can interact through the strong nuclear interaction."
+        ],
+        [
+            "Ionisation",
+            "creation of ionised atoms (ions) due to the loss (or gain) of one or more electron"
+        ],
+        [
+            "Isotope",
+            "nuclei of the same element with a different number of neutrons but the same number of protons.Hence they have the same proton number but a different nucleon number"
+        ],
+        [
+            "Kaon, K\u00b1",
+            "short for K meson, they consist of a strange quark or antiquark and another quark or antiquark.They will decay into pions."
+        ],
+        [
+            "Lepton",
+            "fundamental particle that does not interact through the strong nuclear interaction. Electrons, ,muons, neutrinos and associated antiparticles all interact through the weak nuclear interation and, exceptfor neutrinos/antineutrinos, through the electromagnetic interaction."
+        ],
+        [
+            "Lepton Number, L",
+            "assigned to every lepton (+1) and antilepton (-1) such that the total lepton number isalways conserved."
+        ],
+        [
+            "Line Spectra",
+            "set of dark or bright spectral lines in an otherwise uniform absence of light or acontinuous spectrum. They result from emission (bright) or absorption (dark) of light of a certain photonenergy. Line spectra can be used to identify atoms and molecules from their characteristic lines which areassociated with transitions between energy levels"
+        ],
+        [
+            "Maximum Kinetic Energy",
+            "of an emitted electron (sometimes called a photoelectron) from a metal surfacevia the photoelectric effect"
+        ],
+        [
+            "MeV",
+            "unit of energy, the mega electron-volt is equal to 106 eV or 1.6 x 10-13J and is commonly used."
+        ],
+        [
+            "Neutron, n",
+            "neutral sub-atomic particle, a hadron, quark composition: udd."
+        ],
+        [
+            "Neutron Decay",
+            "in an atomic nucleus, a neutron may decay into a proton, leading to the emission of aelectron (called - decay) and an anti electron-neutrino. A free neutron (on its own) will also decay (equationshould be known: 0n1 \u21921p1 +-1e0 +\ud835\udf08\u0305\ud835\udc52) in this way with a half-life of about 10 minutes."
+        ],
+        [
+            "Neutrino, Ve or V\u00b5",
+            "sub-atomic particles that lack an electric charge and have zero rest energy. The twosymbols indicated here are for electron-neutrino and muon-neutrino respectively."
+        ],
+        [
+            "Nucleon Number, A",
+            "total number of nucleons in the nucleus of an atom. Sometimes called mass number"
+        ],
+        [
+            "Nuclide",
+            "type of nucleus with a certain number of protons and neutrons"
+        ],
+        [
+            "Pair Production",
+            "creation of a particle and its antiparticle"
+        ],
+        [
+            "Peer Review",
+            "evaluation of scientific, academic, or professional work by others working in the same field."
+        ],
+        [
+            "Photoelectric Effect",
+            "emission of electrons when light is shone onto a material."
+        ],
+        [
+            "Photoelectron",
+            "electrons emitted by the photoelectric effect can be called photoelectrons."
+        ],
+        [
+            "Photon",
+            "- quantum of electromagnetic radiation and the force carrier for the electromagnetic interaction(even when static via virtual photons). Zero rest mass, they always move at the speed of light. Photons haveenergy given as... \ud835\udc38 = \u210e\ud835\udc53 = \u210e\ud835\udc50\u2044\ud835\udf06 where h is the Planck constant and c is the speed of light."
+        ],
+        [
+            "Pion",
+            "they consist of an up or down quark together with an up or down antiquark."
+        ],
+        [
+            "Planck Constant, h",
+            "proportionality constant between the energy of a photon and the frequency ofelectromagnetic radiation. Value: 6.63\u00d710-34 Js or"
+        ],
+        [
+            "Positron, e+",
+            "antiparticle of the electron."
+        ],
+        [
+            "Proton, p",
+            "positive sub-atomic particle, a hadron, quark composition: uud. Opposite in charge to anelectron. Protons are the only stable baryon, as they are the lightest. All other baryons decay into protons."
+        ],
+        [
+            "Proton Number, Z",
+            "the number of protons in an atomic nucleus. Sometimes called atomic number."
+        ],
+        [
+            "Quantum",
+            "minimum amount of a physical entity involved in an interaction. Some propertiescan be 'quantised', such as the energy levels of electrons in atoms, where only certain values are possible."
+        ],
+        [
+            "Quantum Number",
+            "one of a number of conserved quantities associated with particle interactions."
+        ],
+        [
+            "Quark",
+            "six types exist: up (u), down (d), strange (s), charmed, top and bottom"
+        ],
+        [
+            "Rest Energy",
+            "energy due to the rest mass"
+        ],
+        [
+            "Spark Counter",
+            "highly visible (and audible) way of showing and counting ionisation of the air caused byalpha radiation (or a match). It is a useful step towards understanding the Geiger counter."
+        ],
+        [
+            "Specific Charge",
+            "ratio of charge to mass for a particle"
+        ],
+        [
+            "Strange Particle",
+            "subatomic particle classified as having a non-zero value for strangeness. Produced throughthe strong interaction they decay through the weak interaction. E.g. kaons."
+        ],
+        [
+            "Strangeness, S",
+            "assigned to every particle and antiparticle, strangeness is always conserved in the strongnuclear interaction, but not in a weak nuclear interaction (can change by 0, 1 or -1), or a decay involving astrange quark or antiquark."
+        ],
+        [
+            "Stopping Potential",
+            "minimum p.d. that needs to be applied to a metal plate to attract emittedphotoelectrons back to the surface."
+        ],
+        [
+            "Strong Nuclear Force (Strong Nuclear Interaction)",
+            "attractive force between nucleons that holds the nucleustogether, an attraction solely between two hadrons."
+        ],
+        [
+            "Threshold Frequency",
+            "minimum frequency of radiation incident on a metal surface which will causeelectrons to be emitted from that metal in the photoelectric effect."
+        ],
+        [
+            "Transition",
+            "change from one state to another, for electrons in atoms from one energy level to another.Associated with the absorption or emission of a photon."
+        ],
+        [
+            "Virtual Photon",
+            "carrier of the electromagnetic interaction (force), a photon exchanged between two chargedparticles when they interact."
+        ],
+        [
+            "Wave-Particle Duality",
+            "matter particles have a wave-like nature (given by the de Broglie wavelength) as wellas particle-like. Similarly, photons have particle-like nature as well as wave-like"
+        ],
+        [
+            "Weak Nuclear Interaction",
+            "between two leptons or a lepton and hadron. Responsible for beta decay."
+        ],
+        [
+            "Work Function",
+            "(energy) of a metal is the minimum energy required by an electron to escape (called aphotoelectron) from the surface of the metal. Commonly expressed in either eV or J."
+        ]
+    ],
+    "finance": [
+        [
+            [
+                "Tax rate increases as income increases"
+            ],
+            [
+                "Progressive tax"
+            ]
+        ],
+        [
+            [
+                "Taxes that are levied equally regardless of income"
+            ],
+            [
+                "Regressive taxes"
+            ]
+        ],
+        [
+            [
+                "Three examples of regressive taxes"
+            ],
+            [
+                "Sales, excise, property"
+            ]
+        ],
+        [
+            [
+                "Two examples of progressive taxes"
+            ],
+            [
+                "Income, estate"
+            ]
+        ],
+        [
+            [
+                "Three types of income subject to taxation"
+            ],
+            [
+                "Earned, passive, portfolio"
+            ]
+        ],
+        [
+            [
+                "Two sources of passive income"
+            ],
+            [
+                "Limited partnerships, rental property"
+            ]
+        ],
+        [
+            [
+                "Three taxable forms of portfolio income"
+            ],
+            [
+                "Interest, dividends and capital gains"
+            ]
+        ],
+        [
+            [
+                "Minimum holding period for lower long-term capital gains tax rate"
+            ],
+            [
+                "1 year and 1 day"
+            ]
+        ],
+        [
+            [
+                "Short-term holding period for capital gains tax computation"
+            ],
+            [
+                "1 year or less"
+            ]
+        ],
+        [
+            [
+                "Maximum amount of capital loss that can be used to offset current income each year"
+            ],
+            [
+                "$3,000 "
+            ]
+        ],
+        [
+            [
+                "Maximum tax rate applicable to long-term capital gains"
+            ],
+            [
+                "15%"
+            ]
+        ],
+        [
+            [
+                "Period of time for which capital losses can be carried forward"
+            ],
+            [
+                "Indefinitely"
+            ]
+        ],
+        [
+            [
+                "Transaction which disqualifies capital loss because substantially similar securities are repurchased within 30 days"
+            ],
+            [
+                "Wash sale"
+            ]
+        ],
+        [
+            [
+                "Number of days before or after a sale for a loss for which a purchase of substantially similar securities must be avoided"
+            ],
+            [
+                "Thirty days"
+            ]
+        ],
+        [
+            [
+                "Under the wash sale rule, purchases of any of these four securities of the same issuer are considered substantially identical to purchases of the issuer's stock"
+            ],
+            [
+                "Long calls, rights, warrants and convertible bonds"
+            ]
+        ],
+        [
+            [
+                "Three accounting methods available for determining which shares to liquidate"
+            ],
+            [
+                "FIFO, share identification, average basis"
+            ]
+        ],
+        [
+            [
+                "Method of share identification assigned by the IRS if no other method is chosen"
+            ],
+            [
+                "FIFO"
+            ]
+        ],
+        [
+            [
+                "Maximum tax rate that applies to qualified dividends"
+            ],
+            [
+                "15%"
+            ]
+        ],
+        [
+            [
+                "Cash dividends that are eligible for taxation at the same rate as long-term capital gains"
+            ],
+            [
+                "Qualified"
+            ]
+        ],
+        [
+            [
+                "Minimum holding period of stock for dividends to be classified as qualified"
+            ],
+            [
+                "Sixty-one days"
+            ]
+        ],
+        [
+            [
+                "Tax implication of stock splits and stock dividends"
+            ],
+            [
+                "Reduction to cost basis; no current taxation"
+            ]
+        ],
+        [
+            [
+                "The amount of investment in property; used to determine the gain or loss at time of sale"
+            ],
+            [
+                "Cost basis"
+            ]
+        ],
+        [
+            [
+                "The accounting method that allows an investor to select which shares to liquidate for tax purposes"
+            ],
+            [
+                "Share identification"
+            ]
+        ],
+        [
+            [
+                "Shares that would be liquidated first to result in the lowest possible capital gain"
+            ],
+            [
+                "Shares with highest cost basis"
+            ]
+        ],
+        [
+            [
+                "The process of adjusting the cost basis of a bond purchased at a discount"
+            ],
+            [
+                "Accretion"
+            ]
+        ],
+        [
+            [
+                "The process of adjusting the cost basis of a bond purchased at a premium"
+            ],
+            [
+                "Amortization"
+            ]
+        ],
+        [
+            [
+                "A change of two of these three municipal bond characteristics avoids the wash sale rule"
+            ],
+            [
+                "Issuer, coupon, maturity"
+            ]
+        ],
+        [
+            [
+                "The cost basis at maturity of  a municipal bond purchased at  a price of 108 with 8 years to maturity"
+            ],
+            [
+                "Cost basis = par"
+            ]
+        ],
+        [
+            [
+                "The date which determines the amount of the tax deduction for charitable donations of appreciated property"
+            ],
+            [
+                "Date the donation is made "
+            ]
+        ],
+        [
+            [
+                "The amount of tax deduction available for gifts of securities made to family members or others"
+            ],
+            [
+                "None"
+            ]
+        ],
+        [
+            [
+                "The recipient's cost basis for gifts of securities from family members or others"
+            ],
+            [
+                "Original cost basis of the donor"
+            ]
+        ],
+        [
+            [
+                "The cost basis of securities that are left to an heir "
+            ],
+            [
+                "Market value of the securities on the date of the death of the owner"
+            ]
+        ],
+        [
+            [
+                "The current annual gift tax exclusion amount"
+            ],
+            [
+                "$15,000 "
+            ]
+        ],
+        [
+            [
+                "The tax provision that allows married persons to transfer their entire estate to the surviving spouse at death without taxation"
+            ],
+            [
+                "Unlimited marital deduction"
+            ]
+        ],
+        [
+            [
+                "The person responsible for payment of gift taxes due"
+            ],
+            [
+                "Donor"
+            ]
+        ],
+        [
+            [
+                "Amount of dividends that may be excluded from taxation by U.S. corporations"
+            ],
+            [
+                "50%"
+            ]
+        ],
+        [
+            [
+                "Tax calculation performed to ensure that deductions that have been claimed do not reduce tax liability beyond a certain minimum level"
+            ],
+            [
+                "Alternative minimum tax computation"
+            ]
+        ],
+        [
+            [
+                "Interest on bonds of these two issuers is taxable at the federal, state and certain local levels"
+            ],
+            [
+                "Corporate and agencies"
+            ]
+        ],
+        [
+            [
+                "Interest on bonds of this issuer is taxable at state and certain local levels, but is exempt from taxation at the federal level"
+            ],
+            [
+                "Municipal"
+            ]
+        ],
+        [
+            [
+                "Interest on bonds of this issuer is taxable at the federal level but exempt from taxation at the state and local level"
+            ],
+            [
+                "U.S. Government"
+            ]
+        ],
+        [
+            [
+                "Two investments that generate passive income"
+            ],
+            [
+                "DPPs and real estate"
+            ]
+        ],
+        [
+            [
+                "Amount of gift tax that applies to gifts between married couples"
+            ],
+            [
+                "No gift tax regardless of amount"
+            ]
+        ],
+        [
+            [
+                "A short-term economic contraction"
+            ],
+            [
+                "Recession"
+            ]
+        ],
+        [
+            [
+                "The four phases of the economic cycle"
+            ],
+            [
+                "Expansion, peak, trough, and contraction"
+            ]
+        ],
+        [
+            [
+                "Longer term, severe economic contraction"
+            ],
+            [
+                "Depression"
+            ]
+        ],
+        [
+            [
+                "A nation's annual output of all goods and services"
+            ],
+            [
+                "Gross Domestic Product (GDP)"
+            ]
+        ],
+        [
+            [
+                "Measures the general rate of increase or decrease in prices paid for certain standard goods (CPI)"
+            ],
+            [
+                "Consumer Price Index"
+            ]
+        ],
+        [
+            [
+                "General increase in the level of prices"
+            ],
+            [
+                "Inflation"
+            ]
+        ],
+        [
+            [
+                "Two economic conditions that generally accompany deflation"
+            ],
+            [
+                "Severe recession, rising unemployment"
+            ]
+        ],
+        [
+            [
+                "The three types of economic indicators"
+            ],
+            [
+                "Leading, lagging and coincident"
+            ]
+        ],
+        [
+            [
+                "Type of indicator that predicts a trend in the economy"
+            ],
+            [
+                "Leading "
+            ]
+        ],
+        [
+            [
+                "Leading, lagging or coincident indicator?  The money supply"
+            ],
+            [
+                "Leading"
+            ]
+        ],
+        [
+            [
+                "Leading, lagging or coincident indicator?  Employment levels"
+            ],
+            [
+                "Coincident"
+            ]
+        ],
+        [
+            [
+                "Leading, lagging or coincident indicator? Corporate profits"
+            ],
+            [
+                "Lagging"
+            ]
+        ],
+        [
+            [
+                "Leading, lagging or coincident indicator?  Industrial production"
+            ],
+            [
+                "Coincident"
+            ]
+        ],
+        [
+            [
+                "Leading, lagging or coincident indicator?  Average duration of unemployment"
+            ],
+            [
+                "Lagging"
+            ]
+        ],
+        [
+            [
+                "Leading, lagging or coincident indicator?  New orders for consumer goods"
+            ],
+            [
+                "Leading"
+            ]
+        ],
+        [
+            [
+                "Leading, lagging or coincident indicator?  Stock prices"
+            ],
+            [
+                "Leading"
+            ]
+        ],
+        [
+            [
+                "Leading, lagging or coincident indicator?  Personal income"
+            ],
+            [
+                "Coincident"
+            ]
+        ],
+        [
+            [
+                "Leading, lagging or coincident indicator?  GDP"
+            ],
+            [
+                "Lagging"
+            ]
+        ],
+        [
+            [
+                "Leading, lagging or coincident indicator?  Manufacturing and trade sales"
+            ],
+            [
+                "Coincident"
+            ]
+        ],
+        [
+            [
+                "Leading, lagging or coincident indicator?  Ratio of inventories to sales"
+            ],
+            [
+                "Lagging"
+            ]
+        ],
+        [
+            [
+                "Economist who theorized that aggregate demand controls employment and prices"
+            ],
+            [
+                "John Maynard Keynes"
+            ]
+        ],
+        [
+            [
+                "The originator of monetarist theory"
+            ],
+            [
+                "Milton Friedman"
+            ]
+        ],
+        [
+            [
+                "The economist associated with supply side economic theory"
+            ],
+            [
+                "Arthur Laffer"
+            ]
+        ],
+        [
+            [
+                "Three tools used by monetarist theory to regulate the economy"
+            ],
+            [
+                "Reserve requirement, discount rate, federal open market operations"
+            ]
+        ],
+        [
+            [
+                "Believes market forces should determine prices of all goods; federal government should reduce spending and taxes"
+            ],
+            [
+                "Supply side economics"
+            ]
+        ],
+        [
+            [
+                "Two critical fiscal policy tools used to impact economic performance"
+            ],
+            [
+                "Level of taxation and government spending"
+            ]
+        ],
+        [
+            [
+                "Economic theory that promotes strong government involvement in economic policy"
+            ],
+            [
+                "Keynesian economics"
+            ]
+        ],
+        [
+            [
+                "Economic theory that promotes less government spending and lower taxes"
+            ],
+            [
+                "Supply side economics"
+            ]
+        ],
+        [
+            [
+                "Most readily available type of money"
+            ],
+            [
+                "M1"
+            ]
+        ],
+        [
+            [
+                "Acts as agent of the US Treasury"
+            ],
+            [
+                "Federal Reserve Board"
+            ]
+        ],
+        [
+            [
+                "Regulates the U.S. money supply"
+            ],
+            [
+                "Federal Reserve Board"
+            ]
+        ],
+        [
+            [
+                "Conducts the U.S. government's open-market operations"
+            ],
+            [
+                "Federal Open Market Committee (FOMC)"
+            ]
+        ],
+        [
+            [
+                "Impact on the money supply of FOMC purchase of securities"
+            ],
+            [
+                "Increases"
+            ]
+        ],
+        [
+            [
+                "Impact on interest rates of FOMC purchase of securities"
+            ],
+            [
+                "Decreases"
+            ]
+        ],
+        [
+            [
+                "Interest rate charged between banks for loans of excess reserves"
+            ],
+            [
+                "Federal funds rate"
+            ]
+        ],
+        [
+            [
+                "Minimum amount of customer deposits that commercial banks must deposit with the Federal Reserve"
+            ],
+            [
+                "Reserve requirement"
+            ]
+        ],
+        [
+            [
+                "The Interest rate charged by the Fed to member banks for short-term loans"
+            ],
+            [
+                "Discount rate"
+            ]
+        ],
+        [
+            [
+                "Economic policy that centers on federal spending, taxation and federal budgets"
+            ],
+            [
+                "Fiscal policy"
+            ]
+        ],
+        [
+            [
+                "Impact of tight monetary policy on interest rates"
+            ],
+            [
+                "Interest rates rise"
+            ]
+        ],
+        [
+            [
+                "The flow of money from low-yielding investments to higher yielding investments "
+            ],
+            [
+                "Disintermediation"
+            ]
+        ],
+        [
+            [
+                "Impact of a weak dollar on U.S. exports"
+            ],
+            [
+                "Exports will rise"
+            ]
+        ],
+        [
+            [
+                "Impact of a weak dollar on U.S. imports"
+            ],
+            [
+                "Imports will fall"
+            ]
+        ],
+        [
+            [
+                "Impact on balance of payments when U.S. exports exceed U.S. imports"
+            ],
+            [
+                "Surplus in the balance of payments"
+            ]
+        ],
+        [
+            [
+                "Impact on balance of payments when  foreign interest rates are higher than U.S. interest rates"
+            ],
+            [
+                "Deficit in the balance of payments "
+            ]
+        ],
+        [
+            [
+                "Uses charts and historic trading patterns to determine when to move in to and out of the markets"
+            ],
+            [
+                "Technical analysis"
+            ]
+        ],
+        [
+            [
+                "Bases investment decisions on broad-based market trends, and analysis of financial firm financial reports"
+            ],
+            [
+                "Fundamental analysis"
+            ]
+        ],
+        [
+            [
+                "Defensive, Cyclical or Growth Industry?  Food"
+            ],
+            [
+                "Defensive"
+            ]
+        ],
+        [
+            [
+                "Defensive, Cyclical or Growth Industry?  Utilities"
+            ],
+            [
+                "Defensive"
+            ]
+        ],
+        [
+            [
+                "Defensive, Cyclical or Growth Industry? Steel"
+            ],
+            [
+                "Cyclical"
+            ]
+        ],
+        [
+            [
+                "Defensive, Cyclical or Growth Industry? Automobile"
+            ],
+            [
+                "Cyclical"
+            ]
+        ],
+        [
+            [
+                "Defensive, Cyclical or Growth Industry? Technology"
+            ],
+            [
+                "Growth"
+            ]
+        ],
+        [
+            [
+                "Basic balance sheet equation"
+            ],
+            [
+                "Assets - Liabilities = Net Worth"
+            ]
+        ],
+        [
+            [
+                "Financial statement that summarizes revenues and expenses"
+            ],
+            [
+                "Income statement "
+            ]
+        ],
+        [
+            [
+                "Features charting and market timing"
+            ],
+            [
+                "Technical analysis"
+            ]
+        ],
+        [
+            [
+                "Predicts company performance based on financial statements and overall economic health"
+            ],
+            [
+                "Fundamental analysis"
+            ]
+        ],
+        [
+            [
+                "Characterized by falling stock markets, rising inventories, declining GDP"
+            ],
+            [
+                "Contraction"
+            ]
+        ],
+        [
+            [
+                "Characterized by low unemployment , increased business activities"
+            ],
+            [
+                "Expansion"
+            ]
+        ],
+        [
+            [
+                "Requires registration of new issues; regulates primary market activity"
+            ],
+            [
+                "Securities Act of 1933"
+            ]
+        ],
+        [
+            [
+                "Regulates secondary market activity; requires registration of broker-dealers"
+            ],
+            [
+                "Securities Exchange Act of 1934"
+            ]
+        ],
+        [
+            [
+                "Created the SEC "
+            ],
+            [
+                "Securities Exchange Act of 1934"
+            ]
+        ],
+        [
+            [
+                "Requires corporate bond issuers to appoint trustees to protect the interests of bondholders"
+            ],
+            [
+                "Trust Indenture Act of 1939"
+            ]
+        ],
+        [
+            [
+                "Amends the Act of 1934 and specifies penalties for the use of non-public material information"
+            ],
+            [
+                "Insider Trading and Fraud Enforcement Act of 1988"
+            ]
+        ],
+        [
+            [
+                "Defines registration of securities at state levels"
+            ],
+            [
+                "Uniform Securities Act"
+            ]
+        ],
+        [
+            [
+                "Authorizes the regulation of credit to the Federal Reserve Board"
+            ],
+            [
+                "Securities Act of 1934"
+            ]
+        ],
+        [
+            [
+                "Prohibited the use of inside information in trading activity"
+            ],
+            [
+                "Securities Act of 1934"
+            ]
+        ],
+        [
+            [
+                "Regulates the exchanges and over-the-counter market"
+            ],
+            [
+                "Securities Act of 1934"
+            ]
+        ],
+        [
+            [
+                "Exempts U.S. government securities from registration requirements"
+            ],
+            [
+                "Securities Act of 1933"
+            ]
+        ],
+        [
+            [
+                "Requires the delivery of prospectuses for full and fair disclosure"
+            ],
+            [
+                "Securities Act of 1933"
+            ]
+        ],
+        [
+            [
+                "Prohibits fraudulent activity in underwriting and distributing new securities"
+            ],
+            [
+                "Securities Act of 1933"
+            ]
+        ],
+        [
+            [
+                "Three characteristics of bonds subject to provisions of Trust Indenture Act of 1939"
+            ],
+            [
+                "Issued by corporations, size over $5 million in a 12 month period, maturity of 9 months or more"
+            ]
+        ],
+        [
+            [
+                "The barrier that must be established between departments to prevent a free flow of sensitive information"
+            ],
+            [
+                "Firewall (Information barrier, Chinese Wall)"
+            ]
+        ],
+        [
+            [
+                "Civil penalties for violation of the Insider Trading and Securities Fraud Enforcement Act of 1988"
+            ],
+            [
+                "300% of profits made or losses avoided"
+            ]
+        ],
+        [
+            [
+                "Minimum length of the cooling off period during the registration process"
+            ],
+            [
+                "20 days"
+            ]
+        ],
+        [
+            [
+                "Disclosure document used to gather indications of interest during the cooling off period"
+            ],
+            [
+                "Preliminary prospectus (red herring)"
+            ]
+        ],
+        [
+            [
+                "The day that the SEC releases a new issue for sale"
+            ],
+            [
+                "Effective date"
+            ]
+        ],
+        [
+            [
+                "Securities that are exempt from the filing requirements of the Act of 1933"
+            ],
+            [
+                "U.S. government, municipal bonds, fixed insurance products, national and state bank securities, non-profit securities, commercial paper and bankers acceptances with maturity of less than 270 days"
+            ]
+        ],
+        [
+            [
+                "Exemption from registration requirements for corporate offerings of less than $5 million in a 12 month period"
+            ],
+            [
+                "Regulation A"
+            ]
+        ],
+        [
+            [
+                "Also known as a private placement exemption"
+            ],
+            [
+                "Regulation D"
+            ]
+        ],
+        [
+            [
+                "Exemption from registration requirements for securities that are sold only within a state"
+            ],
+            [
+                "Rule 147 (Intrastate offering)"
+            ]
+        ],
+        [
+            [
+                "The disclosure document that must be provided to investors in a Reg A offering"
+            ],
+            [
+                "Offering circular"
+            ]
+        ],
+        [
+            [
+                "The maximum number of accredited investors that can participate in a Reg D offering"
+            ],
+            [
+                "Unlimited"
+            ]
+        ],
+        [
+            [
+                "The maximum number of nonaccredited investors that can participate in a Reg D offering"
+            ],
+            [
+                "35 "
+            ]
+        ],
+        [
+            [
+                "The net worth and income criteria for an accredited investor under Regulation D "
+            ],
+            [
+                "Net worth of $1,000,000 (exclusive of residence) and annual income of $200,000 or more ($300,000 jointly with spouse) in each of the two most recent years"
+            ]
+        ],
+        [
+            [
+                "Regulates the sale of control and restricted securities"
+            ],
+            [
+                "Rule 144"
+            ]
+        ],
+        [
+            [
+                "Addresses the sale of nonregistered foreign and domestic securities to institutional investors"
+            ],
+            [
+                "Rule 144A"
+            ]
+        ],
+        [
+            [
+                "Holding period required before restricted securities can be sold"
+            ],
+            [
+                "6 months"
+            ]
+        ],
+        [
+            [
+                "Length of time a Form 144 filing covers"
+            ],
+            [
+                "90 days"
+            ]
+        ],
+        [
+            [
+                "When a Form 144 must be filed"
+            ],
+            [
+                "Concurrent with the sale"
+            ]
+        ],
+        [
+            [
+                "Addresses reclassifications, mergers or consolidations, and transfers of company assets"
+            ],
+            [
+                "Rule 145"
+            ]
+        ],
+        [
+            [
+                "The amount of control securities that can be sold in a 90-day period under Rule 144"
+            ],
+            [
+                "Greater of 1% of the total outstanding shares, or the average weekly trading volume of the preceding four weeks"
+            ]
+        ],
+        [
+            [
+                "Securities owned by directors, officers, or persons who own or control 10% or more of an issuer's voting stock"
+            ],
+            [
+                "Control stock"
+            ]
+        ],
+        [
+            [
+                "When Rule 144 volume limits no longer apply to unaffiliated investors"
+            ],
+            [
+                "After 6 months"
+            ]
+        ],
+        [
+            [
+                "Type of restriction that applies to sellers of control stock under Rule 144"
+            ],
+            [
+                "Volume limits "
+            ]
+        ],
+        [
+            [
+                "Provision of Act of 1933 and 1934 Securities Acts that applies to all securities, including those that are exempt from registration"
+            ],
+            [
+                "Antifraud"
+            ]
+        ],
+        [
+            [
+                "Eligible for purchase of nonregistered foreign and domestic securities under Rule 144A"
+            ],
+            [
+                "Qualified Institutional Buyers (QIBs)"
+            ]
+        ],
+        [
+            [
+                "When securities registered under Rule 147 may be sold to a non-state resident"
+            ],
+            [
+                "After 6 months"
+            ]
+        ],
+        [
+            [
+                "Purpose of a Schedule 13D"
+            ],
+            [
+                "A 13D is filed when an investor becomes a 5% beneficial shareholder"
+            ]
+        ],
+        [
+            [
+                "Filing deadline for a Schedule 13D"
+            ],
+            [
+                "Within 10 business days of the acquisition with the issuer, exchange and the SEC."
+            ]
+        ],
+        [
+            [
+                "Purpose of a Schedule 13G"
+            ],
+            [
+                "A 13G is filed when an investor becomes a 5% beneficial shareholder on a passive basis."
+            ]
+        ],
+        [
+            [
+                "Filing deadline for a Schedule 13G"
+            ],
+            [
+                "Within 45 days of calendar year end."
+            ]
+        ],
+        [
+            [
+                "Purpose of a Schedule 13F"
+            ],
+            [
+                "A 13F is a quarterly filing by Institutional Investment Managers to disclose long equity positions"
+            ]
+        ],
+        [
+            [
+                "Filing deadline for a Schedule 13F"
+            ],
+            [
+                "Within 45 days of quarter end."
+            ]
+        ],
+        [
+            [
+                "Subchapter C Corporation"
+            ],
+            [
+                "Does not pass through gains and loses, can have an unlimited number of shareholders (including institutions)."
+            ]
+        ],
+        [
+            [
+                "Subchapter S Corporation"
+            ],
+            [
+                "Passes through all gains and losses to investors, can have a maximum of 100 shareholders (no institutional shareholders)."
+            ]
+        ],
+        [
+            [
+                "Total return"
+            ],
+            [
+                " (Income + Dividends + Capital Appreciation) /(Initial purchase price)"
+            ]
+        ],
+        [
+            [
+                "Inflation-Adjusted Return (AKA Real Return) "
+            ],
+            [
+                "Nominal return - inflation rate"
+            ]
+        ],
+        [
+            [
+                "After-Tax Return"
+            ],
+            [
+                "Investment return x (1 - tax bracket)"
+            ]
+        ],
+        [
+            [
+                "Future value"
+            ],
+            [
+                "What funds invested today at a given rate will be worth at some point in the future."
+            ]
+        ],
+        [
+            [
+                "Present value"
+            ],
+            [
+                "The value today of a future cash flow discounted at a specified interest rate. "
+            ]
+        ],
+        [
+            [
+                "Beta"
+            ],
+            [
+                "A measure of a stock's or portfolio's volatility in relation to the overall market.  A beta of greater than 1 indicates a stock or portfolio will be more volatile the overall market, a beta of less than one will be less volatile."
+            ]
+        ],
+        [
+            [
+                "Monte Carlo simulation"
+            ],
+            [
+                "A statistical method to determine the return profile of a portfolio."
+            ]
+        ],
+        [
+            [
+                "R-squared"
+            ],
+            [
+                "A statistical measure indicating what percentage of a portfolio's performance can be tied to a standard benchmark (e.g. S&amp;P 500)."
+            ]
+        ],
+        [
+            [
+                "Sharpe ratio"
+            ],
+            [
+                "A measure of a portfolio's risk in comparison to its expected return.  It is the portfolio's average return in excess of the risk-free rate divided by the standard deviation of the portfolio.  The higher this ratio, the more attractive the investment."
+            ]
+        ],
+        [
+            [
+                "Systematic risk"
+            ],
+            [
+                "The risk of an investment that is associated with macroeconomic factors that affect all assets."
+            ]
+        ],
+        [
+            [
+                "Unsystematic risk"
+            ],
+            [
+                "The risk associated with a specific investment, this can be diversified away."
+            ]
+        ],
+        [
+            [
+                "Modern portfolio theory"
+            ],
+            [
+                "An approach to investing that evaluated the total portfolio's risk and reward profile as opposed to those of individual securities. This approach identifies diversification as the best way to achieve risk-adjusted returns."
+            ]
+        ],
+        [
+            [
+                "Alpha"
+            ],
+            [
+                "The risk-adjusted returns in a portfolio in excess of the returns expected by the capital asset pricing model (CAPM)."
+            ]
+        ],
+        [
+            [
+                "Capital needs analysis"
+            ],
+            [
+                "A technique used to determine how much life insurance an individual needs.  It considers; mortgages and other debts, continuing income for survivors, college tuition, and potentially estate taxes"
+            ]
+        ],
+        [
+            [
+                "Child support"
+            ],
+            [
+                "Payments to support a child following a divorce.  This is not deductible to the payer and is not treated as income to the recipient guardian."
+            ]
+        ],
+        [
+            [
+                "Alimony"
+            ],
+            [
+                "Payments to an ex-spouse. This is non-deductible to the payer and is not treated as income to the recipient. This is a recent change under the 2017 Tax Cuts and Jobs Act."
+            ]
+        ],
+        [
+            [
+                "If two securities typically move up and down by the same amount, what is there correlation coefficient?"
+            ],
+            [
+                "1"
+            ]
+        ],
+        [
+            [
+                "An efficient portfolio is one that offers"
+            ],
+            [
+                "The most return for a given amount of risk"
+            ]
+        ],
+        [
+            [
+                "Given that the risk premium on the market is 14%, and the beta on an asset is 0, the risk premium on the asset would be"
+            ],
+            [
+                "0%",
+                "A beta of 0 on the asset signifies that it has no systematic risk. A riskless asset will not have a risk premium."
+            ]
+        ],
+        [
+            [
+                "In a perfectly efficient market what type of investment strategy would be most efficient?"
+            ],
+            [
+                "Passive strategy"
+            ]
+        ],
+        [
+            [
+                "If an investor includes investments with a negative correlation in their portfolio, what impact would this have on diversification?"
+            ],
+            [
+                "Increase",
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "What type of risk can an investor not avoid by having a diverse portfolio?"
+            ],
+            [
+                "systematic risk",
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "The correlation coefficient has values between"
+            ],
+            [
+                "\u00a0 -1 and 1",
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "Beta is a standardized measure of:"
+            ],
+            [
+                "systematic risk",
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "If a portfolio is below the efficient frontier, that indicates"
+            ],
+            [
+                "it is taking on too much risk for too little return",
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "Individuals with near-term, high-priority goals should select:"
+            ],
+            [
+                "low risk, short-term investments",
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "The efficient frontier represents"
+            ],
+            [
+                "the set of portfolios that has the maximum rate of return for every given risk level, and the minimum risk for every level of return."
+            ]
+        ],
+        [
+            [
+                "A higher Sharpe ratio implies:"
+            ],
+            [
+                "Greater Risk-Adjusted Performance",
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "The weak form efficient market hypothesis (EMH) implies that:"
+            ],
+            [
+                "security prices reflect all currently available market data",
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "The assumption that stock prices fully reflect all information, including public and private information, describes which market theory?"
+            ],
+            [
+                "strong-form efficient market hypothesis (EMH)",
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "The semi-strong form of the efficient market hypothesis (EMH) assumes that"
+            ],
+            [
+                "security prices fully reflect all publicly available information",
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "A higher standard deviation for an investment indicates"
+            ],
+            [
+                "greater volatility of returns compared to the expected average return"
+            ]
+        ],
+        [
+            [
+                "Two securities whose price movements are completely unrelated to each other would have a correlation coefficient of"
+            ],
+            [
+                "0",
+                "+1 = Perfect positive correlation",
+                "-1 = Perfect negative correlation",
+                "0 = Statistically uncorrelated"
+            ]
+        ],
+        [
+            [
+                "Assuming an investment of $10,000 and 5% interest, how long will it take for the money to double?"
+            ],
+            [
+                "72/5 = 14.4 years"
+            ]
+        ],
+        [
+            [
+                "For an investment to be acceptable, how would its internal rate of return compare to its cost of capital?",
+                "\u00a0",
+                "\u00a0"
+            ],
+            [
+                "exceed"
+            ]
+        ],
+        [
+            [
+                "When NPV is positive, a project's return is expected to be"
+            ],
+            [
+                "positive",
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "When NPV is negative, a project's return is expected to be"
+            ],
+            [
+                "negative"
+            ]
+        ],
+        [
+            [
+                "The difference between an investment's present value and its cost is"
+            ],
+            [
+                "Net present value (NPV)",
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "If a hedge fund's return exceeds that implied by beta relationship, it is attributed to the value added by the hedge fund manager. This excess value is also known as"
+            ],
+            [
+                "Alpha"
+            ]
+        ],
+        [
+            [
+                "An investment manager's portfolio returned 13% over the past year. The market returned 7% and the portfolios beta is 1.3. What alpha did the fund produce?"
+            ],
+            [
+                "3.9",
+                "\u00a0",
+                "13% - (1.3 x 7%) = 3.9"
+            ]
+        ],
+        [
+            [
+                "What are the three components of the Sharpe ratio?"
+            ],
+            [
+                "Standard deviation, risk-free rate, actual return",
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "What metric is used to measure the risk-adjusted performance of a fund, taking into account the volatility of the returns generated?"
+            ],
+            [
+                "Sharpe ratio"
+            ]
+        ],
+        [
+            [
+                "A portfolio manager purchased $1,000,000 of TIPS at auction, which pay an annual coupon of 5%. Assuming that the semi-annual CPI is 2%. What is the first semi-annual coupon payment?"
+            ],
+            [
+                "$25,500",
+                "New principal after 6 months =\u00a0 $1,000,000 x (1 +2%) = $1,020,000",
+                "1st semi-annual coupon = 2.5% of $1,020,000 = $25,500",
+                "\u00a0",
+                "\u00a0"
+            ]
+        ]
+    ],
+    "photoelectric": [
+        [
+            [
+                "\nWhat did Heinrich Hertz find when he discovered how to produce and detect radio waves?\n"
+            ],
+            [
+                "\nThe sparks produced in his spark gap detector when radio waves were being transmitted were stronger when ultraviolet radiation was direacted at the spark gapEffect known as photoelectric effect\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat observations were made about the photoelectric effect after Hertz's discovery:\n"
+            ],
+            [
+                "\n1. Photoelectric emission of electrons from metal surface does not take place if frequency of incident electromagnetic radiation is below certain value (threshold frequency). Min. frequency depends on type of metal. Wavelength of incident light therefore less than max. value equal to speed of light divided by threshold frequency2. Number of electrons emitted per second is proportional to intensity of incident radiation provided that frequency is greater than the threshold frequency. If frequency of incident radiation is less than threshold frequency, no photoelectric emission from that metal surface can take place no matter how intense incident radiation is3. Photoelectric emission occurs without delay as soon as the incident radiation is directed at surface, provided frequency of radiation exceeds the threshold frequency and regardless of intensity\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat can the wave theory of light not explain\n"
+            ],
+            [
+                "\nEither the existence of a threshold of frequency of why photoelectric emission occurs without delay.According to wave theory, each conduction electron at surface of metal should gain some energy from incoming waves regardless of how many waves arrive at each second\n"
+            ]
+        ],
+        [
+            [
+                "\nWho put forward the photon theory of light\n"
+            ],
+            [
+                "\nEinstein in 1905\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat did Einstein assume with the photon theory of light\n"
+            ],
+            [
+                "\nThat light is composed of wavepackets or photons, each of energy equal to hf where f is the frequency of the light and h is the Planck constant.\n"
+            ]
+        ],
+        [
+            [
+                "\nEnergy of a photon =\n"
+            ],
+            [
+                "\nhfWhere h is the Planck constant and f is frequency\n"
+            ]
+        ],
+        [
+            [
+                "\nFor electromagnetic waves of wavelength \u03bb , energy of a photon E =\n"
+            ],
+            [
+                "\nE = hf = hc / \u03bb Where c is the speed of the electromagnetic waves\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat did Einstein say to explain the photoelectric effect\n"
+            ],
+            [
+                "\nWhen light is incident on a metal surface, an electron at surface absorbs a single photon from the incident light and therefore gains energy equal to hf where hf is the energy of a light photonAn electron can leave the metal surface if the energy gained from single photon exceeds work function \u03c6 of the metal\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the work function of a metal\n"
+            ],
+            [
+                "\nSymbol \u03c6The minimum energy needed by an electron to escape from the metal surface.Excess energy gained by the photoelectron becomes its kinetic energy\n"
+            ]
+        ],
+        [
+            [
+                "\nThe max. kinetic energy of an emitted electron is:\n"
+            ],
+            [
+                "\nEkmax = hf-\u03c6Rearranging this equation gives:hf = Ekmax + \u03c6\n"
+            ]
+        ],
+        [
+            [
+                "\nEmission can take place from a metal surface provided that...\n"
+            ],
+            [
+                "\nEkmax>0 or hf >\u03c6, so the threshold frequency of the metal is fmin=\u03c6/h\n"
+            ]
+        ],
+        [
+            [
+                "\nHow can the electrons that escape from a metal plate be attracted back to it\n"
+            ],
+            [
+                "\nBy giving the plate a sufficient positive charge.\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the stopping potential Vs\n"
+            ],
+            [
+                "\nThe minimum potential needed to stop photoelectric emission At this potential, the max. kinetic energy of the emitted electron is reduced to zero because each emitted electron must do extra work equal to e*Vs.\n"
+            ]
+        ],
+        [
+            [
+                "\nWho gathered conclusive experimental evidence for Einstein's photon theory\n"
+            ],
+            [
+                "\nRobert Millikan\n"
+            ]
+        ],
+        [
+            [
+                "\nHow did Robert Millikan gather conclusive experimental evidence for Einstein's photon theory\n"
+            ],
+            [
+                "\nMeasured the stopping potential for a range of metals using light of different frequencies. His results fitted Einstein's photoelectric equation very closely.The results were checked and it was accepted that light consists of photons\n"
+            ]
+        ]
+    ],
+    "more about photoelectricity": [
+        [
+            [
+                "\nWho suggested that the energy of each vibrating atom is quantise (only certain levels of energy are allowed)\n"
+            ],
+            [
+                "\nA physicist called Max Plank\n"
+            ]
+        ],
+        [
+            [
+                "\nMotion of the conduction electrons in a metal\n"
+            ],
+            [
+                "\nMove at random.\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does the average kinetic energy of a conduction electron depend on \n"
+            ],
+            [
+                "\nThe temperature of the metal\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the work function of a metal\n"
+            ],
+            [
+                "\nThe minimum energy needed by a conduction electron to escape from the metal surface when the metal is at zero potential\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens when a conduction electron absorbs a photon\n"
+            ],
+            [
+                "\nIts kinetic energy increases by an amount equal to the energy of the photon\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens if the energy of the photon exceeds the work function of the metal\n"
+            ],
+            [
+                "\nThe conduction electron can leave the metalIf the electron does not leave the metal, it collides repeatedly with other electrons and positive ions and it quickly loses its extra kinetic energy\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is a vacuum photocell\n"
+            ],
+            [
+                "\nA glass tube that contains a metal plate, referred to as the photocathode and a smaller metal electrode referred to as the anode\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens when light of a frequency greater than the threshold frequency for the metal is directed at the photocathode\n"
+            ],
+            [
+                "\nElectrons are emitted from the cathode and are attracted to the anodeMicroammeter in circuit can be used to measure the photoelectric current\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the photoelectric current proportional to\n"
+            ],
+            [
+                "\nThe number of electrons per second that transfer from the cathode to the anodeThe intensity of th e light incident on the cathode\n"
+            ]
+        ],
+        [
+            [
+                "\nFor a photoelectric current I, the number of photoelectrons per second that transfer from the cathode to the anode =\n"
+            ],
+            [
+                "\nI/e Where e is the charge of the electron\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the light intensity a measure of\n"
+            ],
+            [
+                "\nThe energy per second carried by the incident light which is proportional to the number of photons per second incident on the cathode.\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy is the light intensity proportional to the number of photons per second incident on the cathode\n"
+            ],
+            [
+                "\nBecause each photoelectron must have absorbed one photon to escape from the metal surface, the number of photoelectrons emitted per second is therefore proportional to the intensity of the incident light.\n"
+            ]
+        ],
+        [
+            [
+                "\nThe intensity of the incident light ______ ______ affect the maximum kinetic energy of a photoelectron. No matter how intense the incident light is, the energy gained by a photoelectron is due to the ______ of one photon ______. Therefore, the maximum kinetic energy of a photoelectron is still given by ______\n"
+            ],
+            [
+                "\nDoes NOTAbsorptionONLYEkmax = hf - \u03c6\n"
+            ]
+        ],
+        [
+            [
+                "\nThe maximum kinetic energy of the photoelectrons emitted for a given frequency of light is can be measured using a...\n"
+            ],
+            [
+                "\n...photocell\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the x intercept of a graph of EKmax against f\n"
+            ],
+            [
+                "\nEqual to the threshold frequency\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the y intercept in a graph of EKmax against f\n"
+            ],
+            [
+                "\n-\u03c6\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does the graph of EKmax against f look like\n"
+            ],
+            [
+                "\nA straight line in the form y=mx+c\n"
+            ]
+        ]
+    ],
+    "electrons collision": [
+        [
+            [
+                "\nWhat is an ion\n"
+            ],
+            [
+                "\nA charged atom\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is special about ions\n"
+            ],
+            [
+                "\nThe number of electrons is not equal to the number of protons\n"
+            ]
+        ],
+        [
+            [
+                "\nHow is an ion formed\n"
+            ],
+            [
+                "\nWhen adding or removing electrons from an uncharged atom\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens if electrons are added to an atom\n"
+            ],
+            [
+                "\nIt becomes a negative ion\n"
+            ]
+        ],
+        [
+            [
+                "\nAny process of creating ions is called ______.\n"
+            ],
+            [
+                "\nIonisation\n"
+            ]
+        ],
+        [
+            [
+                "\nAlpha, beta and gamma radiation create ions when they pass through ______ and ______ with the atoms of the substance.\n"
+            ],
+            [
+                "\nSubstancesCollide\n"
+            ]
+        ],
+        [
+            [
+                "\nElectrons passing through a ______ tube create ions when they ______ with the atoms of the gas or vapour in the tube.\n"
+            ],
+            [
+                "\nFluorescentCollide\n"
+            ]
+        ],
+        [
+            [
+                "\nHow can we measure the energy needed to ionise a gas atom\n"
+            ],
+            [
+                "\nBy making electrons collide at increasing speed with the gas atoms in a sealed tubeThe electrons are emitted from heated filament in tube and are attracted to a positive metal plate (anode) at other end of tube\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat conditions are necessary to measure the energy needed to ionise a gas atom\n"
+            ],
+            [
+                "\nGas must be at a sufficiently low pressure otherwise there are too many atoms in tube and electrons cannot reach the anodePotential difference between anode and filament is increased to increase speed of electronsIonisation near anode causes much greater current to pass through ammeterBy measuring pd when current starts to increase, we can calculate ionisation energy of gas atom as this is equal to work done on each electron from filament\n"
+            ]
+        ],
+        [
+            [
+                "\nThe work done on each electron from the filament is given by its...\n"
+            ],
+            [
+                "\ncharge e * the tube potential difference V\n"
+            ]
+        ],
+        [
+            [
+                "\nThe ionisation energy of a gas atom =\n"
+            ],
+            [
+                "\neV\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the electron volt\n"
+            ],
+            [
+                "\nA unit of energy equal to the work done when an electron is moved through a pd of 1V\n"
+            ]
+        ],
+        [
+            [
+                "\nFor a charge q moved through a pd V, the work done =\n"
+            ],
+            [
+                "\nqV\n"
+            ]
+        ],
+        [
+            [
+                "\nThe work done when an electron moved through a potential difference of 1V is equal to...\n"
+            ],
+            [
+                "\n1.6*10^-19 JThis amount of energy is defined as 1 eV (electron volt)\n"
+            ]
+        ],
+        [
+            [
+                "\nThe work done on an electron when it moves through a potential difference of 1000V is...\n"
+            ],
+            [
+                "\n1000eV\n"
+            ]
+        ],
+        [
+            [
+                "\nThe work done on an ion of charge +2e when it moves through a potential difference of 10V is...\n"
+            ],
+            [
+                "\n20eV\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the process of excitation\n"
+            ],
+            [
+                "\nThe process of gas atoms being able to absorb energy from colliding electrons without being ionisedHappens at certain energies which are characteristic of the atoms of the gas\n"
+            ]
+        ],
+        [
+            [
+                "\nIf a ______ electron does not have enough kinetic energy to cause ______, it is deflected by the ______, with no overall loss of kinetic energy.\n"
+            ],
+            [
+                "\nCollidingExcitationAtom\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat are an atom's excitation energies\n"
+            ],
+            [
+                "\nThe energy values at which an atom absorbs energy\n"
+            ]
+        ],
+        [
+            [
+                "\nHow can we determine the excitation energies of atoms in a gas-filled tube\n"
+            ],
+            [
+                "\nBy increasing the potential difference between the filament and the anode and measuring the pd when the anode current falls\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen excitation occurs, the ______ ______ makes an electron inside the atom ______ ______ from the nucleus of the atom. The excitation energy is always ______ than the ______ energy of the atom as the atomic electron is not removed completely from the atom when excitation occurs.\n"
+            ],
+            [
+                "\nColliding electronMove awayLessIonisation \n"
+            ]
+        ]
+    ],
+    "inside-atom": [
+        [
+            [
+                "\nWhat must we use to see images of atoms\n"
+            ],
+            [
+                "\nAn electron microscope\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat did Rutherford find from his alpha-scattering investigations?\n"
+            ],
+            [
+                "\nEvery atom contains:-A positively charged nucleus composed of protons and neutrons-Electrons that surround the nucleus\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat word is used to describe a proton or neutron in the nucleus?\n"
+            ],
+            [
+                "\nNucleon\n"
+            ]
+        ],
+        [
+            [
+                "\nHow are electrons held in the atom?\n"
+            ],
+            [
+                "\nElectrons have a negative charge while a nucleus has a positive charge meaning that they are held in place by electrostatic charges\n"
+            ]
+        ],
+        [
+            [
+                "\nCharge of proton (relative to proton)\n"
+            ],
+            [
+                "\n+1\n"
+            ]
+        ],
+        [
+            [
+                "\nCharge of neutron (relative to proton)\n"
+            ],
+            [
+                "\n0\n"
+            ]
+        ],
+        [
+            [
+                "\nCharge of electron (relative to proton)\n"
+            ],
+            [
+                "\n-1\n"
+            ]
+        ],
+        [
+            [
+                "\nMass of proton (relative to proton)\n"
+            ],
+            [
+                "\n1\n"
+            ]
+        ],
+        [
+            [
+                "\nMass of neutron (relative to proton)\n"
+            ],
+            [
+                "\n1\n"
+            ]
+        ],
+        [
+            [
+                "\nMass of electron (relative to proton)\n"
+            ],
+            [
+                "\n0.0005\n"
+            ]
+        ],
+        [
+            [
+                "\nHow does an atom become an ion\n"
+            ],
+            [
+                "\nGains or loses electrons as atoms have no overall charge\n"
+            ]
+        ],
+        [
+            [
+                "\nEvery atom of a given element has the same number of protons...\n"
+            ],
+            [
+                "\n...as any other atom of the same element\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the proton (atomic) number?\n"
+            ],
+            [
+                "\nThe number of protons in the nucleus\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat are isotopes\n"
+            ],
+            [
+                "\nAtoms with the same number of protons and different numbers of neutrons\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the nucleon number/mass number\n"
+            ],
+            [
+                "\nThe total number of protons and neutrons in an atom\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is a nucleon\n"
+            ],
+            [
+                "\nA neutron or a proton in the nucleus\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is Z\n"
+            ],
+            [
+                "\nThe number of protons, written at the bottom left of the element symbol\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is A\n"
+            ],
+            [
+                "\nGives the number of protons and neutrons in the nucleus, written at the top left of the element symbol\n"
+            ]
+        ],
+        [
+            [
+                "\nHow to find the number of neutrons in the nucleus\n"
+            ],
+            [
+                "\nA-Z\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is a nuclide\n"
+            ],
+            [
+                "\nEach type of nucleus\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the specific charge of a charged particle\n"
+            ],
+            [
+                "\nDefined as its charge divided by its mass\n"
+            ]
+        ],
+        [
+            [
+                "\nHow can we calculate the specific charge of a charged particle\n"
+            ],
+            [
+                "\nIf we know the charge and mass of the particle\n"
+            ]
+        ]
+    ],
+    "stable and unstable": [
+        [
+            [
+                "\nA stable isotope has nuclei that do not...\n"
+            ],
+            [
+                "\n...disintegrate so there must be a force holding them together\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the force that keeps a nuclei from disintegrating\n"
+            ],
+            [
+                "\nStrong nuclear forceAs it overcomes the electrostatic force of repulsion between the protons in the nucleus and keeps the protons and neutrons together\n"
+            ]
+        ],
+        [
+            [
+                "\nImportant things to note about the strong nuclear force:\n"
+            ],
+            [
+                "\nRange is no more than 3-4 femtometres whereas electrostatic force between 2 charged particles has infinite rangeHas the same effect between two protons as it does between two neutrons or a proton and a neutronIt is an attractive force from 3-4 fm down to 0.5 fm. At separations smaller than this, it is a repulsive force that acts to prevent neutrons and protons being pushed into each other\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat are the types of radiation\n"
+            ],
+            [
+                "\nAlphaBetaGamma\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does alpha radiation consist of \n"
+            ],
+            [
+                "\nAlpha particles which each comprise two protons and two neutrons\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the symbol of alpha radiation\n"
+            ],
+            [
+                "\n4   \u03b12\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens to an unstable nucleus of an element when it emits an alpha particle\n"
+            ],
+            [
+                "\nNucleon number A decreases by 4 and atomic number Z decreases by 2\n"
+            ]
+        ],
+        [
+            [
+                "\nEquation of alpha radiation\n"
+            ],
+            [
+                "\nA               A-4           4    X    -->          Y   +     \u03b1 Z               Z-2           2\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does beta radiation consist of\n"
+            ],
+            [
+                "\nFast moving electrons\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the symbol for an electron as a beta particle\n"
+            ],
+            [
+                "\n\u03b2-   or0   \u03b2-1\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy does beta decay happen\n"
+            ],
+            [
+                "\nAs a result of a neutron in the nucleus changing into a protonBeta particle is created when the change happens and is emitted instantly.Antiparticle with no charge is emitted (called an antineutrinoHappens to neuclei with too many neutrons, atomic number increases by 1\n"
+            ]
+        ],
+        [
+            [
+                "\nEquation for beta radiation\n"
+            ],
+            [
+                "\nA              A             0            _    X  -->        Y   +        \u03b2   +   VZ             Z+1           -1\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is gamma radiation\n"
+            ],
+            [
+                "\nElectromagnetic radiation emitted by an unstable nucleusCan pass through thick metal platesHas no mass and no charge, is emitted by a nucleus with too much energy following an alpha or beta emission\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen the energy spectrum of beta particles was first measured, what did they find\n"
+            ],
+            [
+                "\nThat the beta particles were released with kinetic energies up to maximum that depended on isotope\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat are neutrinos and antineutrinos\n"
+            ],
+            [
+                "\nMystery particles that carry some energy awayWas unproven for over 20 years until they were detected\n"
+            ]
+        ],
+        [
+            [
+                "\nHow were antineutrinos detected\n"
+            ],
+            [
+                "\nAs a result of their interaction with cadmium nuclei in a large tank of waterInstalled next to a nuclear reactor as a controllable source of these very elusive particles\n"
+            ]
+        ]
+    ],
+    "photons": [
+        [
+            [
+                "\nWhat is light a part of \n"
+            ],
+            [
+                "\nThe spectrum of electromagnetic waves\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the speed of light\n"
+            ],
+            [
+                "\n3.00 * 10^8 ms^-1\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat form of radiation do all objects emit\n"
+            ],
+            [
+                "\nInfrared\n"
+            ]
+        ],
+        [
+            [
+                "\nIn what circumstance do all electromagnetic waves at the same speed (speed of light)\n"
+            ],
+            [
+                "\nIn a vacuum\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the wavelength of electromagnetic radiation given by\n"
+            ],
+            [
+                "\n\u03bb = c/f\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat units are often used to express light wavelengths\n"
+            ],
+            [
+                "\nNanometres nmWhere 1nm = 10^-9m\n"
+            ]
+        ],
+        [
+            [
+                "\nAn electromagnetic wave consists of an electric wave and a magnetic wave which travel together and vibrate...\n"
+            ],
+            [
+                "\n...perpendicular to each other and to the direction in which they are travellingIn phase with each other. They reach a peak together so they are in phase\n"
+            ]
+        ],
+        [
+            [
+                "\nElectromagnetic waves are emitted by a charged particle when it...\n"
+            ],
+            [
+                "\n...loses energy\n"
+            ]
+        ],
+        [
+            [
+                "\nElectromagnetic waves are emitted by a charged particle when it loses energy. This can happen when:\n"
+            ],
+            [
+                "\nA fast-moving electron is stopped (for example in an X-ray tube) or slows down or changes directionAn electron in a shell of an atom moves to a different shell of lower energy\n"
+            ]
+        ],
+        [
+            [
+                "\nElectromagnetic waves are emitted as ______ ______ of ______ , each leaving the source in a different ______. Each ______ is a packet of electromagnetic waves and is referred to as a ______.\n"
+            ],
+            [
+                "\nShort BurstsWavesDirectionBurstPhoton\n"
+            ]
+        ],
+        [
+            [
+                "\nWho developed the photon theory\n"
+            ],
+            [
+                "\nEinstein in 1905\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the photoelectric effect\n"
+            ],
+            [
+                "\nThe emission of electrons from a metal surface when light is directed at the surface\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat did Einstein imagine photons to be like\n"
+            ],
+            [
+                "\nFlying needles\n"
+            ]
+        ],
+        [
+            [
+                "\nPhoton energy equation\n"
+            ],
+            [
+                "\nE =  hfWhere E is the photon energyh is the Planck constant (6.63*10^-34 Js)\n"
+            ]
+        ],
+        [
+            [
+                "\nPhotons in a laser beam are of the same...\n"
+            ],
+            [
+                "\n...frequency\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the power of a laser beam\n"
+            ],
+            [
+                "\nThe energy per second transferred by the photons\n"
+            ]
+        ],
+        [
+            [
+                "\nFor a beam consisting of photons of frequency f,\n"
+            ],
+            [
+                "\nThe power of the beam = nhfWhere n is the number of photons in the beam passing a fixed point each second\n"
+            ]
+        ]
+    ],
+    "particles and antiparticles": [
+        [
+            [
+                "\nWhat happens when antimatter and matter particles meet\n"
+            ],
+            [
+                "\nThey destroy each other and radiation is released\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is utilised for a PET scan\n"
+            ],
+            [
+                "\nThe effect of the antimatter and matter particles destroying each other and releasing radiation\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does the P in PET stand for\n"
+            ],
+            [
+                "\nPositronWhich is the antiparticle of the electron\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is a PET scan used for\n"
+            ],
+            [
+                "\nScanning the brain\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens when a PET scanner is used\n"
+            ],
+            [
+                "\nA positron-emitting isotope is administered to the patient and some of it reaches the brain via the blood system. Each positron emitted travels no further than a few millimetres before it meets an electron and they annihilate each other. Two gamma photons produced as a result are sensed by detectors linked to computers. An image is built\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen does positron emission take place\n"
+            ],
+            [
+                "\nWhen a proton changes into a neutron in an unstable nucleus with too many protons\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the symbol of a positron\n"
+            ],
+            [
+                "\n0    \u03b2+1\n"
+            ]
+        ],
+        [
+            [
+                "\nPositron emission equation\n"
+            ],
+            [
+                "\nA            A           0    X  -->       Y  +      \u03b2  + vZ            Z-1         +1\n"
+            ]
+        ],
+        [
+            [
+                "\nDo positron-emitting isotopes occur naturally\n"
+            ],
+            [
+                "\nNoThey are manufactured by placing a stable isotope in liquid or solid form, in the path of a beam of protonsSome of nuclei in substance absorbs extra protons and become unstable positron-emitters\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen was antimatter predicted\n"
+            ],
+            [
+                "\n1928 by English physicist Paul Dirac\n"
+            ]
+        ],
+        [
+            [
+                "\nEquation showing the relationship between the energy supplied to the particle to its increase in mass.\n"
+            ],
+            [
+                "\nE = mc^2\n"
+            ]
+        ],
+        [
+            [
+                "\nEinstein said that the mass of a particle whe it is stationary (its rest mass m0), corresponds to...\n"
+            ],
+            [
+                "\n...rest energy m0c^2 locked up as mass\n"
+            ]
+        ],
+        [
+            [
+                "\nDirac's theory of antiparticles predicted that for every type of particle there is a corresponding antiparticle that:\n"
+            ],
+            [
+                "\nAnnihilates the particle and itself if they meet, converting their total mass into photonsHas exactly the same rest mass as the particleHas exactly opposite charge to the particle if the particle has charge\n"
+            ]
+        ],
+        [
+            [
+                "\nWho predicted the opposite process of pair production\n"
+            ],
+            [
+                "\nDirac\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the process of pair production\n"
+            ],
+            [
+                "\nIt was predicted that a photon with sufficient energy passing near a nucleus or an electron can suddenly change into a particle-antiparticle pair which would then separate from each other\n"
+            ]
+        ],
+        [
+            [
+                "\nHow is the energy of a particle or antiparticle often expressed\n"
+            ],
+            [
+                "\nIn millions of electron volts (MeV)Where 1 MeV = 1.60 * 10^-13J\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is 1MeV equal to\n"
+            ],
+            [
+                "\n1.60 * 10^-13J\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen does annihilation occur\n"
+            ],
+            [
+                "\nWhen a particle and a corresponding antiparticle meet and their mass is converted into radiation energy\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is produced in the process of annihilation\n"
+            ],
+            [
+                "\nTwo photons (as a single photon cannot ensure a total momentum of zero after the collision)\n"
+            ]
+        ],
+        [
+            [
+                "\nMinimum energy of each photon produced, hf min\n"
+            ],
+            [
+                "\n= E0Where E0 is the rest energy of the particle\n"
+            ]
+        ],
+        [
+            [
+                "\nIn pair production, a photon creates...\n"
+            ],
+            [
+                "\n\u2026 a particle and a corresponding antiparticle, and vanishes in the process \n"
+            ]
+        ],
+        [
+            [
+                "\nMinimum energy of photon needed =\n"
+            ],
+            [
+                "\nhf min = 2E0Eg. electron has rest energy of 0.511MeV Therefore for pair production of an electron and positron from a photon:Min energy of photon = 2 * 0.511 = 1.022 MeV = 1.64 *10^-13 JA photon with less energy could not therefore create a positron and electron\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen can a positron and electron be made\n"
+            ],
+            [
+                "\nIf a photon has more energy than the minimum energy of photon needed\n"
+            ]
+        ],
+        [
+            [
+                "\nHow can we see the path of alpha and beta particles\n"
+            ],
+            [
+                "\nUsing a cloud chamber\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is a cloud chamber\n"
+            ],
+            [
+                "\nA small transparent container containing air saturated with vapour and made very coldThe same conditions exist high in the atmosphere\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens in a cloud chamber\n"
+            ],
+            [
+                "\nIonising particles leave a visible trail of liquid droplets when they pass through the air - just like a jet plane does when it passes high overhead on a clear day.\n"
+            ]
+        ],
+        [
+            [
+                "\nPositive particles in a cloud chamber when there is a magnetic field applied\n"
+            ],
+            [
+                "\nA positive particle would be deflected by the magnetic field in the opposite direction to a negative particle travelling in the same directionThe slower it went, the more it would bend\n"
+            ]
+        ]
+    ],
+    "particle interaction": [
+        [
+            [
+                "\nHow can we measure forces\n"
+            ],
+            [
+                "\nBy using newtonmeters and force sensors\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat changes in an object when a single force acts on it\n"
+            ],
+            [
+                "\nChanges the momentum of the objectIt is its mass multiplied by its velocity\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens when two objects interact\n"
+            ],
+            [
+                "\nThey exert equal and opposite forces on each other\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens if two protons approach each other\n"
+            ],
+            [
+                "\nThey repel each other and move away from each other\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat did Richard Feynman work out about electromagnetic forces between two charged objects\n"
+            ],
+            [
+                "\nSaid it was due to the exchange of virtual photons\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat can be drawn to show the electromagnetic force between two protons\n"
+            ],
+            [
+                "\nA Feynman diagram\n"
+            ]
+        ],
+        [
+            [
+                "\nDo the lines in a Feynman diagram represent the paths of the particles\n"
+            ],
+            [
+                "\nNONONO\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat holds the neutrons and protons in a nucleus together\n"
+            ],
+            [
+                "\nThe strong nuclear force\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat force causes aw neutron to change into a proton in \u03b2- decay or a proton to change into a neutron in + decay\n"
+            ],
+            [
+                "\nThe weak nuclear forceMust be weaker than the strong nuclear force otherwise it would affect stable nuclei\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is formed in \u03b2+ and \u03b2- decay\n"
+            ],
+            [
+                "\nA new particle and new antiparticleNOT a corresponding particle-antiparticle pair, as one is an electron or a positron and the other is a neutrino or an antineutrino\n"
+            ]
+        ],
+        [
+            [
+                "\nDo neutrinos and antineutrinos interact with other particles\n"
+            ],
+            [
+                "\nHardly\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens when a neutrino interacts with a neutron\n"
+            ],
+            [
+                "\nMakes it change into a proton \u03b2- particle (electron) is created and emitted as a result of the change\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens when an antineutrino interacts with a proton\n"
+            ],
+            [
+                "\nMakes it change into a neutron\u03b2+ particle (a positron) is created and emitted as a result of the change\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat are the interactions between a neutrino and neutron, and antineutrino and proton due to\n"
+            ],
+            [
+                "\nThe exchange of particles called W bosons\n"
+            ]
+        ],
+        [
+            [
+                "\nW bosons:\n"
+            ],
+            [
+                "\nHave a non-zero rest massHave a very short range of no more than about 0.001 fmAre positively charged (W+ boson) or negatively charged (W- boson)\n"
+            ]
+        ],
+        [
+            [
+                "\nDiscovery of the W boson\n"
+            ],
+            [
+                "\nFirst detected directly in 1983 by scientists at CERNProtons and antiprotons at very high energies made to collide and annihilate each other. High energies, W bosons and photons produced\u03b2 particles from W boson decays detected exactly as predicted\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does the W- boson decay into\n"
+            ],
+            [
+                "\nA \u03b2- particle and an antineutrino\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does the W+ boson decay into\n"
+            ],
+            [
+                "\n\u03b2+ particle and a neutrino\n"
+            ]
+        ],
+        [
+            [
+                "\nSometimes a proton in a proton-rich nucleus turns into  a ______ as a result of interacting through the weak interaction with an ______-______ electron from outside the nucleus (______ ______).\n"
+            ],
+            [
+                "\nNeutronInner-shellElectron Capture\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy are the photon and W boson known as force carriers\n"
+            ],
+            [
+                "\nAs they are exchanged when the electromagnetic force and the weak nuclear force act respectively\n"
+            ]
+        ]
+    ],
+    "particle zoo": [
+        [
+            [
+                "\nWhat are cosmic rays\n"
+            ],
+            [
+                "\nHigh energy particles that travel through space from the stars including the Sun.\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens when cosmic rays enter the Earth's atmosphere\n"
+            ],
+            [
+                "\nThey create new short-lived particles and antiparticles as well as photons.\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat did most physicists think when cosmic rays were first discovered\n"
+            ],
+            [
+                "\nThat they were from terrestrial radioactive substances\n"
+            ]
+        ],
+        [
+            [
+                "\nNew types of short-lived particles and antiparticles were discovered:\n"
+            ],
+            [
+                "\nMuonPionKaon\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the muon\n"
+            ],
+            [
+                "\nSymbol \u03bcAlso known as a heavy electronA negatively charged particle with a rest mass over 200 times the rest mass of the electron\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is a pion\n"
+            ],
+            [
+                "\nAlso known as \u03c0 mesonCan be positively charged \u03c0 +Can be negatively charged \u03c0 -Can be neutral \u03c0 0Has rest mass greater than muon but less than proton\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is a kaon\n"
+            ],
+            [
+                "\nAlso known as K mesonCan be positively charged K+Can be negatively charged K-Can be neutral K0Has rest mass greater than pion but still less than proton\n"
+            ]
+        ],
+        [
+            [
+                "\nWho predicted the existence of exchange particles for the strong nuclear force between nucleons\n"
+            ],
+            [
+                "\nHideki YukawaCalled them mesons\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat did the cloud chamber photograph obtained by Carl Anderson show\n"
+            ],
+            [
+                "\nAn unusual track that could've been produced by an exchange particleThrough further experiments, particle shown to be a heavy electron (muon)\n"
+            ]
+        ],
+        [
+            [
+                "\nWho discovered Yukawa's meson\n"
+            ],
+            [
+                "\nBritish physicist Cecil PowellFrom tiny microscopic tracks found in photographic emulsion exposed to cosmic rays at high altitudeCalled them \u03c0 mesons or pionsYukawa's prediction was correct\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat did further cloud chamber photographs (less than a year after Powell's discovery) reveal\n"
+            ],
+            [
+                "\nThe existence of short-lived particles now known as kaons\n"
+            ]
+        ],
+        [
+            [
+                "\nHow do kaons decay\n"
+            ],
+            [
+                "\nVia the weak interactionTherefore were led to being called 'strange particles'\n"
+            ]
+        ],
+        [
+            [
+                "\nThe kinetic energy of the protons is converted into mass in the creation of...\n"
+            ],
+            [
+                "\n...the new particles (mesons)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat can a kaon decay into\n"
+            ],
+            [
+                "\nPions, or a muon and an antineutron, or an antimuon and a neutrino\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat can a charged pion decay into\n"
+            ],
+            [
+                "\nA muon and an antineutrino, or an antimuon and a neutrino. \n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does a \u03c0 0 meson decay into\n"
+            ],
+            [
+                "\nHigh-energy photons\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does a muon decay into\n"
+            ],
+            [
+                "\nAn electron and an antineutrino\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does an antimuon decay into\n"
+            ],
+            [
+                "\nA positron and a neutrino\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat do decays always obey\n"
+            ],
+            [
+                "\nThe conservation rules for energy, momentum and charge\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy is a TV tube in a traditional TV an acceleratorHow did traditional TVs work\n"
+            ],
+            [
+                "\nBecause it accelerates electrons inside the tube through a potential difference of about 5000VElectrons form beam that hits the inside of TV screenMagnetic fields produced by electromagnets deflect beam so scans screen to create an image\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the longest accelerator in the world\n"
+            ],
+            [
+                "\nThe Stanford linear accelerator in California3km through p.d. of 50000 million voltsElectrons collide with target to form particle-antiparticle pairs\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the biggest accelerator in the world\n"
+            ],
+            [
+                "\nThe large hadron collider at CERN near GenevaAccelerate charged particles to energies of more than 7000 GeV27km circumference ring constructed in circular tunnel\n"
+            ]
+        ],
+        [
+            [
+                "\nWhere and when was the Higgs boson discovered\n"
+            ],
+            [
+                "\nAt CERN in 2012\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the Higgs boson\n"
+            ],
+            [
+                "\nAn uncharged particleWas predicted in 1964 as the cause of the rest mass of W bosons\n"
+            ]
+        ]
+    ],
+    "particle sorting": [
+        [
+            [
+                "\nHow are the new particles and antiparticles created\n"
+            ],
+            [
+                "\nThrough high-energy interactionsDecay into other particles and antiparticles (apart from the neutrino)\n"
+            ]
+        ],
+        [
+            [
+                "\nHow was the conclusion that the \u03c0 + meson and the \u03c0 - meson are a particle-antiparticle pair\n"
+            ],
+            [
+                "\nCharged pions were often produced in pairs\n"
+            ]
+        ],
+        [
+            [
+                "\nHow can particles and antiparticles be divided into groups\n"
+            ],
+            [
+                "\nInto groups called hadrons and leptonsAccording to whether or not they interact through the strong interaction\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat are hadrons\n"
+            ],
+            [
+                "\nParticles and antiparticles that can interact through the strong interactionProtons, neutrons, \u03c0 mesons, K mesons\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat are leptons\n"
+            ],
+            [
+                "\nParticles and antiparticles that do not interact through the strong interactionElectrons, muons, neutrinos\n"
+            ]
+        ],
+        [
+            [
+                "\nLeptons interact through the ______ interaction, the ______ interaction and through the ______ (interaction if charged).\n"
+            ],
+            [
+                "\nWeakGravitationalElectromagnetic\n"
+            ]
+        ],
+        [
+            [
+                "\nHadrons can interact through all for fundamental interactions. They interact through the ______ interaction and through the ______ interaction if charged. Apart from the ______ which is stable, hadrons tend to decay through the ______ interaction\n"
+            ],
+            [
+                "\nStrongElectromagneticProtonWeak\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the Large Hadron Collider\n"
+            ],
+            [
+                "\nA ring-shaped accelerator that boosts the kinetic energy of the charged particles in the ring at several places round it. Fixed magnets round the ring bend the path of the particles to keep them in the ring\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen the charged particles in the large hadron collider collide with other particles:\n"
+            ],
+            [
+                "\nThe total energy of the particles and antiparticles before the collision = their rest energy + their kinetic energyThe total energy of the new particles and antiparticles after the collision = their rest energy + their kinetic energy\n"
+            ]
+        ],
+        [
+            [
+                "\nUsing the conservation of energyThe rest energy of the products =\n"
+            ],
+            [
+                "\nTotal energy before - the kinetic energy of the products\n"
+            ]
+        ],
+        [
+            [
+                "\n1 GeV =\n"
+            ],
+            [
+                "\n1000 MeV\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat can be produced when kaons are created\n"
+            ],
+            [
+                "\nShort-lived particles with greater rest masses than protonsCreated through strong interaction (hadrons) however decay into protons as well as pions\n"
+            ]
+        ],
+        [
+            [
+                "\nHow can hadrons be divided into two groups\n"
+            ],
+            [
+                "\nMaryons and Mesons\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat are Baryons\n"
+            ],
+            [
+                "\nProtons and all other hadrons (including neutrons) that decay into protons, wither directly or indirectly\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat are Mesons\n"
+            ],
+            [
+                "\nHadrons that do not include protons in their decay [roductsIe. kaons and pions are not baryons\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat smaller particles are baryons and mesons composed of\n"
+            ],
+            [
+                "\nQuarks and antiquarks\n"
+            ]
+        ]
+    ],
+    "leptons": [
+        [
+            [
+                "\nWhat is produced from a single electron-positron annihilation event\n"
+            ],
+            [
+                "\nA quark and an antiquark is produced which move away in opposite directions, producing a shower of hadrons in each direction\n"
+            ]
+        ],
+        [
+            [
+                "\nAre the neutrinos and antineutrinos produced in beta decays were different from those produced by muon decays?\n"
+            ],
+            [
+                "\nNONONONONONO\n"
+            ]
+        ],
+        [
+            [
+                "\nIf there were only one type of neutrino and antineutrino, equal numbers of...\n"
+            ],
+            [
+                "\n\u2026 electrons and muons would be produced\n"
+            ]
+        ],
+        [
+            [
+                "\nSymbol for the muon neutrino \n"
+            ],
+            [
+                "\nv\u03bc \n"
+            ]
+        ],
+        [
+            [
+                "\nSymbol for the electron neutrino (and similarly for the two types of antineutrinos\n"
+            ],
+            [
+                "\nve\n"
+            ]
+        ],
+        [
+            [
+                "\nHow can scientists figure out if the universe will continue to expand forever (big yawn) or if it will stop expanding and contract (big crunch)\n"
+            ],
+            [
+                "\nIf the rest mass of the neutrinos can be measured accurately\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat can leptons change into\n"
+            ],
+            [
+                "\nOther leptons through the weak interaction and can be produced or annihilated in particle-antiparticle interactions\n"
+            ]
+        ],
+        [
+            [
+                "\nIn an interaction between a lepton and a hadron, a neutrino or antineutrino can change into or from a corresponding charged lepton. Electron neutrino can interact wit neutron:\n"
+            ],
+            [
+                "\nve + n --> p + e-Even though charge is conserved, an electron neutrino and neutron could not change into antiproton and positron:                  _ve + n -/-> p + e+By assigning +1 to lepton, -1 to antilepton and 0 to any non-lepton, cam see that charge in first eq. before and after change is +1, this is permitted. and in second eq, +1 to -1. This is not permitted\n"
+            ]
+        ],
+        [
+            [
+                "\nIn muon decay the muon changes into a muon neutrino. Also, an electron is created to conserve charge and a corresponding antineutrino is create to conserve lepton number Eg:\n"
+            ],
+            [
+                "\n                 _\u03bc- --> e- + ve + v\u03bcHowever, muon cannot decay into muon antineutrino, electron and electron antineutrino through charge is conserved\u03bc- -/-> e- + ve + v\u03bcFirst equation has lepton number of + 1 before change and lepton number of +1 after change, equation is permitted. Second equation has lepton number of +1 before change and -1 after change. This is not permitted\n"
+            ]
+        ],
+        [
+            [
+                "\nThe lepton number is...\n"
+            ],
+            [
+                "\n\u2026 conserved in any change\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy is                         _\u03bc- --> e- + ve + v\u03bcnever seen\n"
+            ],
+            [
+                "\nThe muon can only change into a muon neutrinoMuon can't change into a muon antineutrino and an electron can only be created with an electron antineutrino\n"
+            ]
+        ],
+        [
+            [
+                "\nThe lepton number is ______ for any lepton, ______ for any antilepton and ______ for any non-lepton\n"
+            ],
+            [
+                "\n+1-10\n"
+            ]
+        ]
+    ],
+    "quarks and antiquarks": [
+        [
+            [
+                "\nWhat were kaons called when they were first discovered\n"
+            ],
+            [
+                "\nV particlesAs the cloud chamber photographs often showed V-shaped tracks\n"
+            ]
+        ],
+        [
+            [
+                "\nAlthough the 'strange particles' all decay through the weak interaction:\n"
+            ],
+            [
+                "\n - Those that decay into pions only were referred to as kaons - The others, such as sigma (\u03a3) particle were found to have different rest masses which were always greater than the protons rest mass, and decay either in sequence or directly into protons and pions- Strange particles are created in twos\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy was the 'strangeness number' (S) introduced \n"
+            ],
+            [
+                "\nTo explain why certain reactions were not observedStrangeness always conserved in strong interactions\n"
+            ]
+        ],
+        [
+            [
+                "\nStrangeness numbers of particles\n"
+            ],
+            [
+                "\n+1 for the K+ meson 0 strangeness for non-strange particles (proton, neutron, pions, leptons)\n"
+            ]
+        ],
+        [
+            [
+                "\nStrangeness is always conserved in a strong interaction, whereas strangeness can change by...\n"
+            ],
+            [
+                "\n\u2026 0, +1, or -1 in weak interactions\n"
+            ]
+        ],
+        [
+            [
+                "\nHow can the properties of the hadrons such as charge, strangeness and rest mass be explained\n"
+            ],
+            [
+                "\nBy assuming they are composed of smaller particles known as quarks and antiquarks\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat are three types of quarks\n"
+            ],
+            [
+                "\nup, down and strange(u, d and s)\n"
+            ]
+        ],
+        [
+            [
+                "\nMesons are ______, each consisting of a ______ and an ______.\n"
+            ],
+            [
+                "\nHadronsQuarkAntiquark\n"
+            ]
+        ],
+        [
+            [
+                "\nA \u03c0 0 meson can be...\n"
+            ],
+            [
+                "\n...any quark-corresponding antiquark combination\n"
+            ]
+        ],
+        [
+            [
+                "\nEach pair of charged mesons is a...\n"
+            ],
+            [
+                "\n\u2026 particle-antiparticle pair\n"
+            ]
+        ],
+        [
+            [
+                "\nThere are two uncharged kaons\n"
+            ],
+            [
+                "\n                    _K0 and the K0 meson\n"
+            ]
+        ],
+        [
+            [
+                "\nThe antiparticle of any meson is a...\n"
+            ],
+            [
+                "\n\u2026 quark-antiquark pair and therefore another meson\n"
+            ]
+        ],
+        [
+            [
+                "\nBaryons and antibaryons are hadrons that consist of three quarks for a baryon or three antiquarks for an antibaryon\n"
+            ],
+            [
+                "\nA proton is the uud combinationA neutron is the udd combination                                  ___An antiproton is the uud combinationThe \u03a3 particle is a baryon containing a strange quark\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the only stable baryon\n"
+            ],
+            [
+                "\nThe protonA free neutron decays into a proton, releasing an electron and an electron antineutrino as in \u03b2- decay\n"
+            ]
+        ],
+        [
+            [
+                "\n\u03b2- decay, a ______ in a ______-rich nucleus change into a ______, releasing an electron and an electron ______. In quark terms, a down quark changes to an ______ quark.\n"
+            ],
+            [
+                "\nNeutronNeutronProtonAntineutrinoUp\n"
+            ]
+        ],
+        [
+            [
+                "\nIn \u03b2+ decay, a ______ in a ______-rich nucleus changes into a ______, releasing a positron and an electron ______. In quark terms, an up quark changes to a ______ quark.\n"
+            ],
+            [
+                "\nProtonProtonNeutronNeutrinoDown\n"
+            ]
+        ]
+    ],
+    "conservation": [
+        [
+            [
+                "\nConservation of energy and conservation of charge\n"
+            ],
+            [
+                "\nApply to all changes in science, not just to all particle and antiparticle interactions and decays.Conservation of energy includes the rest energy of the particles\n"
+            ]
+        ],
+        [
+            [
+                "\nConservation rules used only for particle and antiparticle interactions and decays\n"
+            ],
+            [
+                "\nEssentially particle-counting rules, based on what reactions are observed and what reactions are not observed. Conservation of lepton numbersConservation of strangeness\n"
+            ]
+        ],
+        [
+            [
+                "\nConservation of lepton numbers\n"
+            ],
+            [
+                "\nIn any change, the total lepton number for each lepton branch before the change is equal to the total lepton number for that branch after the change                  _\u03bc+ --> e+ + v\u03bc + ve\n"
+            ]
+        ],
+        [
+            [
+                "\nConservation of strangeness\n"
+            ],
+            [
+                "\nIn any strong interaction, strangeness is always conservedEg. K0 meson and a strange baryon called the neutral lambda particle (symbol \u039b0) are produced when a \u03c0 - meson collides with a proton:\u03c0- + p --> K0 + \u039b0\n"
+            ]
+        ],
+        [
+            [
+                "\nAn up quark and an up antiquark annihilate each other and the other quarks and antiquarks rearrange to form mesons. Is the baryon number conserved           ___        _    _uud + uud --> ud + ud\n"
+            ],
+            [
+                "\nBaryon number is 0  (+1 -1) for the left hand side, and 0 for the right hand side.Therefore, the baryon number is conserved\n"
+            ]
+        ],
+        [
+            [
+                "\nIs the total baryon number conserved?\n"
+            ],
+            [
+                "\nYes. In ANY reaction\n"
+            ]
+        ]
+    ]
+}

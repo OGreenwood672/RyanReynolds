@@ -1,0 +1,5 @@
+So bot will work like this maybe:
+revise list
+revise use [variable_name]
+revise answer
+revise next
