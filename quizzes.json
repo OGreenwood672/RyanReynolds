@@ -4513,5 +4513,7848 @@
                 "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/275/789/162/a_image_thumb.png?1584889732"
             ]
         ]
+    ],
+    "AmountOfSubstance": [
+        [
+            [
+                "How many particles does 1 mole contain (i.e. what's\u00a0Avogadro's constant)?"
+            ],
+            [
+                "6.02 x 1023 particles",
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "What is the formula for converting between\u00a0no. of particles and no. of moles?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/672/271/a_image_thumb.png?1542542849"
+            ]
+        ],
+        [
+            [
+                "What formula do you use to\u00a0calculate the no. of moles from mass?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/672/301/a_image_thumb.png?1542542918"
+            ]
+        ],
+        [
+            [
+                "What formula do you use to\u00a0calculate the no. of moles from concentration?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/672/334/a_image_thumb.png?1542543873"
+            ]
+        ],
+        [
+            [
+                "Write the ionic equation for this reaction:",
+                "HNO3 + NaOH\u00a0\u2192 NaNO3 + H2O"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/673/058/a_image_thumb.png?1542544006"
+            ]
+        ],
+        [
+            [
+                "What does 'aq' mean?"
+            ],
+            [
+                "Aqueous (solution in water)",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/673/158/a_image_thumb.png?1542544055"
+            ]
+        ],
+        [
+            [
+                "\u00a0When you've written an ionic\u00a0equation, what should you do?"
+            ],
+            [
+                "Check the\u00a0charges\u00a0& atoms are balanced"
+            ]
+        ],
+        [
+            [
+                "What is the formula for percentage yield?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/673/212/a_image_thumb.png?1542544123"
+            ]
+        ],
+        [
+            [
+                "What does percentage yield tell you?"
+            ],
+            [
+                "Tells you how wasteful process is = based\u00a0on how much product is lost",
+                "(Doesn't measure how\u00a0wasteful reaction itself)"
+            ]
+        ],
+        [
+            [
+                "What is atom economy?"
+            ],
+            [
+                "Measure of proportion of reactant atoms\u00a0that become part of desired product\u00a0(rather than by-products)"
+            ]
+        ],
+        [
+            [
+                "What is the formula for atom economy?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/673/329/a_image_thumb.png?1542544277"
+            ]
+        ],
+        [
+            [
+                "Why do companies in the\u00a0chemical industry\u00a0try to use processes with high\u00a0atom economies?"
+            ],
+            []
+        ],
+        [
+            [
+                "What is empirical formula?"
+            ],
+            [
+                "Simplest whole number ratio of atoms of\u00a0each element in a compound"
+            ]
+        ],
+        [
+            [
+                "What is molecular\u00a0formula?"
+            ],
+            [
+                "Actual no. of atoms of each\u00a0element in a compound"
+            ]
+        ],
+        [
+            [
+                "What is a standard (volumetic)\u00a0solution?"
+            ],
+            [
+                "Solution that you know the\u00a0exact concentration of"
+            ]
+        ],
+        [
+            [
+                "What does the making of standard solution involve?"
+            ],
+            [
+                "Involves dissolving a known\u00a0amount of solid in known amount of water to\u00a0create known concentration"
+            ]
+        ],
+        [
+            [
+                "Describe how you would make\u00a0250 cm3 of a 2.00 mol\ndm-3 solution of sodium hydroxide (8 steps)"
+            ],
+            []
+        ],
+        [
+            [
+                "Making a standard solution:",
+                "Why do you re-weigh the\u00a0boat?"
+            ],
+            [
+                "\u2235 it\u00a0may\u00a0contain traces of solid"
+            ]
+        ],
+        [
+            [
+                "Making a standard solution:",
+                "Why do you rinse the beaker & stirring rod with\u00a0distilled water and\u00a0add that to the flask?"
+            ],
+            [
+                "Makes sure no solute\u00a0clings to beaker/rod"
+            ]
+        ],
+        [
+            [
+                "What do titrations allow you to do?"
+            ],
+            [
+                "Allow to find out exactly the volume of acid\u00a0needed to neutralise a measured quantity\u00a0of alkali (& vice versa)",
+                "Use this data to work out\u00a0concentration of alkali"
+            ]
+        ],
+        [
+            [
+                "Describe a method for a titration"
+            ],
+            []
+        ],
+        [
+            [
+                "What kind of indicators are used in a titration?"
+            ],
+            [
+                "Indicators that change colour quickly over very\u00a0small pH range = used so you know exactly\u00a0when reaction has ended"
+            ]
+        ],
+        [
+            [
+                "Name 2 indicators that could be used in a titration (for\u00a0for acid/alkali reactions)"
+            ],
+            []
+        ],
+        [
+            [
+                "What colour is methyl orange in acids?"
+            ],
+            [
+                "Red"
+            ]
+        ],
+        [
+            [
+                "What colour is methyl orange in alkalis?"
+            ],
+            [
+                "Yellow"
+            ]
+        ],
+        [
+            [
+                "What colour is phenolphthalein in acids?"
+            ],
+            [
+                "Colourless"
+            ]
+        ],
+        [
+            [
+                "What colour is phenolphthalein in alkalis?"
+            ],
+            [
+                "Pink"
+            ]
+        ],
+        [
+            [
+                "What do pipettes measure?"
+            ],
+            [
+                "Only one volume of solution"
+            ]
+        ],
+        [
+            [
+                "What do burettes measure and let you do?"
+            ],
+            [
+                "Measures different volumes & lets you add the solution drop by drop"
+            ]
+        ],
+        [
+            [
+                "What is the ideal gas equation?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/688/642/a_image_thumb.png?1542557118"
+            ]
+        ],
+        [
+            [
+                "What is rule for volume of gases?"
+            ],
+            [
+                "At room temperature and pressure, 1 mole of any gas occupies 24 dm3"
+            ]
+        ],
+        [
+            [
+                "What formula is used to calculate the volume of gases?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/689/477/a_image_thumb.png?1542558005"
+            ]
+        ],
+        [
+            [
+                "State the conversions for mg to g & vice versa"
+            ],
+            [
+                "mg\u00a0\u2192 g\u00a0\u00f7 1000",
+                "mg\u00a0\u2190 g x 1000"
+            ]
+        ],
+        [
+            [
+                "What is the mass in grams of a single atom of silver?",
+                "The Avogadro constant = 6.02 x 1023",
+                "Ag = 107.9"
+            ],
+            [
+                "1.79 x 10-22 g",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/275/789/386/a_image_thumb.png?1583747569"
+            ]
+        ],
+        [
+            [
+                "What is the mass in grams of a single molecule of water?",
+                "The Avogadro constant = 6.02 x 1023",
+                "Mr of water = 18.02"
+            ],
+            [
+                "2.99 x 10-23\u00a0g",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/275/789/671/a_image_thumb.png?1583747650"
+            ]
+        ],
+        [
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/275/789/960/q_image_thumb.png?1556458309"
+            ],
+            [
+                "13.3 g",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/275/789/960/a_image_thumb.jpg?1584944714"
+            ]
+        ],
+        [
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/275/790/067/q_image_thumb.png?1556458332"
+            ],
+            [
+                "2.41 x 1022",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/275/790/067/a_image_thumb.jpg?1584944920"
+            ]
+        ],
+        [
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/278/224/736/q_image_thumb.png?1558357417"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/278/224/736/a_image_thumb.png?1558357430"
+            ]
+        ],
+        [
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/278/245/984/q_image_thumb.png?1558372341"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/278/245/984/a_image_thumb.png?1558372355"
+            ]
+        ],
+        [
+            [
+                "State why it's important to fill the space below the tap in the burette before beginning an accurate titration (1)"
+            ],
+            [
+                "(Will fill during titration and cause) titre value to be too high"
+            ]
+        ],
+        [
+            [
+                "State why rinsing the inside of the conical flask with distilled water during a titration can improve the accuracy of the end point (1)"
+            ],
+            [
+                "Returns reagent on the sides of the flask to the reaction mixture (to ensure that all of the acid/alkali reacts)"
+            ]
+        ],
+        [
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/278/400/799/q_image_thumb.png?1558441441"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/278/400/799/a_image_thumb.png?1558441449"
+            ]
+        ],
+        [
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/278/400/867/q_image_thumb.png?1558441461"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/278/400/867/a_image_thumb.png?1558441477"
+            ]
+        ],
+        [
+            [
+                "State why rinsing doesn't change the volume of base solution needed in a titration (1)"
+            ],
+            [
+                "no effect on amount/moles of either reactant or water is not a reagent"
+            ]
+        ]
+    ],
+    "Bonding": [
+        [
+            [
+                "Define ionic bonding"
+            ],
+            [
+                "Electrostatic force of\u00a0attraction between oppositely charged ions\u00a0formed by electron transfer"
+            ]
+        ],
+        [
+            [
+                "Ionic Bonding",
+                "Metal atoms ___\u00a0electrons to form ___\u00a0ions"
+            ],
+            [
+                "Metal atoms lose\u00a0electrons to form +ve ions"
+            ]
+        ],
+        [
+            [
+                "Ionic Bonding",
+                "Non-metal atoms ____\u00a0electrons to form ___ ions"
+            ],
+            [
+                "Non-metal atoms gain\u00a0electrons to form -ve ions"
+            ]
+        ],
+        [
+            [
+                "Simplest ions are..."
+            ],
+            [
+                "single atoms\u00a0which have lost/gained electrons\u00a0to make full outer shell"
+            ]
+        ],
+        [
+            [
+                "What are\u00a0compound ions?"
+            ],
+            [
+                "Ions that are made up of groups of\u00a0atoms with an overall charge"
+            ]
+        ],
+        [
+            [
+                "State the formula for a sulfate ion"
+            ],
+            [
+                "SO42-"
+            ]
+        ],
+        [
+            [
+                "State the formula for a hydroxide ion"
+            ],
+            [
+                "OH-"
+            ]
+        ],
+        [
+            [
+                "State the formula for a nitrate ion"
+            ],
+            [
+                "NO3-"
+            ]
+        ],
+        [
+            [
+                "State the formula for a carbonate ion"
+            ],
+            [
+                "CO32-"
+            ]
+        ],
+        [
+            [
+                "State the formula for an ammonium ion"
+            ],
+            [
+                "NH4+"
+            ]
+        ],
+        [
+            [
+                "Name the structure of ionic crystals"
+            ],
+            [
+                "Giant Ionic Lattice\u00a0"
+            ]
+        ],
+        [
+            [
+                "Sodium nitrate contains Na+ (1+) and NO3- (1-) ions. State the fomula of the sodium nitrate."
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/017/461/a_image_thumb.png?1548602032"
+            ]
+        ],
+        [
+            [
+                "Magnesium chloride contains Mg2+ (2+) and Cl- (1-) ions. State the fomula of the magnesium chloride."
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/017/665/a_image_thumb.png?1548602096"
+            ]
+        ],
+        [
+            [
+                "Name 3 physical properties of\u00a0ionic compounds"
+            ],
+            []
+        ],
+        [
+            [
+                "Why can ions conduct electricity when\u00a0they're molten or\u00a0dissolved?",
+                "\n"
+            ],
+            [
+                "\u2235 ions in liquid are free to\u00a0move and carry a charge"
+            ]
+        ],
+        [
+            [
+                "Why can't ions conduct electricity when\u00a0they're in a solid?"
+            ],
+            [
+                "\u2235 ions are in fixed position by\u00a0strong ionic bonds"
+            ]
+        ],
+        [
+            [
+                "Why do ionic compounds have high melting points?"
+            ],
+            []
+        ],
+        [
+            [
+                "Why do ionic compounds\u00a0tend to dissolve in water?"
+            ],
+            []
+        ],
+        [
+            [
+                "Ionic bonding is stronger and melting\u00a0points are higher when ions are... (2x)"
+            ],
+            [
+                "\u00a0smaller\u00a0and/ or have higher charges"
+            ]
+        ],
+        [
+            [
+                "When do molecules form and how are they held together?"
+            ],
+            []
+        ],
+        [
+            [
+                "What do single covalent bonds contain?"
+            ],
+            [
+                "Shared pair\u00a0of electrons"
+            ]
+        ],
+        [
+            [
+                "Describe covalent bonding"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/018/206/a_image_thumb.png?1548602568"
+            ]
+        ],
+        [
+            [
+                "Multiple covalent bonds contain..."
+            ],
+            [
+                "multiple\u00a0shared pairs of electrons"
+            ]
+        ],
+        [
+            [
+                "Draw methane, represent the covalent bonds by drawing lines\u00a0"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/018/389/a_image_thumb.png?1548602670"
+            ]
+        ],
+        [
+            [
+                "Why can carbon form giant covalent structures?"
+            ],
+            [
+                "\u2235\u00a0they can form 4 covalent bonds"
+            ]
+        ],
+        [
+            [
+                "Describe the structure of graphite\u00a0"
+            ],
+            []
+        ],
+        [
+            [
+                "Name 5 properties of graphite"
+            ],
+            []
+        ],
+        [
+            [
+                "Explain why graphite has a low density"
+            ],
+            [
+                "Layers are quite far apart compared to\u00a0the length of covalent bonds"
+            ]
+        ],
+        [
+            [
+                "Explain why graphite is an electrical conductor"
+            ],
+            [
+                "'Delocalised' electrons aren't attached to any\u00a0particular carbon atoms & free to move along\u00a0sheets carrying a charge"
+            ]
+        ],
+        [
+            [
+                "Explain why graphite is a dry lubricant/slippy"
+            ],
+            [
+                "Weak bonds between layers in\u00a0graphite = easily broken \u2234 sheets\u00a0can slide over each other"
+            ]
+        ],
+        [
+            [
+                "Explain why graphite has a very high melting point"
+            ],
+            [
+                "Covalent bonds are very strong and\u00a0require lots of energy to break"
+            ]
+        ],
+        [
+            [
+                "Explain why graphite is insoluble in any solvent\u00a0"
+            ],
+            [
+                "Covalent bonds in sheets are\u00a0too strong to break"
+            ]
+        ],
+        [
+            [
+                "Describe the structure of diamond"
+            ],
+            []
+        ],
+        [
+            [
+                "Name 5 properties of diamond"
+            ],
+            []
+        ],
+        [
+            [
+                "Why is diamond a good thermal conductor?"
+            ],
+            [
+                "Vibrations travel easily\u00a0through stiff lattice"
+            ]
+        ],
+        [
+            [
+                "Why can't diamond conduct electricity?"
+            ],
+            [
+                "Outer electrons held in\u00a0localised bonds"
+            ]
+        ],
+        [
+            [
+                "Why do diamond gemstones sparkle a lot?"
+            ],
+            [
+                "Its structure makes it refract\u00a0light a lot"
+            ]
+        ],
+        [
+            [
+                "What is dative covalent bonding (or\u00a0co-ordinate bonding)?"
+            ],
+            [
+                "When shared pair of electrons\u00a0in covalent bond come from only one of the\u00a0bonding atoms"
+            ]
+        ],
+        [
+            [
+                "Name an example of dative covalent bonding & explain how it is an example of this bonding"
+            ],
+            [
+                "Ammonium ion (NH4+)\u00a0",
+                "Forms when nitrogen atom in\u00a0ammonia molecule donates a pair\u00a0electrons to proton (H+)"
+            ]
+        ],
+        [
+            [
+                "Illustrate dative covalent bonding in an\u00a0ammonium ion (NH4+)\u00a0"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/019/234/a_image_thumb.png?1548603550"
+            ]
+        ],
+        [
+            [
+                "Define metallic bonding"
+            ],
+            [
+                "Metallic bonding is the electrostatic force of\u00a0attraction between the positive metal ions and\u00a0the delocalised\u00a0electrons"
+            ]
+        ],
+        [
+            [
+                "Metals elements exist as..."
+            ],
+            [
+                "giant\u00a0metallic lattice structures"
+            ]
+        ],
+        [
+            [
+                "Describe metallic bonding\u00a0"
+            ],
+            []
+        ],
+        [
+            [
+                "Name 4 properties of metals"
+            ],
+            []
+        ],
+        [
+            [
+                "Why do metals have high melting points?"
+            ],
+            [
+                "Strong electrostatic attraction\u00a0between positive metal ions and\u00a0delocalised sea of electrons"
+            ]
+        ],
+        [
+            [
+                "Why are metals good thermal conductors?"
+            ],
+            [
+                "Delocalised electrons can pass\u00a0kinetic energy to each other"
+            ]
+        ],
+        [
+            [
+                "Why are metals good electrical conductors?"
+            ],
+            [
+                "Delocalised electrons can\u00a0move and carry current"
+            ]
+        ],
+        [
+            [
+                "Why are metals insoluble?"
+            ],
+            [
+                "Strong metallic bonds\u00a0"
+            ]
+        ],
+        [
+            [
+                "Name 3 factors that affect the strength\u00a0of metallic bonding"
+            ],
+            []
+        ],
+        [
+            [
+                "Metallic Bonding\u00a0",
+                "More protons = ...."
+            ],
+            [
+                "stronger bond"
+            ]
+        ],
+        [
+            [
+                "Metallic Bonding\u00a0",
+                "More delocalised\u00a0electrons per atom = ...."
+            ],
+            [
+                "stronger bonding"
+            ]
+        ],
+        [
+            [
+                "Metallic Bonding\u00a0",
+                "Smaller the ion = ..."
+            ],
+            [
+                "stronger the bond"
+            ]
+        ],
+        [
+            [
+                "Explain why\u00a0Mg has\u00a0stronger metallic bonding\u00a0than Na and\u00a0a\u00a0higher melting point"
+            ],
+            []
+        ],
+        [
+            [
+                "Illustrate a giant ionic lattice of sodium chloride\u00a0"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/019/827/a_image_thumb.png?1548604150"
+            ]
+        ],
+        [
+            [
+                "Illustrate metallic bonding in magnesium"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/019/895/a_image_thumb.png?1548604176"
+            ]
+        ],
+        [
+            [
+                "What does the shape of a molecule\u00a0depend\u00a0on?"
+            ],
+            [
+                "The\u00a0number of pairs of electrons in outer shell of central atom",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/019/905/a_image_thumb.png?1548604250"
+            ]
+        ],
+        [
+            [
+                "Bonding pairs and lone pairs\u00a0electrons exist as ___ ____"
+            ],
+            [
+                "charge clouds"
+            ]
+        ],
+        [
+            [
+                "What are charge clouds?"
+            ],
+            [
+                "Area where you\u00a0have really big chance of finding\u00a0an electron pair"
+            ]
+        ],
+        [
+            [
+                "Why does a pair\u00a0of electrons in an outer shell of an\u00a0atom sit as far apart from each\u00a0other as possible?"
+            ],
+            [
+                "Electrons = negatively\u00a0charged \u2234 repel each other"
+            ]
+        ],
+        [
+            [
+                "Shape of charge cloud effects..."
+            ],
+            [
+                "how much\u00a0it repels other charge clouds",
+                "e.g. lone-pair charge clouds repel more\u00a0than bonding-pair charge clouds"
+            ]
+        ],
+        [
+            [
+                "Why are the bond\u00a0angles between bonding pairs reduced when lone pairs of electrons are added?"
+            ],
+            [
+                "\u2235 they're pushed\u00a0together by lone-pair repulsion"
+            ]
+        ],
+        [
+            [
+                "_______ angles are the biggest"
+            ],
+            [
+                "Lone-pair/lone-pair"
+            ]
+        ],
+        [
+            [
+                "_______ angles are the second\u00a0biggest"
+            ],
+            [
+                "Lone-pair/bonding-pair"
+            ]
+        ],
+        [
+            [
+                "_______ angles are the smallest"
+            ],
+            [
+                "Bonding-pair/bonding-pair",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/020/557/a_image_thumb.png?1548604646"
+            ]
+        ],
+        [
+            [
+                "Name the shape of a molecule with 2 electron pairs (& no lone pairs)"
+            ],
+            [
+                "Linear"
+            ]
+        ],
+        [
+            [
+                "Draw BeCl2",
+                "State the bond angles of the\u00a0molecule",
+                "2 electron pairs (& no lone pairs)"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/020/668/a_image_thumb.png?1548604761"
+            ]
+        ],
+        [
+            [
+                "Name the shape of a molecule with 3\u00a0electron pairs (& no lone pairs)"
+            ],
+            [
+                "Trigonal planar"
+            ]
+        ],
+        [
+            [
+                "Draw BF3",
+                "State the bond angles of the\u00a0molecule",
+                "\u00a0",
+                "3\u00a0electron pairs (& no lone pairs)"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/020/776/a_image_thumb.png?1548604825"
+            ]
+        ],
+        [
+            [
+                "Name the shape of a molecule with 4\u00a0electron pairs (& no lone pairs)"
+            ],
+            [
+                "Tetrahedral"
+            ]
+        ],
+        [
+            [
+                "Draw NH4+",
+                "State the bond angles of the\u00a0molecule",
+                "4\u00a0electron pairs (& no lone pairs)"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/020/807/a_image_thumb.png?1548604881"
+            ]
+        ],
+        [
+            [
+                "Name the shape of a molecule with 3\u00a0electron pairs & 1 lone pair"
+            ],
+            [
+                "Trigonal Pyramidal"
+            ]
+        ],
+        [
+            [
+                "Draw PF3",
+                "\u00a0",
+                "State the bond angles of the\u00a0molecule",
+                "3\u00a0electron pairs & 1 lone pair",
+                "\u00a0"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/020/924/a_image_thumb.png?1548604970"
+            ]
+        ],
+        [
+            [
+                "Name the shape of a molecule with 2\u00a0electron pairs & 2\u00a0lone pairs"
+            ],
+            [
+                "Bent"
+            ]
+        ],
+        [
+            [
+                "Draw H2O",
+                "State the bond angles of the\u00a0molecule",
+                "2\u00a0electron pairs & 2\u00a0lone pairs"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/020/961/a_image_thumb.png?1548605053"
+            ]
+        ],
+        [
+            [
+                "Name the shape of a molecule with 5\u00a0electron pairs (& no lone pairs)"
+            ],
+            [
+                "Trigonal Bipyramidal"
+            ]
+        ],
+        [
+            [
+                "Draw PCl5",
+                "\u00a0",
+                "State the bond angles of the\u00a0molecule",
+                "5\u00a0electron pairs (& no lone pairs)"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/021/086/a_image_thumb.png?1548605127"
+            ]
+        ],
+        [
+            [
+                "Name the shape of a molecule with 4\u00a0electron pairs & 1 lone pair"
+            ],
+            [
+                "Seesaw"
+            ]
+        ],
+        [
+            [
+                "Draw SF4",
+                "\u00a0",
+                "State the bond angles of the\u00a0molecule",
+                "4\u00a0electron pairs & 1 lone pair",
+                "\u00a0"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/021/123/a_image_thumb.png?1548605190"
+            ]
+        ],
+        [
+            [
+                "Name the shape of a molecule with 3\u00a0electron pairs &\u00a02\u00a0lone pairs"
+            ],
+            [
+                "T-shaped"
+            ]
+        ],
+        [
+            [
+                "Draw ClF3",
+                "\u00a0",
+                "State the bond angles of the\u00a0molecule",
+                "\u00a03\u00a0electron pairs &\u00a02\u00a0lone pairs"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/021/190/a_image_thumb.png?1548605250"
+            ]
+        ],
+        [
+            [
+                "Name the shape of a molecule with 6\u00a0electron pairs (& no lone pairs)"
+            ],
+            [
+                "Octahedral"
+            ]
+        ],
+        [
+            [
+                "SF6",
+                "State the bond angles of the\u00a0molecule",
+                "6\u00a0electron pairs (& no lone pairs)"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/021/276/a_image_thumb.png?1548605349"
+            ]
+        ],
+        [
+            [
+                "Name the shape of a molecule with 4\u00a0electron pairs & 2\u00a0lone pairs"
+            ],
+            [
+                "Square planar"
+            ]
+        ],
+        [
+            [
+                "Draw XeF4",
+                "State the bond angles of the\u00a0molecule",
+                "4 electron pairs & 2\u00a0lone pairs"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/021/345/a_image_thumb.png?1548605420"
+            ]
+        ],
+        [
+            [
+                "Describe how you can find out\u00a0how many bonding and\nlone electron pairs there are on central\u00a0atom of molecule\u00a0"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/021/432/a_image_thumb.png?1548605668"
+            ]
+        ],
+        [
+            [
+                "Predict the shape of the molecule H2S (show all your steps)"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/021/622/a_image_thumb.png?1548605702"
+            ]
+        ],
+        [
+            [
+                "Define\u00a0Electronegativity\u00a0"
+            ],
+            [
+                "The power of an atom to\u00a0attract a pair of\u00a0electrons in a covalent bond"
+            ]
+        ],
+        [
+            [
+                "____ is most\u00a0electronegative\u00a0element"
+            ],
+            [
+                "Fluorine"
+            ]
+        ],
+        [
+            [
+                "How are polar covalent bonds created?"
+            ],
+            [
+                "In a covalent bond between 2 atoms of different\u00a0electronegativities, bonding electrons will be pulled\u00a0towards the more electronegative atom = makes bond polar"
+            ]
+        ],
+        [
+            [
+                "Covalent bond between 2 atoms of\u00a0same element is ____"
+            ],
+            [
+                "non-polar"
+            ]
+        ],
+        [
+            [
+                "Why is a covalent bond between 2 atoms of\u00a0same element non-polar?"
+            ],
+            [
+                "\u2235 atoms have equal electronegativities =\u00a0electrons equally attracted to both nuclei",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/021/805/a_image_thumb.png?1548605872"
+            ]
+        ],
+        [
+            [
+                "Some elements (e.g. C & H) have very similar\u00a0electronegativities = bond essentially ____"
+            ],
+            [
+                "non-polar"
+            ]
+        ],
+        [
+            [
+                "In a polar bond, difference in\u00a0electronegativity between 2 atoms\u00a0causes a\u00a0____ ___ to form"
+            ],
+            [
+                "permanent dipole",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/021/924/a_image_thumb.png?1548605938"
+            ]
+        ],
+        [
+            [
+                "What is a dipole?"
+            ],
+            [
+                "Difference in charge between 2 atoms\u00a0caused by shift in electron density in bond"
+            ]
+        ],
+        [
+            [
+                "Greater difference in\u00a0electronegativity between\u00a0atoms = ..."
+            ],
+            [
+                "\u00a0more polar the bond"
+            ]
+        ],
+        [
+            [
+                "What makes a polar molecule?"
+            ],
+            [
+                "When a molecule\u00a0contains polar bonds that give an\u00a0uneven\u00a0distribution of charge\u00a0across the whole molecule",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/022/088/a_image_thumb.png?1548606149"
+            ]
+        ],
+        [
+            [
+                "When are\u00a0molecules with\u00a0polar bonds not polar and why is this?"
+            ],
+            [
+                "When polar bonds are arranged symmetrically\u00a0in molecule = charges cancel out & there's\u00a0no permanent dipole",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/022/146/a_image_thumb.png?1548606167"
+            ]
+        ],
+        [
+            [
+                "Name 3\u00a0Intermolecular Forces"
+            ],
+            []
+        ],
+        [
+            [
+                "What type of molecules have permanent dipole-dipole forces?"
+            ],
+            [
+                "Polar molecules"
+            ]
+        ],
+        [
+            [
+                "Describe how\u00a0permanent dipole-dipole forces form"
+            ],
+            [
+                "In a substance made from molecules with\u00a0permanent dipoles = they'll be weak electrostatic\u00a0forces of attraction between \u03b4+ and \u03b4- charges\u00a0on neighbouring molecules",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/022/389/a_image_thumb.png?1548606351"
+            ]
+        ],
+        [
+            [
+                "Explain why if you put a charged rod next to a jet of polar liquid (e.g water), the liquid will move towards the rod"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/022/607/a_image_thumb.png?1548606501"
+            ]
+        ],
+        [
+            [
+                "Where are\u00a0Van der Waals forces found?"
+            ],
+            [
+                "Found between all\u00a0atoms and molecules"
+            ]
+        ],
+        [
+            [
+                "Describe how\u00a0Van der Waals forces form"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/022/967/a_image_thumb.png?1548606634"
+            ]
+        ],
+        [
+            [
+                "Van der Waals forces hold\u00a0molecules together in ___"
+            ],
+            [
+                "lattice"
+            ]
+        ],
+        [
+            [
+                "Describe and explain the structure of iodine at room temp"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/023/187/a_image_thumb.png?1548606825"
+            ]
+        ],
+        [
+            [
+                "Name 3\u00a0factors that affect the strength of the Van der Waals forces"
+            ],
+            []
+        ],
+        [
+            [
+                "Explain how the size of molecules affects the strength of van der Waal forces"
+            ],
+            [
+                "\u00a0Larger molecules = larger electron clouds =\u00a0stronger van der Waals forces"
+            ]
+        ],
+        [
+            [
+                "Explain how the shape of molecules affects the strength of van der Waal forces"
+            ],
+            [
+                "Long, straight molecules lie\u00a0closer than branched ones\u00a0= closer together 2 molecules get =\u00a0stronger the forces\u00a0between them are"
+            ]
+        ],
+        [
+            [
+                "When does hydrogen bonding occur?"
+            ],
+            [
+                "When hydrogen is covalently\u00a0bonded to fluorine, nitrogen or oxygen"
+            ]
+        ],
+        [
+            [
+                "Hydrogen Bonding is the _____ \u00a0intermolecular\u00a0force"
+            ],
+            [
+                "Strongest"
+            ]
+        ],
+        [
+            [
+                "Describe hydrogen bonding"
+            ],
+            []
+        ],
+        [
+            [
+                "Molecules with H-bonding usually\u00a0contain ____ or ____\u00a0groups"
+            ],
+            [
+                "-OH or -NH groups"
+            ]
+        ],
+        [
+            [
+                "Draw hydrogen bonding occuring in water"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/023/838/a_image_thumb.png?1548607326"
+            ]
+        ],
+        [
+            [
+                "Draw hydrogen bonding occuring in ammonia"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/023/889/a_image_thumb.png?1548607346"
+            ]
+        ],
+        [
+            [
+                "Substances with h-bond have\u00a0____ boiling/melting points\u00a0than similar molecules"
+            ],
+            [
+                "Substances with h-bond have\u00a0higher boiling/melting points\u00a0than similar molecules"
+            ]
+        ],
+        [
+            [
+                "Why do substances with h-bond have\u00a0higher boiling/melting points\u00a0than similar molecules?"
+            ],
+            [
+                "\u2235 of extra energy needed\u00a0to break h-bonds",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/023/917/a_image_thumb.png?1548607404"
+            ]
+        ],
+        [
+            [
+                "Anomalously high boiling points of H2O, NH3 & HF are\ncaused by ___ ____ between molecules"
+            ],
+            [
+                "Anomalously high boiling points of H2O, NH3 & HF are\ncaused by hydrogen bonding between molecules"
+            ]
+        ],
+        [
+            [
+                "Explain why ice is less dense\u00a0than liquid water"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/023/959/a_image_thumb.png?1548607494"
+            ]
+        ],
+        [
+            [
+                "Explain why simple\u00a0covalent compounds have lower melting/boiling points than macromolecules. (4)"
+            ],
+            []
+        ],
+        [
+            [
+                "Explain how the solubility of a substance in water depends\u00a0on type of particles it contains"
+            ],
+            []
+        ],
+        [
+            [
+                "Fill in the blanks",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/024/334/q_image_thumb.png?1548607791"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/024/334/a_image_thumb.png?1548607810"
+            ]
+        ],
+        [
+            [
+                "Fill in the blanks",
+                "(3 examples)",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/024/352/q_image_thumb.png?1548608018"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/024/352/a_image_thumb.png?1548608033"
+            ]
+        ],
+        [
+            [
+                "Fill in the blanks",
+                "(3 examples)",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/024/626/q_image_thumb.png?1548608098"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/024/626/a_image_thumb.png?1548608112"
+            ]
+        ],
+        [
+            [
+                "Fill in the blanks",
+                "(3 examples)",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/024/671/q_image_thumb.png?1548608176"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/024/671/a_image_thumb.png?1548608193"
+            ]
+        ],
+        [
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/024/780/q_image_thumb.png?1548608230"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/024/780/a_image_thumb.png?1548608244"
+            ]
+        ],
+        [
+            [
+                "Explain why CF4 has a bond angle of 109.5\u00b0 (2)"
+            ],
+            [
+                "\u2234 these repel equally & spread as far apart as possible"
+            ]
+        ],
+        [
+            [
+                "State what is meant by macromolecular (1)"
+            ],
+            [
+                "Means a giant molecule with covalent bonding"
+            ]
+        ],
+        [
+            [
+                "Predict the shape of AlCl4-. Draw a diagram of the specie to show its 3D shape. Name the shape and suggest a value for the bond angles. Explain your reasoning. (4)"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/142/820/a_image_thumb.png?1548689637"
+            ]
+        ],
+        [
+            [
+                "Application Question",
+                "Perfume is a mixture of fragrant compounds dissolved in a volatile solvent. When applied to the skin the solvent evaporates, causing the skin to cool for a short time. After a while, the fragrance may be detected some distance away. Explain the observations. (4)"
+            ],
+            []
+        ],
+        [
+            [
+                "Draw a diagram to show how 1 molecule of ammonia is attracted to 1 molecule of water. (3)",
+                "(hint h-bonding)"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/143/376/a_image_thumb.png?1548690088"
+            ]
+        ],
+        [
+            [
+                "Draw NH3BCl3"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/148/160/a_image_thumb.png?1548693597"
+            ]
+        ],
+        [
+            [
+                "What type of bonding does H3O+ have?"
+            ],
+            [
+                "Dative Covalent Bonding\u00a0"
+            ]
+        ],
+        [
+            [
+                "Fill in the blanks",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/148/455/q_image_thumb.png?1548693870"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/266/148/455/a_image_thumb.png?1548693881"
+            ]
+        ],
+        [
+            [
+                "Showing outer electrons only, draw a dot-and-cross diagram to indicate the bonding in calcium oxide (2)"
+            ],
+            [
+                "Ionic Bonding",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/268/887/495/a_image_thumb.png?1551016680"
+            ]
+        ],
+        [
+            [
+                "Explain why the boiling temperature of PH3\u00a0is greater than that of CH4\u00a0(3)"
+            ],
+            []
+        ],
+        [
+            [
+                "Explain why the H-F bond in HF is polar (2)"
+            ],
+            []
+        ]
+    ],
+    "IntroToOrganicChem": [
+        [
+            [
+                "Define\u00a0General Formula"
+            ],
+            [
+                "An algebraic formula that can describe any\u00a0member of a family of compounds",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/252/789/626/a_image_thumb.png?1536078261"
+            ]
+        ],
+        [
+            [
+                "Define\u00a0Empirical formula\u00a0"
+            ],
+            [
+                "Simplest ratio of atoms of each\u00a0element in a compound",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/252/789/888/a_image_thumb.png?1536078274"
+            ]
+        ],
+        [
+            [
+                "Define\u00a0Molecular formula\u00a0"
+            ],
+            [
+                "Actual number of atoms of each\u00a0element in a molecule",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/252/789/890/a_image_thumb.png?1536078284"
+            ]
+        ],
+        [
+            [
+                "Define\u00a0Structural Formula\u00a0"
+            ],
+            [
+                "Shows the atoms carbon by carbon +\u00a0attached hydrogens & functional groups",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/252/790/707/a_image_thumb.png?1536078190"
+            ]
+        ],
+        [
+            [
+                "Define\u00a0Skeletal Formula\u00a0"
+            ],
+            [
+                "Shows the bonds of the carbon skeleton\u00a0ONLY + any functional groups",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/252/790/736/a_image_thumb.png?1536078223"
+            ]
+        ],
+        [
+            [
+                "Define\u00a0Displayed Formula"
+            ],
+            [
+                "Shows how all the atoms are arranged\u00a0and all the bonds between them",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/252/790/957/a_image_thumb.png?1536078243"
+            ]
+        ],
+        [
+            [
+                "What is the functional group for alkanes?"
+            ],
+            [
+                "C\u2014C"
+            ]
+        ],
+        [
+            [
+                "What is the functional group for alkenes?"
+            ],
+            [
+                "C=C"
+            ]
+        ],
+        [
+            [
+                "What is the functional group for alcohols?"
+            ],
+            [
+                "C\u2014OH"
+            ]
+        ],
+        [
+            [
+                "What is the functional group for haloalkanes?"
+            ],
+            [
+                "C\u2014halogen"
+            ]
+        ],
+        [
+            [
+                "What is the functional group for aldehydes?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/248/856/a_image_thumb.png?1537761245"
+            ]
+        ],
+        [
+            [
+                "What is the functional group for ketones?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/248/869/a_image_thumb.png?1537761276"
+            ]
+        ],
+        [
+            [
+                "What is the functional group for carboxylic acids?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/248/873/a_image_thumb.png?1537761303"
+            ]
+        ],
+        [
+            [
+                "What is the functional group for nitriles?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/248/876/a_image_thumb.png?1537761348"
+            ]
+        ],
+        [
+            [
+                "What is the functional group for amines?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/248/886/a_image_thumb.png?1537761370"
+            ]
+        ],
+        [
+            [
+                "What is suffix for alkenes?"
+            ],
+            [
+                "-ene"
+            ]
+        ],
+        [
+            [
+                "What is suffix & prefix for alcohols?"
+            ],
+            [
+                "-ol & hydroxy-"
+            ]
+        ],
+        [
+            [
+                "What is the prefix for haloalkanes? (4x)"
+            ],
+            []
+        ],
+        [
+            [
+                "What is the suffix\u00a0for aldehydes?"
+            ],
+            [
+                "-(an)al"
+            ]
+        ],
+        [
+            [
+                "What is the prefix & suffix\u00a0for ketones?"
+            ],
+            [
+                "oxo- & -(an)one"
+            ]
+        ],
+        [
+            [
+                "What is the\u00a0suffix\u00a0for carboxylic acids?"
+            ],
+            [
+                "-(an)oic acid"
+            ]
+        ],
+        [
+            [
+                "What is the suffix\u00a0for nitriles?"
+            ],
+            [
+                "-(anen)nitrile"
+            ]
+        ],
+        [
+            [
+                "What is the prefix & suffix\u00a0for amines?"
+            ],
+            [
+                "-(yl)amine & amino-"
+            ]
+        ],
+        [
+            [
+                "What is the general formula for alkanes?"
+            ],
+            [
+                "CnH2n+2",
+                "(n = 1,2,3 etc.)"
+            ]
+        ],
+        [
+            [
+                "What is the general formula for alkenes?"
+            ],
+            [
+                "CnH2n",
+                "(n = 1,2,3 etc.)"
+            ]
+        ],
+        [
+            [
+                "What is the general formula for alcohols?"
+            ],
+            [
+                "CnH2n+1OH",
+                "(n = 1,2,3 etc.)"
+            ]
+        ],
+        [
+            [
+                "What is the general formula for carboxylic acids?"
+            ],
+            [
+                "CnH2n+1COOH",
+                "(n = 0,1,2 etc.)"
+            ]
+        ],
+        [
+            [
+                "What is the general formula for haloalkanes?"
+            ],
+            [
+                "CnH2n+1X",
+                "(n = 1,2,3 etc.)",
+                "\u00a0(X = F, Cl etc.)"
+            ]
+        ],
+        [
+            [
+                "What is the general formula for primary amines?"
+            ],
+            [
+                "CnH2n+1NH2",
+                "(n = 1,2,3 etc.)"
+            ]
+        ],
+        [
+            [
+                "What is the general formula for aldehydes?"
+            ],
+            [
+                "CnH2n+1CHO",
+                "(n = 0,1,2 etc.)"
+            ]
+        ],
+        [
+            [
+                "What is the general formula for ketones?"
+            ],
+            [
+                "CmH2m+1COCnH2n+1",
+                "(m & n = 0,1,2 etc.)"
+            ]
+        ],
+        [
+            [
+                "Name 5\u00a0features of a homologous series"
+            ],
+            [
+                "Chemically similar / react in same way",
+                "Each successive member\u00a0differs by CH2",
+                "Same general formula",
+                "Same functional group",
+                "Gradation in physical properties or specified trend"
+            ]
+        ],
+        [
+            [
+                "\u00a0What effect does the length of the\u00a0carbon chain have on\u00a0chemical reactivity of\u00a0the functional group?"
+            ],
+            [
+                "Has little effect"
+            ]
+        ],
+        [
+            [
+                "What affects the\u00a0physical properties (e.g.\u00a0melting/boiling point & solubility) of carbon molecule?"
+            ],
+            [
+                "The\u00a0length of carbon chain"
+            ]
+        ],
+        [
+            [
+                "In\u00a0general: small molecules are ___ \u00a0and\u00a0larger ones are ____ + _____"
+            ],
+            [
+                "gas &\u00a0 liquids +\u00a0solids"
+            ]
+        ],
+        [
+            [
+                "Why does the length of the carbon chain affect physical properties?"
+            ],
+            [
+                "Melting/boiling points increase\u00a0by small amounts as no. of C in\u00a0chain increases\u00a0\u2235 intermolecular\u00a0forces increase"
+            ]
+        ],
+        [
+            [
+                "How does chain branching generally affect melting points and why?"
+            ],
+            []
+        ],
+        [
+            [
+                "Hydrogen ring molecules\u00a0have prefix of ____"
+            ],
+            [
+                "\u00a0'cyclo'"
+            ]
+        ],
+        [
+            [
+                "What are isomers?"
+            ],
+            [
+                "Molecules that have the same\u00a0molecular formula but their atoms\u00a0are arranged differently"
+            ]
+        ],
+        [
+            [
+                "Name 2 type of isomers"
+            ],
+            [
+                "Stereoisomers & structural isomers\u00a0"
+            ]
+        ],
+        [
+            [
+                "What are structural isomers?"
+            ],
+            [
+                "Have same molecular formula but\u00a0different structural formulas"
+            ]
+        ],
+        [
+            [
+                "Name\u00a03 types of structural\u00a0isomers"
+            ],
+            []
+        ],
+        [
+            [
+                "What is a chain isomer?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/249/731/a_image_thumb.png?1537763272"
+            ]
+        ],
+        [
+            [
+                "What is a positional isomer?"
+            ],
+            [
+                "\u00a0",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/249/741/a_image_thumb.png?1537763283"
+            ]
+        ],
+        [
+            [
+                "What are functional group isomers?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/249/792/a_image_thumb.png?1537764122"
+            ]
+        ],
+        [
+            [
+                "What are stereoisomers?"
+            ],
+            [
+                "(Where 2 or more) compounds with the\u00a0same structural formula but with atoms arranged differently in space"
+            ]
+        ],
+        [
+            [
+                "_____ show\u00a0E/Z Isomerism"
+            ],
+            [
+                "Alkenes"
+            ]
+        ],
+        [
+            [
+                "The atoms connected to the\u00a0C=C double bonds _____\u00a0rotate around them like they can\u00a0around single bonds"
+            ],
+            [
+                "Cannot"
+            ]
+        ],
+        [
+            [
+                "What causes the type of\u00a0stereoisomerism called E/Z isomerism?"
+            ],
+            [
+                "\u00a0Restricted rotation around the (planar) C=C\u00a0double bond"
+            ]
+        ],
+        [
+            [
+                "Explain how alkenes show\u00a0E/Z isomerism"
+            ],
+            []
+        ],
+        [
+            [
+                "Where are the same groups situated in\u00a0(cis)\u00a0Z-isomer?"
+            ],
+            [
+                "Either both\u00a0above or both below double bond",
+                "(matching groups are on 'ze zame zide')",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/273/360/a_image_thumb.png?1537797079"
+            ]
+        ],
+        [
+            [
+                "Where are the same groups situated in (trans)\u00a0E-isomer?"
+            ],
+            [
+                "Same groups\u00a0positioned across the double bond",
+                "(matching groups are 'enemies')",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/273/448/a_image_thumb.png?1537797124"
+            ]
+        ],
+        [
+            [
+                "What rules do we use to identify whether a molcule with a\u00a0C=C bond, surrounded\u00a0by 3 or 4 different functional groups, is a\u00a0E-\u00a0or Z- isomer?"
+            ],
+            [
+                "Use the\u00a0Cahn-Ingold-Prelog (CIP) priority rules"
+            ]
+        ],
+        [
+            [
+                "Describe how we use the CIP rules to identify a E-/Z-isomer"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/273/604/a_image_thumb.png?1537797469"
+            ]
+        ],
+        [
+            [
+                "CIP rules:\u00a0What do you do if the\u00a0atoms directly bonded to\u00a0carbon are the same?"
+            ],
+            [
+                "Look at next atom in the groups to work out\u00a0which has the higher priority",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/273/772/a_image_thumb.png?1537797801"
+            ]
+        ],
+        [
+            [
+                "Why is the\u00a0IUPAC system used\u00a0for naming organic\u00a0compounds?"
+            ],
+            [
+                "It's the\u00a0agreed international\u00a0language of chemistry so it allows\u00a0scientific ideas to be communicated\u00a0across the globe more effectively"
+            ]
+        ],
+        [
+            [
+                "What are mechanisms?"
+            ],
+            [
+                "Diagrams that break\u00a0reactions down into individual stages"
+            ]
+        ],
+        [
+            [
+                "What reaction do mechanisms show?"
+            ],
+            [
+                "How molecules react together",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/274/286/a_image_thumb.png?1537798347"
+            ]
+        ],
+        [
+            [
+                "What do curly arrows show?"
+            ],
+            [
+                "How electron pairs\u00a0move around in reactions",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/274/332/a_image_thumb.png?1537798363"
+            ]
+        ],
+        [
+            [
+                "As electrons are _____ _____, they\u00a0move\u00a0from areas of high\u00a0______ _____ to more\u00a0_____ ____ areas"
+            ],
+            [
+                "As electrons are negatively charged = move\u00a0from areas of high electron density to more\u00a0positively charged areas",
+                "(e.g. pair of electrons =\u00a0attracted to carbon atom at\u00a0positive end of a polar bond)"
+            ]
+        ],
+        [
+            [
+                "Explain how free radicals form?"
+            ],
+            []
+        ],
+        [
+            [
+                "Free radicals are extremely\u00a0____"
+            ],
+            [
+                "reactive"
+            ]
+        ],
+        [
+            [
+                "How are free radicals represented?"
+            ],
+            [
+                "By a\u00a0dot",
+                "(e.g. CH3\u2022 =\u00a0methyl radical)"
+            ]
+        ],
+        [
+            [
+                "What is the functional group of an ester?"
+            ],
+            [
+                "-COO\n\u00a0",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/254/284/347/a_image_thumb.png?1537809361"
+            ]
+        ],
+        [
+            [
+                "State the name of CH3CH=CHCH2OH"
+            ],
+            [
+                "But-2-en-1-ol"
+            ]
+        ]
+    ],
+    "Alkanes": [
+        [
+            [
+                "_____, _____ and _____\u00a0 have no isomers"
+            ],
+            [
+                "Methane, ethane and\u00a0propane"
+            ]
+        ],
+        [
+            [
+                "Name 4 physical properties of alkanes"
+            ],
+            []
+        ],
+        [
+            [
+                "Explain why alkanes are almost non-polar & what does this mean"
+            ],
+            [
+                "\u2235 electronegativities\u00a0of carbon and hydrogen = similar\u00a0\u2234 intermolecular forces = weak\u00a0van der Waals forces",
+                "(Larger the molecule = stronger\u00a0the van der Waals forces)"
+            ]
+        ],
+        [
+            [
+                "Explain why as the\u00a0chain length increases, the\u00a0boiling points increase"
+            ],
+            [
+                "Intermolecular forces increase"
+            ]
+        ],
+        [
+            [
+                "Alkanes with branched chains have\u00a0_____\u00a0melting points than straight chain\u00a0alkanes (with same no. of C)"
+            ],
+            [
+                "LOWER\u00a0melting points than straight chain\u00a0alkanes (with same no. of C)"
+            ]
+        ],
+        [
+            [
+                "Why do alkanes with\u00a0branched chains have lower\u00a0melting points than straight chain\u00a0alkanes (with same no. of C)?"
+            ],
+            [
+                "\u2235 less surface area & weaker van der Waals\u00a0forces"
+            ]
+        ],
+        [
+            [
+                "Solid alkanes have a\u00a0____ feel"
+            ],
+            [
+                "waxy"
+            ]
+        ],
+        [
+            [
+                "Shorter chains of alkanes are\u00a0___\u00a0at room temp."
+            ],
+            [
+                "gases"
+            ]
+        ],
+        [
+            [
+                "Why are alkanes insoluble in water?"
+            ],
+            [
+                "Hydrogen bonds holding water molecules\u00a0together = much stronger than van der Waals\u00a0forces between alkane molecules"
+            ]
+        ],
+        [
+            [
+                "What do alkanes react with?"
+            ],
+            [
+                "halogens (& burn\u00a0under suitable conditions)"
+            ]
+        ],
+        [
+            [
+                "What is petroleum (crude oil)?"
+            ],
+            [
+                "Mixture of\u00a0hydrocarbons - mostly alkanes"
+            ]
+        ],
+        [
+            [
+                "How did crude oil form?"
+            ],
+            [
+                "Formed millions of years ago by\u00a0breakdown of plant and animal remains at\u00a0high pressure and temperature"
+            ]
+        ],
+        [
+            [
+                "Why does crude oil contains other elements?"
+            ],
+            [
+                "Contains some elements that were\u00a0in original plants\u00a0and animals"
+            ]
+        ],
+        [
+            [
+                "Describe the stages of fractional distillation\u00a0"
+            ],
+            []
+        ],
+        [
+            [
+                "What is cracking?"
+            ],
+            [
+                "Breaking long-chain\u00a0alkanes into smaller hydrocarbons, involves breaking C-C bonds"
+            ]
+        ],
+        [
+            [
+                "Give 2 conditions of thermal cracking"
+            ],
+            []
+        ],
+        [
+            [
+                "What does thermal cracking produce?"
+            ],
+            [
+                "Produces a lot of alkenes\u00a0"
+            ]
+        ],
+        [
+            [
+                "How do can we\u00a0avoid\u00a0the\u00a0decomposition (of C and\u00a0H) in\u00a0thermal cracking?"
+            ],
+            [
+                "Alkanes kept in these conditions for very\u00a0short time (e.g. a second)"
+            ]
+        ],
+        [
+            [
+                "Name 3 conditions of catalytic cracking"
+            ],
+            []
+        ],
+        [
+            [
+                "What is the structure of a zeolites & why?"
+            ],
+            [
+                "Have honeycomb structure\u00a0= enormous surface area",
+                "& are acidic\u00a0"
+            ]
+        ],
+        [
+            [
+                "What is the benefit of using a catalyst?"
+            ],
+            []
+        ],
+        [
+            [
+                "What does catalytic\u00a0cracking normally produce?"
+            ],
+            [
+                "Mostly produces aromatic\u00a0hydrocarbons and motor fuels (+ branched alkanes\u00a0and cycloalkanes)"
+            ]
+        ],
+        [
+            [
+                "What do aromatic compounds contain?"
+            ],
+            [
+                "Benzene rings"
+            ]
+        ],
+        [
+            [
+                "What is the structure of benzene rings?"
+            ],
+            [
+                "Have 6 carbon atoms with 3 double bonds"
+            ]
+        ],
+        [
+            [
+                "Why\u00a0are benzene rings stable?"
+            ],
+            [
+                "Because the electrons are delocalised around the carbon ring"
+            ]
+        ],
+        [
+            [
+                "Why doesn't cracking produce 2 alkanes?"
+            ],
+            [
+                "\u00a0Since there isn't enough hydrogen\u00a0atoms to produce 2 alkanes = one of\u00a0new chains has C=C"
+            ]
+        ],
+        [
+            [
+                "How are the products obtained from cracking separated?"
+            ],
+            [
+                "By fractional distillation"
+            ]
+        ],
+        [
+            [
+                "Why are alkanes are great fuels?"
+            ],
+            [
+                "Burning small\u00a0amount = huge amount of energy"
+            ]
+        ],
+        [
+            [
+                "Give the word equation for complete combustion"
+            ],
+            [
+                "Alkanes + Oxygen \u2192 Carbon Dioxide + Water"
+            ]
+        ],
+        [
+            [
+                "Give the word equations for incomplete combustion"
+            ],
+            [
+                "Alkanes + Oxygen \u2192 Carbon Monoxide + Water (+ sometimes Carbon Dioxide)",
+                "Alkanes + Oxygen \u2192 Carbon + Water"
+            ]
+        ],
+        [
+            [
+                "Why is carbon monoxide\u00a0gas poisonous?"
+            ],
+            [
+                "Binds to same sites on\u00a0haemoglobin molecules in red\u00a0blood cells as oxygen molecules\u00a0\u2234 oxygen cannot be\u00a0carried around the body"
+            ]
+        ],
+        [
+            [
+                "Name 2 issues with soot (particulates)"
+            ],
+            [
+                "Soot causes\u00a0breathing problems\u00a0& builds up in engines =\u00a0can't work properly"
+            ]
+        ],
+        [
+            [
+                "Describe the greenhouse effect"
+            ],
+            []
+        ],
+        [
+            [
+                "How does rising temperature affect water vapour?"
+            ],
+            []
+        ],
+        [
+            [
+                "How can carbon monoxide\u00a0be removed\u00a0from exhaust gases?"
+            ],
+            [
+                "By\u00a0catalytic converters on cars"
+            ]
+        ],
+        [
+            [
+                "Where do\u00a0unburnt hydrocarbons come from?"
+            ],
+            [
+                "Engines (they don't burn all fuel molecules =\u00a0come out as unburnt hydrocarbons)"
+            ]
+        ],
+        [
+            [
+                "How are oxides of nitrogen (NOx) produced?"
+            ],
+            [
+                "Produced\u00a0when high pressure\u00a0and temperature in car engine causes nitrogen and oxygen\u00a0atoms in air to react together"
+            ]
+        ],
+        [
+            [
+                "Describe how smog (O3)\u00a0is created?"
+            ],
+            [
+                "Hydrocarbons and nitrogen oxides react in\u00a0presence of sunlight to form ground-level ozone\u00a0(O3) = major component in smog"
+            ]
+        ],
+        [
+            [
+                "Why is ground-level ozones bad? (3x)"
+            ],
+            [
+                "\u00a0Irritates people's\u00a0eyes and increases respiratory\u00a0problems + lung damage"
+            ]
+        ],
+        [
+            [
+                "How can we remove\u00a0unburnt hydrocarbons\u00a0and NOx from exhausts?"
+            ],
+            [
+                "By catalytic converters"
+            ]
+        ],
+        [
+            [
+                "What is a catalytic converter?"
+            ],
+            [
+                "Honeycomb made of ceramic\u00a0material coated with platinum\u00a0and rhodium metals"
+            ]
+        ],
+        [
+            [
+                "Describe how acid rain occurs"
+            ],
+            []
+        ],
+        [
+            [
+                "Name 3 things acid rains destroys"
+            ],
+            []
+        ],
+        [
+            [
+                "What are flue gases?"
+            ],
+            [
+                "Gases given out by\u00a0power stations"
+            ]
+        ],
+        [
+            [
+                "Describe flue gas desulfurisation\u00a0",
+                "(how flue gases can be removed from power stations\u00a0before it gets into atmosphere)"
+            ],
+            []
+        ],
+        [
+            [
+                "What is calcium\u00a0sulfate (AKA gypsum) used for?"
+            ],
+            [
+                "Used to make builders'\u00a0plaster and plasterboard"
+            ]
+        ],
+        [
+            [
+                "Give the symbol equation for forming\u00a0NO"
+            ],
+            [
+                "N2 (g)\u00a0+ O2 (g)\u00a0\u2192 2NO(g)"
+            ]
+        ],
+        [
+            [
+                "Give the symbol equation for forming\u00a0sulfuric acid"
+            ],
+            [
+                "SO2(g)\u00a0+ 1/2 O2(g)\u00a0+ H2O(l)\u00a0\u2192 H2SO4(l)"
+            ]
+        ],
+        [
+            [
+                "Give 2 word equations of a catalytic converter converting polluting gases into less harmful products"
+            ],
+            [
+                "Carbon Monoxide + Nitrogen Oxide\u00a0\u2192 Nitrogen + Carbon Dioxide",
+                "Hydrocarbons + Nitrogen Oxide\u00a0\u2192 Nitrogen + Carbon Dioxide + Water"
+            ]
+        ],
+        [
+            [
+                "What are free radicals?"
+            ],
+            [
+                "Particles with\u00a0unpaired electrons"
+            ]
+        ],
+        [
+            [
+                "When do free radicals form?"
+            ],
+            [
+                "When a\u00a0covalent bond spilts equally, giving\u00a0one electron to each atom"
+            ]
+        ],
+        [
+            [
+                "Why are free radicals very reactive?"
+            ],
+            [
+                "\u2235 electrons are unpaired"
+            ]
+        ],
+        [
+            [
+                "Example: Reacting\u00a0Chlorine with Methane",
+                "What happens after the termination reactions?"
+            ],
+            [
+                "Depends on whether there's more chlorine or methane around:"
+            ]
+        ],
+        [
+            [
+                "What are chlorofluorocarbons (CFCs)?"
+            ],
+            [
+                "Halogenoalkane molecules where all\u00a0of hydrogen atoms have been replaced by\u00a0chlorine and fluorine atoms",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/255/668/937/a_image_thumb.png?1539106823"
+            ]
+        ],
+        [
+            [
+                "What does\u00a0Ozone (O3) in upper atmosphere do?"
+            ],
+            [
+                "Acts as a chemical sunscreen \u2192\u00a0absorbs UV\u00a0radiation from Sun"
+            ]
+        ],
+        [
+            [
+                "How is ozone\u00a0formed naturally?"
+            ],
+            []
+        ],
+        [
+            [
+                "Explain how\u00a0CFCs are creating\u00a0holes in ozone layer (include symbol equations)"
+            ],
+            [
+                "e.g. CCl3F\u00a0\u2192 CCl2F\u2022 + Cl\u2022",
+                "Cl\u2022 + O3 \u2192\u00a0O2 + ClO\u2022",
+                "ClO\u2022 + O3 \u2192\u00a02O2 + Cl\u2022",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/255/669/501/a_image_thumb.png?1539107418"
+            ]
+        ],
+        [
+            [
+                "Name 3 properties of\u00a0CFCs"
+            ],
+            [
+                "Unreactive,\u00a0non-flammable & non-toxic"
+            ]
+        ],
+        [
+            [
+                "CFCs are _____"
+            ],
+            [
+                "BANNED"
+            ]
+        ],
+        [
+            [
+                "What can we now use instead of CFCs?"
+            ],
+            [
+                "\u00a0e.g. HFCs\u00a0(hydrofluorocarbons) & hydrocarbons"
+            ]
+        ],
+        [
+            [
+                "For the conversion of methane to tetrachloromethane:",
+                "Give the overall equation"
+            ],
+            [
+                "CH4 + 4 Cl2\u00a0\u2192 CCl4 + 4 HCl"
+            ]
+        ],
+        [
+            [
+                "Free Radical Substitution\u00a0",
+                "Condition"
+            ],
+            [
+                "UV light neeed to break halogen bond"
+            ]
+        ],
+        [
+            [
+                "For the conversion of ethane to 1,1-dibromoethane\u00a0",
+                "Give the overall equation"
+            ],
+            [
+                "C2H6\u00a0+ 2Br2\u00a0\u2192 C2H4Br2\u00a0+ 2HBr"
+            ]
+        ],
+        [
+            [
+                "For the conversion of ethane to 1,1-dibromoethane\u00a0",
+                "Give the pair of propagation steps to form bromoethane from ethane"
+            ],
+            [
+                "C2H6\u00a0+ Br\u2022\u00a0\u2192 C2H5\u2022 + HBr",
+                "C2H5\u2022\u00a0+ Br2\u00a0\u2192\u00a0C2H5Br + Br\u2022"
+            ]
+        ],
+        [
+            [
+                "For the conversion of ethane to 1,1-dibromoethane:",
+                "Give the pair of propagation steps to form 1,1-dibromoethane from bromoethane"
+            ],
+            [
+                "C2H5Br + Br\u2022\u00a0\u2192 C2H4Br\u2022 + HBr",
+                "C2H4Br\u2022\u00a0+ Br2\u00a0\u2192\u00a0C2H4Br2\u00a0+ Br\u2022"
+            ]
+        ],
+        [
+            [
+                "For the conversion of ethane to 1,1-dibromoethane:",
+                "Give the termination step that forms butane"
+            ],
+            [
+                "2C2H5\u2022\u00a0\u2192 C4H10"
+            ]
+        ],
+        [
+            [
+                "Write the symbol equation for when carbon monoxide reacts with nitrogen oxide\u00a0"
+            ],
+            [
+                "2CO(g) + 2NO(g)\u00a0\u2192 N2(g) + 2CO2(g)"
+            ]
+        ],
+        [
+            [
+                "Represent how calcium oxide\u00a0is used to remove sulfur dioxide from flue gases by using an equation"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/274/914/623/a_image_thumb.png?1555767505"
+            ]
+        ],
+        [
+            [
+                "Represent how calcium carbonate is used to remove sulfur dioxide from flue gases by using an equation"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/274/914/624/a_image_thumb.png?1555767506"
+            ]
+        ],
+        [
+            [
+                "Deduce an equation to show how nitrogen dioxide reacts with oxygen and water to form nitric acid"
+            ],
+            [
+                "4NO2 + 2H2O + O2\u00a0\u2192 4HNO3"
+            ]
+        ],
+        [
+            [
+                "Explain the main economic reason why alkanes are cracked (1)"
+            ],
+            [
+                "To produce substances which are more in demand / products with high value"
+            ]
+        ],
+        [
+            [
+                "Suggest why calcium oxide reacts with sulfur dioxide (1)"
+            ],
+            [
+                "It is basic/SO2\u00a0is acidic",
+                "(neutralises the gas)"
+            ]
+        ],
+        [
+            [
+                "Write an equation to show how gypsum (calcium sulfate) is made"
+            ],
+            [
+                "CaSO3(s) + 1/2O2(g)\u00a0\u2192 CaSO4\u00a0",
+                "Calcium sulfite is oxidised to calcium sulfate (gypsum)"
+            ]
+        ]
+    ],
+    "Halogenoalkanes": [
+        [
+            [
+                "What is a halogenoalkane?"
+            ],
+            [
+                "Alkanes with at least one halogen atom\u00a0in place of hydrogen atom"
+            ]
+        ],
+        [
+            [
+                "Describe 3 physical properties of halogenoalkanes"
+            ],
+            []
+        ],
+        [
+            [
+                "Boiling points increase with ... & increases when ..."
+            ],
+            [
+                "Boiling points increase\u00a0with increased\u00a0chain length & increases when going down\u00a0the halogen group"
+            ]
+        ],
+        [
+            [
+                "Why do boiling points increase\u00a0with increased\u00a0chain length or\u00a0when going\u00a0down\u00a0the halogen group?"
+            ],
+            [
+                "\u2235 larger the molecule = greater\u00a0the number of electrons \u2234 greater the\u00a0van der Waals forces"
+            ]
+        ],
+        [
+            [
+                "Why do halogenoalkanes have higher\u00a0boiling points than alkanes with\u00a0similar chain lengths?"
+            ],
+            [
+                "\u2235 have higher relative molecular\u00a0masses & more polar"
+            ]
+        ],
+        [
+            [
+                "Why are\u00a0carbon-halogen bonds polar?"
+            ],
+            [
+                "Halogens are much more\u00a0electronegative than carbon"
+            ]
+        ],
+        [
+            [
+                "What makes halogenoalkanes prone to attacks from\u00a0nucleophiles?"
+            ],
+            [
+                "\u00a0\u03b4+ charge on carbon/polar\u00a0carbon-halogen bond"
+            ]
+        ],
+        [
+            [
+                "What is a\u00a0nucleophile?"
+            ],
+            [
+                "Electron-pair donor",
+                "(negatively charged ion or\u00a0an atom with \u03b4- charge)"
+            ]
+        ],
+        [
+            [
+                "What do nucleophiles have?"
+            ],
+            [
+                "Has lone (unshared)\u00a0pair of electrons"
+            ]
+        ],
+        [
+            [
+                "As you go down the halogen group, the\u00a0bonds (C-X) get __ ___\u00a0"
+            ],
+            [
+                "less polar"
+            ]
+        ],
+        [
+            [
+                "What is a nucleophilic\u00a0substitution reaction?"
+            ],
+            [
+                "When a nucleophile\u00a0reacts with polar molecules by\u00a0replacing the functional group"
+            ]
+        ],
+        [
+            [
+                "Why are nucleophilic\u00a0substitution reactions used?"
+            ],
+            [
+                "To introduce new functional\u00a0groups into organic compounds"
+            ]
+        ],
+        [
+            [
+                "Nucleophilic Substitution\u00a0",
+                "Name the reactant",
+                "\u00a0"
+            ],
+            [
+                "Halogenoalkane"
+            ]
+        ],
+        [
+            [
+                "Nucleophilic Substitution\u00a0",
+                "Name the nucleophiles"
+            ],
+            [
+                ":OH-, :CN-\u00a0& :NH3"
+            ]
+        ],
+        [
+            [
+                "Nucleophilic Substitution\u00a0",
+                "Name the condition & product for the nucleophile\u00a0:OH-"
+            ],
+            [
+                "Warm, aqueous NaOH or KOH \u2192 Alcohol"
+            ]
+        ],
+        [
+            [
+                "Nucleophilic Substitution\u00a0",
+                "Name the condition & product for the nucleophile\u00a0:CN-"
+            ],
+            [
+                "Warm halogenoalkane with ethanolic\u00a0KCN(aq)\u00a0\u2192 Nitrile"
+            ]
+        ],
+        [
+            [
+                "Nucleophilic Substitution\u00a0",
+                "Name the condition & product for the nucleophile\u00a0:NH3"
+            ],
+            [
+                "Warm halogenoalkane with excess ethanolic ammonia \u2192 Amine"
+            ]
+        ],
+        [
+            [
+                "Why is the reaction between hydroxide ions & halogenoalkanes sometimes called hydrolysis?"
+            ],
+            [
+                "\u2235 in the mechanism,\u00a0the exact same reaction will happen with water"
+            ]
+        ],
+        [
+            [
+                "Bromoethane + aqueous NaOH\u00a0",
+                "Name the mechanism"
+            ],
+            [
+                "Nucleophilic Substitution\u00a0"
+            ]
+        ],
+        [
+            [
+                "Bromoethane + aqueous NaOH",
+                "Balanced Equation"
+            ],
+            [
+                "C2H5Br + NaOH\u00a0\u2192 C2H5OH + NaBr"
+            ]
+        ],
+        [
+            [
+                "Bromoethane + aqueous NaOH",
+                "Name of Organic Product"
+            ],
+            [
+                "Ethanol"
+            ]
+        ],
+        [
+            [
+                "Bromoethane + aqueous NaOH",
+                "Mechanism"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/004/061/a_image_thumb.png?1541960073"
+            ]
+        ],
+        [
+            [
+                "Bromoethane + NH3",
+                "Name of Mechanism\u00a0"
+            ],
+            [
+                "Nucleophilic Substitution\u00a0"
+            ]
+        ],
+        [
+            [
+                "Bromoethane + NH3",
+                "Balanced Equation"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/004/207/a_image_thumb.png?1541960127"
+            ]
+        ],
+        [
+            [
+                "Bromoethane + NH3",
+                "Mechanism"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/004/209/a_image_thumb.png?1541960127"
+            ]
+        ],
+        [
+            [
+                "Bromoethane + NH3",
+                "Name of Organic Compound\u00a0"
+            ],
+            [
+                "Ethylamine"
+            ]
+        ],
+        [
+            [
+                "Bromoethane + KCN",
+                "Name of Mechanism\u00a0"
+            ],
+            [
+                "Nucleophilic Substitution\u00a0"
+            ]
+        ],
+        [
+            [
+                "Bromoethane + KCN",
+                "Mechanism"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/004/210/a_image_thumb.png?1541960128"
+            ]
+        ],
+        [
+            [
+                "Bromoethane + KCN",
+                "Balanced Equation"
+            ],
+            [
+                "C2H5Br + KCN\u00a0\u2192 C2H5CN + KBr"
+            ]
+        ],
+        [
+            [
+                "Bromoethane + KCN",
+                "Name of Organic Compound"
+            ],
+            [
+                "Propanenitrile"
+            ]
+        ],
+        [
+            [
+                "When\u00a0halogenoalkanes react with\u00a0ammonia, what can the amine group in the product act as and why & what can this lead to?"
+            ],
+            [
+                "Can acts as\u00a0nucleophile\u2235 it\u00a0has\u00a0lone pair of electrons\u00a0\u2234 may react with halogenoalkane molecules\u00a0= giving mixture of products"
+            ]
+        ],
+        [
+            [
+                "Why is an excess of ammonia needed to react with a\u00a0halogenoalkane to produce a high yield?"
+            ],
+            []
+        ],
+        [
+            [
+                "What 2 factors affect the\u00a0carbon-halogen bond's\u00a0reactivity?"
+            ],
+            []
+        ],
+        [
+            [
+                "Bond Enthalpies\u00a0",
+                "Bonds get ____\u00a0going down the group"
+            ],
+            [
+                "Bonds get weaker\u00a0going down the group"
+            ]
+        ],
+        [
+            [
+                "Explain why fluorine has the\u00a0strongest bond\u00a0"
+            ],
+            [
+                "It's the\u00a0smallest atom of halogens &\u00a0shared electrons in C\u2014F bond = strongly\u00a0attracted to nucleus"
+            ]
+        ],
+        [
+            [
+                "Explain why bonds get weaker\u00a0going down the group"
+            ],
+            [
+                "\u2235 shared electrons in C\u2014X bond gets\u00a0further away from halogen nucleus =\u00a0bond becomes weaker"
+            ]
+        ],
+        [
+            [
+                "What does the polarity of C\u2014X predict & why?"
+            ],
+            []
+        ],
+        [
+            [
+                "What is the main factor that decides reactivity?"
+            ],
+            [
+                "Carbon-halogen bond enthalpy",
+                "(Experiments show that reactivity increases\u00a0down the group \u2235 bond enthalpy is more\u00a0important factor than bond polarity)"
+            ]
+        ],
+        [
+            [
+                "Why do\u00a0fluoroalkanes undergo nucleophilic\u00a0substitution reactions more slowly than\u00a0other halogenoalkanes?"
+            ],
+            [
+                "C-F bond is strongest =\u00a0highest bond enthalpy"
+            ]
+        ],
+        [
+            [
+                "Why are\u00a0iodoalkanes\u00a0substituted more quickly than say\u00a0fluoroalkanes?"
+            ],
+            [
+                "\u00a0C-I bond has lowest bond\u00a0enthalpy = easier to break"
+            ]
+        ],
+        [
+            [
+                "When do you get an elimination reaction?"
+            ],
+            [
+                "If you warm a halogenoalkane with hydroxide ions\u00a0dissolved in ethanol instead of water = elimination\u00a0reactions happens"
+            ]
+        ],
+        [
+            [
+                "Elimination Reaction",
+                "Name the condition and product when a halogenoalkane is used as a rectant"
+            ],
+            [
+                "Ethanolic KOH - Alkene"
+            ]
+        ],
+        [
+            [
+                "2-bromopropane + ethanolic KOH",
+                "Name of\u00a0Mechanism"
+            ],
+            [
+                "Elimination Reaction"
+            ]
+        ],
+        [
+            [
+                "2-bromopropane + ethanolic KOH",
+                "Balanced Equation"
+            ],
+            [
+                "C3H7Br + KOH\u00a0\u2192 C3H6\u00a0+ H2O + KBr"
+            ]
+        ],
+        [
+            [
+                "2-bromopropane + ethanolic KOH",
+                "Name of Organic Compound\u00a0"
+            ],
+            [
+                "Propene"
+            ]
+        ],
+        [
+            [
+                "2-bromopropane + ethanolic KOH",
+                "\u00a0",
+                "Mechanism"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/069/151/a_image_thumb.png?1542030066"
+            ]
+        ],
+        [
+            [
+                "In an elimination reaction, why do you have to heat mixture under reflux?"
+            ],
+            [
+                "\u2235\u00a0you'll otherwise\u00a0lose the volatile stuff\u00a0"
+            ]
+        ],
+        [
+            [
+                "In elimination reactions: small group of\u00a0atoms...."
+            ],
+            [
+                "break away from molecule",
+                "Group is NOT replaced\u00a0"
+            ]
+        ],
+        [
+            [
+                "When halogenoalkanes are reacted with\u00a0hydroxides, they can\u00a0undergo..."
+            ],
+            [
+                "either nucleophilic\u00a0substitution or elimination \u2192\u00a02 reactions are said to\u00a0be competing",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/259/069/491/a_image_thumb.png?1542030628"
+            ]
+        ],
+        [
+            [
+                "Identify & draw an isomer of 2-bromopentane that does not react with hot, ethanolic sodium hydroxide to produce an alkene"
+            ],
+            [
+                "1-bromo-2,2-dimethylpropane",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/274/940/179/a_image_thumb.jpeg?1555784233"
+            ]
+        ],
+        [
+            [
+                "Suggest one change to the reaction conditions\u00a0that would increase the yield of an alcohol",
+                "(Hot concentrated ethanolic potassium hydroxide reacts with halogenoalkane)"
+            ],
+            []
+        ],
+        [
+            [
+                "Suggest one change to the reaction conditions\u00a0that would increase the yield of an alkene"
+            ],
+            []
+        ]
+    ],
+    "Alkenes": [
+        [
+            [
+                "Why does the\u00a0C=C double\u00a0covalent bond in alkenes have a high\u00a0electron density?"
+            ],
+            [
+                "\u2235 they're 2 pairs of electrons in\u00a0the C=C double bond",
+                "(High conc. of electrons )"
+            ]
+        ],
+        [
+            [
+                "Why is there restricted\u00a0rotation around\u00a0double bond in alkenes?"
+            ],
+            []
+        ],
+        [
+            [
+                "What is the\u00a0only intermolecular\u00a0forces between alkene molecules?"
+            ],
+            [
+                "Van der Waals forces"
+            ]
+        ],
+        [
+            [
+                "Alkenes are ____ in water"
+            ],
+            [
+                "insoluble"
+            ]
+        ],
+        [
+            [
+                "Alkenes are ____ reactive than alkanes"
+            ],
+            [
+                "more"
+            ]
+        ],
+        [
+            [
+                "Why are alkenes more reactive than alkanes?"
+            ],
+            [
+                "\u2235 C=C\u00a0forms electron-rich area = can be easily\u00a0attacked by electrophiles"
+            ]
+        ],
+        [
+            [
+                "Why do electrophilic addition reactions occur?"
+            ],
+            [
+                "\u2235\u00a0double bond has lots of electrons = easily\u00a0attacked by electrophiles"
+            ]
+        ],
+        [
+            [
+                "What are electrophiles?"
+            ],
+            [
+                "electron-pair acceptors"
+            ]
+        ],
+        [
+            [
+                "Where are electrophiles attracted to?"
+            ],
+            [
+                "Attracted to areas where\u00a0there's lots of electrons",
+                "e.g. Positively charged ions (H+\u00a0NO2+) and polar molecules (\u03b4+)"
+            ]
+        ],
+        [
+            [
+                "When you shake an\u00a0alkene with orange bromine\u00a0water, why does the\u00a0solution decolourises?"
+            ],
+            [
+                "\u2235\u00a0Bromine is added across C=C double bond to\u00a0form colourless dibromoalkane",
+                "(happens via\u00a0electrophilic addition)",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/843/485/a_image_thumb.png?1544272418"
+            ]
+        ],
+        [
+            [
+                "Electrophilic Addition\u00a0",
+                "Name the reactant + bonds & the products"
+            ],
+            []
+        ],
+        [
+            [
+                "What happens when you add a\u00a0hydrogen halide to an unsymmetrical\u00a0alkene?"
+            ],
+            [
+                "You get\u00a02 possible products"
+            ]
+        ],
+        [
+            [
+                "Adding Hydrogen Halides to\u00a0Unsymmetrical Alkenes",
+                "What does the amount of each product formed depend\u00a0on?"
+            ],
+            [
+                "How stable carbocation formed is = known as\u00a0carbocation intermediate"
+            ]
+        ],
+        [
+            [
+                "Why are carbocations with more alkyl groups\u00a0more stable?"
+            ],
+            [
+                "\u2235 alkyl groups feed electrons\u00a0towards positive charge",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/843/726/a_image_thumb.png?1544272886"
+            ]
+        ],
+        [
+            [
+                "Ethene + Br2",
+                "Balanced Equation (structural formula)"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/843/886/a_image_thumb.png?1544273064"
+            ]
+        ],
+        [
+            [
+                "Ethene + Br2",
+                "Mechanism"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/843/887/a_image_thumb.png?1544273064"
+            ]
+        ],
+        [
+            [
+                "Propene + HBr",
+                "Mechanism"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/843/888/a_image_thumb.png?1544273065"
+            ]
+        ],
+        [
+            [
+                "Ethene + H2SO4",
+                "Mechanism"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/843/889/a_image_thumb.png?1544273065"
+            ]
+        ],
+        [
+            [
+                "What do alkenes form initally when\u00a0reacted with cold\u00a0concentrated sulfuric acid?"
+            ],
+            [
+                "Alkyl hydrogen sulfates"
+            ]
+        ],
+        [
+            [
+                "How can you convert alkyl hydrogen sulfates into\u00a0alcohols?"
+            ],
+            [
+                "By adding water &\u00a0warming reaction mixture"
+            ]
+        ],
+        [
+            [
+                "What are polymers?"
+            ],
+            [
+                "Long chain molecules formed\u00a0when monomers join together"
+            ]
+        ],
+        [
+            [
+                "What are addition polymers formed from?"
+            ],
+            [
+                "alkenes and substituted alkenes"
+            ]
+        ],
+        [
+            [
+                "Why can\u00a0alkenes make up addition polymers?"
+            ],
+            [
+                "Can act as monomers and form polymers\u00a0\u2235 double bond can open up & join\u00a0together to make long chains"
+            ]
+        ],
+        [
+            [
+                "Draw\u00a0poly(phenylethene) from\u00a0phenylethene",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/844/118/q_image_thumb.png?1544273620"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/844/118/a_image_thumb.png?1544273679"
+            ]
+        ],
+        [
+            [
+                "Why are addition polymers\u00a0very unreactive?"
+            ],
+            []
+        ],
+        [
+            [
+                "How are the polyalkene chains held together?",
+                "\u00a0"
+            ],
+            [
+                "Van der Waals forces",
+                "(\u2235 polyalkene chains\u00a0= non-polar)"
+            ]
+        ],
+        [
+            [
+                "\u00a0Longer the polymer chains & closer\u00a0together they can get = ..."
+            ],
+            [
+                "stronger Van der\u00a0Waals forces between chains will be"
+            ]
+        ],
+        [
+            [
+                "Name 2 properties of\u00a0polyalkenes made from long,\u00a0straight chains"
+            ],
+            [
+                "strong & rigid"
+            ]
+        ],
+        [
+            [
+                "Name 2 properties of\u00a0polyalkenes made from short,\u00a0branched\u00a0chains"
+            ],
+            [
+                "weaker & more flexible"
+            ]
+        ],
+        [
+            [
+                "Why are addition polymers not\u00a0biodegradable?"
+            ],
+            [
+                "\u00a0"
+            ]
+        ],
+        [
+            [
+                "How can\u00a0you modify the properties of\u00a0polymers?"
+            ],
+            [
+                "By adding plasticiser to\u00a0polymer = more them more\u00a0flexible"
+            ]
+        ],
+        [
+            [
+                "Why does adding plasticiser to\u00a0polymer make it more flexible?"
+            ],
+            []
+        ],
+        [
+            [
+                "Draw the repeating unit of the polymer formed from ethene, C2H4"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/844/371/a_image_thumb.png?1544274216"
+            ]
+        ],
+        [
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/844/423/q_image_thumb.png?1544274269"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/844/423/a_image_thumb.png?1544274283"
+            ]
+        ],
+        [
+            [
+                "Draw chloroethene becoming poly(chloroethene)"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/844/502/a_image_thumb.png?1544274333"
+            ]
+        ],
+        [
+            [
+                "What is epoxyethane used as?"
+            ],
+            [
+                "An intermediate\u00a0chemical from which many\u00a0useful products can be made"
+            ]
+        ],
+        [
+            [
+                "How is epoxyethane made?"
+            ],
+            []
+        ],
+        [
+            [
+                "Why is making epoxyethane\u00a0hazardous?"
+            ],
+            []
+        ],
+        [
+            [
+                "Why is epoxyethane highly reactive?"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/844/548/a_image_thumb.png?1544274767"
+            ]
+        ],
+        [
+            [
+                "What are the products produced from reacting\u00a0epoxyethane with alcohol used as?"
+            ],
+            [
+                "Plasticisers or\u00a0detergents"
+            ]
+        ],
+        [
+            [
+                "What is formed when epoxyethane reacts with water?"
+            ],
+            [
+                "ethane-1,2-diol",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/844/747/a_image_thumb.png?1544274968"
+            ]
+        ],
+        [
+            [
+                "What is\u00a0ethane-1,2-diol used as?"
+            ],
+            [
+                "antifreeze"
+            ]
+        ],
+        [
+            [
+                "Write the equation for when epoxyethane reacts with water"
+            ],
+            [
+                "C2H4O + H2O\u00a0\u2192\u00a0C2H6O2"
+            ]
+        ],
+        [
+            [
+                "Draw the mechanism for when epoxyethane reacts with water"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/261/844/904/a_image_thumb.png?1558450382"
+            ]
+        ],
+        [
+            [
+                "What is poly(chloroethene), PVC, used for?"
+            ],
+            [
+                "Rigid PVC:",
+                "Plasticised PVC:"
+            ]
+        ],
+        [
+            [
+                "Electrophilic Addition",
+                "(CH3)2C=CHCH3 + HBr\u00a0\u2192 (CH3)2CBrCH2CH3",
+                "The minor product in this reaction mixture is 2-bromo-3-methylbutane. Explain why this bromoalkane is formed as a minor product. (3)"
+            ],
+            []
+        ],
+        [
+            [
+                "Write equation for how epoxyethane is formed"
+            ],
+            [
+                "2 CH2CH2 + O2 \u2192\u00a02 CH2CH2O"
+            ]
+        ],
+        [
+            [
+                "2-methyl but-2-ene reacts with concentrated sulfuric acid to form 2 different products. Draw the structure of the minor product of this reaction. (1)",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/276/021/216/q_image_thumb.png?1556645388"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/276/021/216/a_image_thumb.png?1556645422"
+            ]
+        ],
+        [
+            [
+                "Name the conditions for making expoxyethane"
+            ],
+            []
+        ],
+        [
+            [
+                "Write the\u00a0skeletal formula for epoxyethane"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/278/108/307/a_image_thumb.png?1558272144"
+            ]
+        ],
+        [
+            [
+                "Explain why alkenes undergo electrophilic addition reactions with bromine (2)"
+            ],
+            [
+                "(this) induces a dipole in the bromine molecule"
+            ]
+        ]
+    ],
+    "Alcohols": [
+        [
+            [
+                "Alcohols have _____ melting and\u00a0boiling points than alkanes of similar\u00a0relative molecular mass"
+            ],
+            [
+                "higher"
+            ]
+        ],
+        [
+            [
+                "Why do alcohols have higher melting and\u00a0boiling points than alkanes?"
+            ],
+            [
+                "\u2235 -OH group in alcohol means hydrogen\u00a0bonding occurs between molecules"
+            ]
+        ],
+        [
+            [
+                "-OH group of alcohols can..."
+            ],
+            [
+                "hydrogen\u00a0bond to water molecules"
+            ]
+        ],
+        [
+            [
+                "....cannot\u00a0bond to water\u00a0molecules"
+            ],
+            [
+                "Non-polar\u00a0hydrocarbon chain"
+            ]
+        ],
+        [
+            [
+                "Why are alcohols with short hydrocarbon\u00a0chains are soluble in water?"
+            ],
+            [
+                "\u2235 of hydrogen\u00a0bonding predominates"
+            ]
+        ],
+        [
+            [
+                "Why are alcohols with longer\u00a0hydrocarbon\u00a0chains are insoluble in water?"
+            ],
+            [
+                "Non-polar\u00a0hydrocarbon chain dominates\u00a0"
+            ]
+        ],
+        [
+            [
+                "What is the benefit of making alkenes from a dehydration reaction?"
+            ],
+            [
+                "Allows you to make alkenes\u00a0from renewable resources i.e. without crude oil"
+            ]
+        ],
+        [
+            [
+                "Elimination Reaction",
+                "Name the condition and product when an alcohol is used as a reactant"
+            ],
+            [
+                "Product: Alkene"
+            ]
+        ],
+        [
+            [
+                "Ethanol + H2SO4",
+                "Name the mechanism"
+            ],
+            [
+                "Elimination"
+            ]
+        ],
+        [
+            [
+                "Ethanol + H2SO4",
+                "Mechanism\u00a0"
+            ],
+            [
+                "H2SO4\u00a0- acts as a catalyst",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/262/163/437/a_image_thumb.jpg?1544448797"
+            ]
+        ],
+        [
+            [
+                "How does distillation work?"
+            ],
+            [
+                "Uses the fact that chemicals have different\u00a0boiling points & separates them out to get a\u00a0single purified substance"
+            ]
+        ],
+        [
+            [
+                "Name 2 ways ethanol can be\u00a0produced"
+            ],
+            []
+        ],
+        [
+            [
+                "Describe hydration (4)"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/262/170/024/a_image_thumb.png?1544451201"
+            ]
+        ],
+        [
+            [
+                "Hydration",
+                "Name 3 conditions for producing ethanol"
+            ],
+            []
+        ],
+        [
+            [
+                "Describe fermenation\u00a0"
+            ],
+            []
+        ],
+        [
+            [
+                "What is an advantage of using fermentation to make alcohol?"
+            ],
+            [
+                "Low tech process (uses cheap\u00a0equipment & renewable resources)"
+            ]
+        ],
+        [
+            [
+                "What is a disadvantage of using fermentation to make alcohol?"
+            ],
+            [
+                "Fractional distillation is\u00a0needed for purification =\u00a0expensive & time consuming"
+            ]
+        ],
+        [
+            [
+                "State the equation for the\u00a0hydration of ethene\u00a0(include\u00a0state symbols)"
+            ],
+            [
+                "C2H4(g) + H2O(g)\u00a0\u21cc\u00a0C2H5OH(g)"
+            ]
+        ],
+        [
+            [
+                "State the equation for fermentation\u00a0(include\u00a0state symbols)"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/262/172/038/a_image_thumb.png?1544451708"
+            ]
+        ],
+        [
+            [
+                "Name 2 ways alcohols can be oxidised"
+            ],
+            []
+        ],
+        [
+            [
+                "Define\u00a0Oxidation\u00a0"
+            ],
+            []
+        ],
+        [
+            [
+                "Define\u00a0Reduction\u00a0"
+            ],
+            []
+        ],
+        [
+            [
+                "Define oxidising agent\u00a0"
+            ],
+            [
+                "Chemical that accepts electrons and gets reduced",
+                "(supplies the oxygen or removes the hydrogen)"
+            ]
+        ],
+        [
+            [
+                "Define reducing agent\u00a0"
+            ],
+            [
+                "Chemical that donates electrons and gets oxidised",
+                "(removes the oxygen or supplies the hydrogen)"
+            ]
+        ],
+        [
+            [
+                "What are primary alcohols oxidised to?"
+            ],
+            [
+                "Aldehydes and then to carboxylic acids"
+            ]
+        ],
+        [
+            [
+                "Draw the a primary alcohol oxidising into an aldehyde & then draw an aldehyde oxidising into a carboxylic acid",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/262/172/321/q_image_thumb.png?1544452124"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/262/172/321/a_image_thumb.png?1544452142"
+            ]
+        ],
+        [
+            [
+                "Draw the a primary alcohol oxidising into a carboxylic acid",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/262/172/617/q_image_thumb.png?1544452267"
+            ],
+            [
+                "+ H2O",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/262/172/617/a_image_thumb.png?1544452251"
+            ]
+        ],
+        [
+            [
+                "Describe how you would oxidise an alcohol to just get an aldehyde\u00a0"
+            ],
+            []
+        ],
+        [
+            [
+                "Describe how you would oxidise an alcohol to just get a\u00a0carboxylic acid\u00a0"
+            ],
+            [
+                "Alcohol\u00a0has to be vigorously oxidised:",
+                "alcohol is mixed with excess oxidising\u00a0agent & heated under reflux"
+            ]
+        ],
+        [
+            [
+                "Explain how heating under reflux ensures the complete oxidation of an alcohol to a carboxylic acid (2)"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/262/173/298/a_image_thumb.png?1544452693"
+            ]
+        ],
+        [
+            [
+                "What are secondary alcohols oxidised\u00a0into?"
+            ],
+            [
+                "Ketones"
+            ]
+        ],
+        [
+            [
+                "Describe how you would oxidise a secondary alcohol to a ketone"
+            ],
+            [
+                "Reflux\u00a0a secondary alcohol with acidified potassium dichromate(VI)"
+            ]
+        ],
+        [
+            [
+                "Draw the a secondary\u00a0alcohol oxidising into a ketone",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/262/173/458/q_image_thumb.png?1544452858"
+            ],
+            [
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/262/173/458/a_image_thumb.png?1544452872"
+            ]
+        ],
+        [
+            [
+                "State what colour changes occur when\u00a0potassium\u00a0dichromate(VI) is added to a primary, secondary and tertiary alcohol"
+            ],
+            [
+                "Primary and secondary alcohol:\nOrange\u00a0\u2192 Green",
+                "Tertiary alcohol:",
+                "No colour change - remains orange"
+            ]
+        ],
+        [
+            [
+                "Explain why\u00a0potassium dichromate(VI) turns from orange to green"
+            ],
+            [
+                "Orange dichromate(VI) ion, Cr2O72-, is reduced to green chromium(III) ion, Cr3+"
+            ]
+        ],
+        [
+            [
+                "Can tertiary alcohols be oxidised by reacting them with\u00a0potassium\u00a0dichromate(VI)?"
+            ],
+            [
+                "NO"
+            ]
+        ],
+        [
+            [
+                "Why can't\u00a0tertiary alcohols be oxidised by reacting them with\u00a0potassium\u00a0dichromate(VI)?"
+            ],
+            [
+                "\u2235 of lack of hydrogen atoms on carbon atom which\u00a0the\u00a0hydroxyl group is attached to"
+            ]
+        ],
+        [
+            [
+                "What is the only way to oxidise tertiary alcohols?"
+            ],
+            [
+                "By burning them"
+            ]
+        ],
+        [
+            [
+                "List alcohol A, ketone B and alkene C in order of increasing boiling point"
+            ],
+            [
+                "CBA",
+                "Alkene, ketone, alcohol"
+            ]
+        ],
+        [
+            [
+                "Explain why butanal has a lower boiling point than both butan-1-ol and butanoic acid (3)"
+            ],
+            []
+        ],
+        [
+            [
+                "Ethanol can be oxidised to ethanal. Describe this reaction. (3)"
+            ],
+            []
+        ],
+        [
+            [
+                "What is meant by a primary alcohol? (1)"
+            ],
+            [
+                "Functional group (OH) at the end of the chain"
+            ]
+        ],
+        [
+            [
+                "Describe what happens when an alcohol is heated under reflux\u00a0(3)"
+            ],
+            []
+        ]
+    ],
+    "IntroToOrganic2": [
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ]
+    ],
+    "Alkanes2": [
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ]
+    ],
+    "Halogenoalkanes2": [
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ]
+    ],
+    "Alkenes2": [
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ]
+    ],
+    "Alcohols2": [
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ]
+    ],
+    "AtomicStructure2": [
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ]
+    ],
+    "AmountOfSubstance2": [
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ]
+    ],
+    "Bonding2": [
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ],
+        [
+            [],
+            []
+        ]
     ]
 }
