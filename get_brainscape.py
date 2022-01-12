@@ -42,7 +42,7 @@ def main():
 
         for question in questions_src:
             res = []
-            for p in [*question.find_all("p")]:#, *question.find_all("h3"), *question.find_all("h2")]:
+            for p in [*question.find_all("h2")]:#, Need to check type as can change between p/h2/h3
                 res.append(p.text)
             for img in question.find_all("img"):
                 res.append("\n" + img["data-src"])
@@ -51,13 +51,13 @@ def main():
         
         for answer in answers_src:
             res = []
-            for p in [*answer.find_all("p")]:#, *answer.find_all("h3"), *answer.find_all("h2")]:
+            for p in [*answer.find_all("h3")]:#, Need to check type as can change between p/h2/h3
                 res.append(p.text)
             for img in answer.find_all("img"):
                 res.append("\n" + img["data-src"])
             answers.append(res)
         
-        print("Got data")
+        print("Got data for " + title)
         
         with open("quizzes.json") as f:
             jsondata = json.load(f)
