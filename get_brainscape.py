@@ -37,24 +37,25 @@ def main():
         questions_src = soup.find_all(class_="card-question")
         answers_src = soup.find_all(class_="card-answer")
 
-        questions = answers = []
+        questions = []
+        answers = []
 
         for question in questions_src:
             res = []
-            for p in [*question.find_all("p"), *question.find_all("h3"), *question.find_all("h2")]:
+            for p in [*question.find_all("p")]:#, *question.find_all("h3"), *question.find_all("h2")]:
                 res.append(p.text)
             for img in question.find_all("img"):
                 res.append("\n" + img["data-src"])
             questions.append(res)
         
+        
         for answer in answers_src:
             res = []
-            for p in [*answer.find_all("p"), *answer.find_all("h3"), *answer.find_all("h2")]:
+            for p in [*answer.find_all("p")]:#, *answer.find_all("h3"), *answer.find_all("h2")]:
                 res.append(p.text)
             for img in answer.find_all("img"):
                 res.append("\n" + img["data-src"])
             answers.append(res)
-
         
         print("Got data")
         
