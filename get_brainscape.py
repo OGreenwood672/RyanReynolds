@@ -13,10 +13,14 @@ import fuckit
 
 def main():
 
-    IDs = ["11-inside-the-atom-7172891/packs/11646512", "12-stable-and-unstable-nuclei-7324271/packs/11646512", "13-photons-7324382/packs/11646512", "14-particles-and-antiparticles-7324491/packs/11646512",
-            "15-particle-interactions-7324793/packs/11646512", "21-the-particle-zoo-7337192/packs/11646512", "22-particle-sorting-7337232/packs/11646512", "23-leptons-at-work-7337288/packs/11646512",
-            "24-quarks-and-antiquarks-7337367/packs/11646512", "25-conservation-rules-7337521/packs/11646512"]
-    titles = ["inside-atom", "stable and unstable", "photons", "particles and antiparticles", "particle interaction", "particle zoo", "particle sorting", "leptons", "quarks and antiquarks", "conservation"]
+    titles = []
+    IDs = []
+
+    with open("urls.txt") as f:
+        for line in f.readlines():
+            string = line.split("=")
+            titles.append(string[0])
+            IDs.append(string[1])
 
     options = webdriver.ChromeOptions()
     options.add_argument('--ignore-certificate-errors')
@@ -30,16 +34,31 @@ def main():
 
         data = []
         soup = BeautifulSoup(browser.page_source, "html.parser")
-        questions = soup.find_all(class_="card-question")
-        answers = soup.find_all(class_="card-answer")
+        questions_src = soup.find_all(class_="card-question")
+        answers_src = soup.find_all(class_="card-answer")
 
-        questions = list(map(lambda x: [p.text for p in x.find_all("h2")], questions))
-        answers = list(map(lambda x: [p.text for p in x.find_all("h3")], answers))
+        questions = answers = []
+
+        for question in questions_src:
+            res = []
+            for p in [*question.find_all("p"), *question.find_all("h3"), *question.find_all("h2")]:
+                res.append(p.text)
+            for img in question.find_all("img"):
+                res.append("\n" + img["data-src"])
+            questions.append(res)
+        
+        for answer in answers_src:
+            res = []
+            for p in [*answer.find_all("p"), *answer.find_all("h3"), *answer.find_all("h2")]:
+                res.append(p.text)
+            for img in answer.find_all("img"):
+                res.append("\n" + img["data-src"])
+            answers.append(res)
 
         
         print("Got data")
         
-        with open("quizzes.json", "r") as f:
+        with open("quizzes.json") as f:
             jsondata = json.load(f)
         
         jsondata[title] = [list(x) for x in zip(questions, answers)]
