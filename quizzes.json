@@ -16400,5 +16400,2266 @@
                 "\nHydrogen bonds are quite long and therefore hold the water molecules slightly further apart\n"
             ]
         ]
+    ],
+    "Thermodynamics": [
+        [
+            [
+                "\nDefine enthalpy change of formation (\u0394fH)\n"
+            ],
+            [
+                "\nEnthalpy change when 1 mole of a compound is formed from its constituent elements in their standard states under standard conditions\n"
+            ]
+        ],
+        [
+            [
+                "\nWrite an equation representing the enthalpy change of formation of ethanol\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/380/927/a_image_thumb.png?1568729105"
+            ]
+        ],
+        [
+            [
+                "\nDefine bond dissociation enthalpy (\u0394dissH)\n"
+            ],
+            [
+                "\nEnthalpy change\u00a0when one mole of a (covalent) bond is broken into (two) gaseous atoms (or free radicals)\n"
+            ]
+        ],
+        [
+            [
+                "\nWrite an equation representing the bond dissociation enthalpy of chlorine\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/381/520/a_image_thumb.png?1568729461"
+            ]
+        ],
+        [
+            [
+                "\nDefine enthalpy change of atomisation of an element (\u0394atH)\n"
+            ],
+            [
+                "\nEnthalpy change when 1 mole of gaseous atoms is formed from an element in its standard state\n"
+            ]
+        ],
+        [
+            [
+                "\nWrite an equation representing the enthalpy change of\natomisation of chlorine\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/381/797/a_image_thumb.png?1568729528"
+            ]
+        ],
+        [
+            [
+                "\nDefine enthalpy change of atomisation of a compound (\u0394atH)\n"
+            ],
+            [
+                "\nEnthalpy change when 1 mole of a compound in its standard state in converted to gaseous atoms\n"
+            ]
+        ],
+        [
+            [
+                "\nWrite an equation representing the enthalpy change of atomisation of sodium chloride\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/381/945/a_image_thumb.png?1568729607"
+            ]
+        ],
+        [
+            [
+                "\nDefine first ionisation energy (\u0394ie1H)\n"
+            ],
+            [
+                "\nEnthalpy change when 1 mole of gaseous 1+ ions is formed from 1 mole of gaseous atoms\n"
+            ]
+        ],
+        [
+            [
+                "\nWrite an equation representing the first ionisation energy of magnesium\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/381/997/a_image_thumb.png?1568729684"
+            ]
+        ],
+        [
+            [
+                "\nDefine second ionisation energy (\u0394ie2H)\n"
+            ],
+            [
+                "\nEnthalpy change when 1 mole of gaseous 2+ ions is formed from 1 mole of gaseous 1+ ions\n"
+            ]
+        ],
+        [
+            [
+                "\nWrite an equation representing the second ionisation energy of magnesium\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/382/064/a_image_thumb.png?1568729753"
+            ]
+        ],
+        [
+            [
+                "\nDefine first electron affinity (\u0394ea1H)\n"
+            ],
+            [
+                "\nEnthalpy change when 1 mole of gaseous 1- ions is formed from 1 mole of gaseous atoms\n"
+            ]
+        ],
+        [
+            [
+                "\nWrite an equation representing the first electron affinity of oxygen\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/382/520/a_image_thumb.png?1568729836"
+            ]
+        ],
+        [
+            [
+                "\nDefine second electron affinity (\u0394ea2H)\n"
+            ],
+            [
+                "\nEnthalpy change when 1 mole of gaseous 2- ions is formed from 1 mole of gaseous 1- ions\n"
+            ]
+        ],
+        [
+            [
+                "\nWrite an equation representing the second electron affinity of oxygen\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/382/623/a_image_thumb.png?1568729893"
+            ]
+        ],
+        [
+            [
+                "\nDefine enthalpy change of hydration (\u0394hydH)\n"
+            ],
+            [
+                "\nEnthalpy change when 1 mole of aqueous ions is formed from 1 mole of gaseous ions\n"
+            ]
+        ],
+        [
+            [
+                "\nWrite an equation representing the enthalpy change of hydration of sodium\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/383/110/a_image_thumb.png?1568729993"
+            ]
+        ],
+        [
+            [
+                "\nDefine enthalpy change of solution (\u0394solutionH)\n"
+            ],
+            [
+                "\nEnthalpy change when 1 mole of solute is dissolved in enough solvent that no further enthalpy change occurs on further dilution\n"
+            ]
+        ],
+        [
+            [
+                "\nWrite an equation representing the enthalpy change of solution of sodium chloride\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/383/147/a_image_thumb.png?1568730106"
+            ]
+        ],
+        [
+            [
+                "\nDefine lattice enthalpy of formation (\u0394latticeH)\n"
+            ],
+            [
+                "\nEnthalpy change when 1 mole of solid ionic compound is formed from its gaseous ions under standard conditions\n"
+            ]
+        ],
+        [
+            [
+                "\nWrite an equation representing the lattice enthalpy of formation of magnesium chloride\n"
+            ],
+            [
+                "\nExothermic\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/383/517/a_image_thumb.png?1568730204"
+            ]
+        ],
+        [
+            [
+                "\nDefine lattice enthalpy of dissociation (\u0394latticeH)\n"
+            ],
+            [
+                "\nEnthalpy change when 1 mole of solid ionic compound is completely dissociated into its gaseous ions under standard conditions\n"
+            ]
+        ],
+        [
+            [
+                "\nWrite an equation representing the lattice enthalpy of dissociation of magnesium chloride\n"
+            ],
+            [
+                "\nEndothermic\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/383/787/a_image_thumb.png?1568730354"
+            ]
+        ],
+        [
+            [
+                "\nWhat can you use to\u00a0calculate lattice enthalpy since you can't calculate it\u00a0directly?\n"
+            ],
+            [
+                "\nBorn-Haber cycle\n"
+            ]
+        ],
+        [
+            [
+                "\nCalculate the lattice enthalpy of formation of sodium chloride given that the enthalpy of formation of\u00a0sodium chloride is -411 kJ mol-1\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/383/918/q_image_thumb.png?1568730749"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/383/918/a_image_thumb.png?1568730781"
+            ]
+        ],
+        [
+            [
+                "\nCalculate the atomisation enthalpy of magnesium\u00a0given that the enthalpy of formation of\u00a0magnesium oxide is -548 kJ mol-1\u00a0and lattice enthalpy of formation is -3791\u00a0kJ mol-1\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/384/327/q_image_thumb.png?1568730959"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/384/327/a_image_thumb.png?1568730985"
+            ]
+        ],
+        [
+            [
+                "\nCalculate the lattice enthalpy of formation of aluminium oxide\u00a0given that the enthalpy of formation of\u00a0aluminium oxide is -1669 kJ mol-1\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/384/822/q_image_thumb.png?1568731271"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/384/822/a_image_thumb.png?1568731429"
+            ]
+        ],
+        [
+            [
+                "\nWhat does the purely ionic model of a lattice assume?\n"
+            ],
+            [
+                "\n\nAll ions are spherical & their charge is evenly distributed around them\nOnly ionic bonding\n\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy are experimental lattice enthalpy values\u00a0different to theoretical lattice enthalpy values?\n"
+            ],
+            [
+                "\n\nMost ionic compounds have some partial covalent bonding\n+ve/-ve ions in lattice aren't usually spherical\n\t\n+ve ions polarise neighbouring -ve ions to different extents\n\n\n\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/392/213/a_image_thumb.png?1568735963"
+            ]
+        ],
+        [
+            [
+                "\nExplain why the differences between experimental and lattice enthalpies are much bigger for magnesium halides than sodium halides\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/395/157/q_image_thumb.png?1568736011"
+            ],
+            [
+                "\n\nShows bonding in magnesium halides is stronger than ionic model predicts\n\u2234 bonds are strongly polarised & have quite a lot of covalent character\nBonding in sodium halides is similar to production of ionic model = compounds closer to being purely ionic\n\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen a solid ionic lattice dissolves in water, what 2 things occur?\n"
+            ],
+            [
+                "\n\nBonds between ions break to give free ions\n\t\nEndothermic\u00a0\n\n\nBonds between ions and water are made\n\t\nExothermic\u00a0\n\n\n\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/396/471/a_image_thumb.png?1568736132"
+            ]
+        ],
+        [
+            [
+                "\nExplain why water molecules can bond to ions\n"
+            ],
+            [
+                "\n\n\u2235 oxygen is more electronegative than hydrogen \u2234 it draws electrons towards itself = creating a dipole\nDipole means +ve charged H atoms can form bonds with -ve ions & -ve charged O atoms can form bonds with +ve ions\n\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/396/503/a_image_thumb.png?1568736250"
+            ]
+        ],
+        [
+            [
+                "\nSubstances generally only dissolve if the energy...\n"
+            ],
+            [
+                "\nreleased is roughly the same, or greater than the energy taken in\n"
+            ]
+        ],
+        [
+            [
+                "\nSouble substances tend to have ______ enthalpies of solution\u00a0\n"
+            ],
+            [
+                "\nexothermic\n"
+            ]
+        ],
+        [
+            [
+                "\nCalculate the enthalpy of solution for sodium chloride given that the lattice dissociation enthalpy is 787 kJ mol-1 and the enthalpies of hydration of sodium and chloride ions are -406 and -364 kJ mol-1\u00a0respectively.\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/396/660/a_image_thumb.png?1568736619"
+            ]
+        ],
+        [
+            [
+                "\nCalculate the enthalpy of solution for silver chloride given that the lattice dissociation enthalpy is 905 kJ mol-1 and the enthalpies of hydration of silver and chloride ions are -464\u00a0and -364 kJ mol-1\u00a0respectively.\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/396/958/a_image_thumb.png?1568736716"
+            ]
+        ],
+        [
+            [
+                "\nCalculate the enthalpy of solution for magnesium chloride given that the lattice formation enthalpy is -2493 kJ mol-1 and the enthalpies of hydration of magnesium and chloride ions are -1920\u00a0and -364 kJ mol-1\u00a0respectively.\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/397/006/a_image_thumb.png?1568737147"
+            ]
+        ],
+        [
+            [
+                "\nWhat is entropy (S)?\n"
+            ],
+            [
+                "\nMeasure of no. of ways that particles can be arranged & no. of ways that energy can be shared out between particles\n"
+            ]
+        ],
+        [
+            [
+                "\nMore disordered the particles are, the\u00a0____ (more\u00a0+ve the value) entropy is\n"
+            ],
+            [
+                "\nhigher\n"
+            ]
+        ],
+        [
+            [
+                "\nName and describe 2 factors that\u00a0affect entropy\n"
+            ],
+            [
+                "\n\nPhysical State\u00a0\n\t\nSolid = hardly any disorder = lowest entropy\nGas = most disordered arrangements = highest entropy\n\n\nMore Particles (means more entropy)\n\t\nMore particles you've got = more ways they + their energy can be arranged\n\n\n\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy do substances always tend towards disorder?\n"
+            ],
+            [
+                "\nThey're more energetically stable when there's more disorder\n\u2234 particles will move to increase their entropy\n"
+            ]
+        ],
+        [
+            [
+                "\nExplain why the reaction of sodium hydrogencarbonate with hydrochloric acid is\u00a0feasible even though it's an endothermic reaction\n"
+            ],
+            [
+                "\n\nFeasible due to the increase in entropy as the reaction produces CO2 gas and water\nLiquids and gases are more disordered that solids and so have a higher entropy\u00a0\n& more moles are being produced\nThis increase in entropy overcomes the change in enthaply\n\t\n\nT\u0394S>\u0394H\n\n\u0394G<0\n\n\n\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/397/745/a_image_thumb.png?1568737540"
+            ]
+        ],
+        [
+            [
+                "\nDuring a reaction, there's an _____ ____ (\u0394S) between reactants and products\n"
+            ],
+            [
+                "\nEntropy change\n"
+            ]
+        ],
+        [
+            [
+                "\nState the equation you would use to calculate\u00a0\u0394S\u00a0\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/398/056/a_image_thumb.png?1568737649"
+            ]
+        ],
+        [
+            [
+                "\nState the units of entropy\n"
+            ],
+            [
+                "\nJ K-1 mol-1\n"
+            ]
+        ],
+        [
+            [
+                "\nDefine standard entropy of a substance\u00a0(S\u29b5)\n"
+            ],
+            [
+                "\nEntropy of 1 mole of that substance under standard conditions\n"
+            ]
+        ],
+        [
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/398/124/q_image_thumb.png?1568737712"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/398/124/a_image_thumb.png?1568737727"
+            ]
+        ],
+        [
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/398/147/q_image_thumb.png?1568737758"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/398/147/a_image_thumb.png?1568737774"
+            ]
+        ],
+        [
+            [
+                "\nWhat is free energy change (\u0394G)?\n"
+            ],
+            [
+                "\nMeasure used to predict whether a reaction is feasible\n"
+            ]
+        ],
+        [
+            [
+                "\nFree Energy Change\u00a0\nWhen is a reaction considered\u00a0feasible?\n"
+            ],
+            [
+                "\nIf \u0394G = -ve or 0\n"
+            ]
+        ],
+        [
+            [
+                "\nState the equation for calculating \u0394G\u00a0(free energy change). Include the units.\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/398/336/a_image_thumb.png?1568737966"
+            ]
+        ],
+        [
+            [
+                "\nEven if\u00a0\u0394G shows that a reaction is theoretically feasible, it might have a ... or be ... that you wouldn't notice it happening at all\n"
+            ],
+            [
+                "\nEven if\u00a0\u0394G shows that a reaction is theoretically feasible, it might have a very high activation energy or be so slow that you wouldn't notice it happening at all\n"
+            ]
+        ],
+        [
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/398/542/q_image_thumb.png?1568738101"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/398/542/a_image_thumb.png?1568738119"
+            ]
+        ],
+        [
+            [
+                "\nFeasibility depends on _____\n"
+            ],
+            [
+                "\nTemperature\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen is\u00a0\u0394G always negative (i.e. reactions feasible at any temperature)? Name the 2 conditions\u00a0\n"
+            ],
+            [
+                "\nIf reaction is exothermic (\u0394H = -ve) & has +ve entropy change\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen is\u00a0\u0394G always postive (i.e. reactions are NOT feasible at any temperature)? Name the 2 conditions\u00a0\n"
+            ],
+            [
+                "\nIf reaction is endothermic (\u0394H = +ve) & has -ve entropy change\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens to the reaction's feasibility if\u00a0\u0394H = positive & \u0394S = positive?\n"
+            ],
+            [
+                "\nReaction won't be feasible at some temps but will be at high enough temperature\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/398/708/a_image_thumb.png?1568738333"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens to the reaction's feasibility if\u00a0\u0394H = negative & \u0394S = negative?\n"
+            ],
+            [
+                "\nReaction will be feasible at lower temperatures but won't be feasible at higher temperatures\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/398/888/a_image_thumb.png?1568738375"
+            ]
+        ],
+        [
+            [
+                "\nDescribe how you can calculate\u00a0the temperature at which a reaction becomes feasible\n"
+            ],
+            [
+                "\nCan find temperature\u00a0when \u0394G = 0\n"
+            ]
+        ],
+        [
+            [
+                "\nState the equation for calculating the temperature at which a reaction becomes feasible. Include the units.\n"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/398/989/a_image_thumb.png?1568738454"
+            ]
+        ],
+        [
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/399/008/q_image_thumb.png?1568738501"
+            ],
+            [
+                "\n",
+                "\nhttps://s3.amazonaws.com/brainscape-prod/system/cm/287/399/008/a_image_thumb.png?1568738522"
+            ]
+        ],
+        [
+            [
+                "\nSuggest why the electron affinity of chlorine is an exothermic change (2)\n"
+            ],
+            [
+                "\n\nNet attraction between the chlorine nucleus and the extra electron\nEnergy is released (when the electron is gained)\n\n"
+            ]
+        ],
+        [
+            [
+                "\nState whether you would expect the value of the theoretical enthalpy of lattice dissociation for silver chloride to be greater than, equal to or less than that for silver bromide. Explain your answer. (3)\n"
+            ],
+            [
+                "\n\nGreater\nChloride ions are smaller than bromide\nMore strongly attracted to silver ions\n\n"
+            ]
+        ],
+        [
+            [
+                "\nExplain the meaning of the term perfect ionic model (1)\n"
+            ],
+            [
+                "\nIons can be regarded as point charges (or perfect spheres)\n"
+            ]
+        ],
+        [
+            [
+                "\nSuggest why the experimental value is\u00a0greater than the theoretical value for the enthalpy of lattice dissociation for silver chloride (2)\n"
+            ],
+            [
+                "\n\nAgCl has covalent character\nForces in the lattice are stronger than pure ionic attractions\n\n"
+            ]
+        ],
+        [
+            [
+                "\nExplain the interaction between water molecules and fluoride ions when the fluoride ions become hydrated (2)\n"
+            ],
+            [
+                "\n\nWater is polar / H on water is\u00a0\u03b4+\n\n(F\u2013 ions) attract water / on H \u03b4+\n\n\n"
+            ]
+        ],
+        [
+            [
+                "\nSuggest why electron affinity is an endothermic process for this reaction:\nCa2+(g) + e- + S-(g)\u00a0\u21d2\u00a0Ca2+(g) + S2-(g)\n"
+            ],
+            [
+                "\n\nNegative S- ion\nRepels electron being added\n\n"
+            ]
+        ],
+        [
+            [
+                "\nExplain why the hydration enthaply of a fluoride ion is more negative than the hydration\u00a0enthaply of a chloride ion (2)\n"
+            ],
+            [
+                "\n\nFluoride (ions) smaller (than chloride) / have larger charge density\nSo (negative charge) attracts (\u03b4+ hydrogen on) water more strongly\n\n"
+            ]
+        ],
+        [
+            [
+                "\nBy describing the nature of the attractive forces involved, explain why the value of the enthaply of hydration for a chloride ions is more negative than that for the bromide ion (3)\u00a0\n"
+            ],
+            [
+                "\n\nChloride (ions) are smaller (than bromide ions)\nSo the force of attraction between chloride ions and water is stronger\nChloride ions attract the \u03b4+ on H of water / electron deficient H on water\n\n"
+            ]
+        ],
+        [
+            [
+                "\nSuggest why a value for the enthaply of solution of magnesium oxide is not found in any data books. (1)\u00a0\n"
+            ],
+            [
+                "\nMagnesium oxide reacts with water / forms Mg(OH)2\n"
+            ]
+        ],
+        [
+            [
+                "\nSuggest why using a Born-Haber cycle produces more accurate results than using mean bond enthalpies (1)\n"
+            ],
+            [
+                "\nMean bond enthalpies are from a range of compounds\n"
+            ]
+        ]
+    ],
+    "Thermodynamics1": [
+        [
+            [
+                "\nWhat is enthalpy change?\n"
+            ],
+            [
+                "\nThe heat energy transferred in a reaction at constant pressure\n"
+            ]
+        ],
+        [
+            [
+                "\nSymbol for enthalpy change?\n"
+            ],
+            [
+                "\n\u0394H\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is standard enthalpy change?\n"
+            ],
+            [
+                "\nThe heat energy transferred in a reaction at 100kPa and 298K\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does the sign on an enthalpy change value depend on?\n"
+            ],
+            [
+                "\nWhether the reaction is exothermic or endothermic\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does a negative enthalpy change value indicate?\n"
+            ],
+            [
+                "\nThe reaction is exothermic\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does a positive enthalpy change value indicate?\n"
+            ],
+            [
+                "\nThe reaction is endothermic\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is standard enthalpy change of formation?\n"
+            ],
+            [
+                "\nEnthalpy change when 1 mole of substance is formed from its constituent elements with all reactants and products in standard states under standard conditions\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is standard enthalpy change of combustion?\n"
+            ],
+            [
+                "\nEnthalpy change when 1 mole of a substance is completely burned in oxygen with all reactants and products in standard states under standard conditions\n"
+            ]
+        ],
+        [
+            [
+                "\nHow is enthalpy change calculated in terms of the sum of bonds broken and formed?\n"
+            ],
+            [
+                "\nsum of bonds broken - sum of bonds formed\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for enthalpy of formation of sodium oxide?\n"
+            ],
+            [
+                "\n2Na (s) + 1/2 O\u2082 (g) \u2192 Na\u2082O (s)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the \u0394H sign for enthalpy of formation?\n"
+            ],
+            [
+                "\nPositive or negative\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the \u0394H sign for enthalpy of combustion?\n"
+            ],
+            [
+                "\nNegative\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for the enthalpy of combustion of hydrogen?\n"
+            ],
+            [
+                "\nH\u2082 (g) + 1/2 O\u2082 (g) \u2192 H\u2082O (l)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is ionisation enthalpy also known as?\n"
+            ],
+            [
+                "\nFirst/second etc. ionisation energy\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is first ionisation energy?\n"
+            ],
+            [
+                "\nEnthalpy change when each atom in one mole of gaseous atoms loses one electron to form one mole of gaseous 1+ ions\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is second ionisation energy?\n"
+            ],
+            [
+                "\nEnthalpy change when each ion in one mole of gaseous 1+ ions loses one electron to form one mole of gaseous 2+ ions\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is first electron affinity?\n"
+            ],
+            [
+                "\nEnthalpy change when each atom in one mole of gaseous atoms gains one electron to form one mole of gaseous 1- ions\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is second electron affinity?\n"
+            ],
+            [
+                "\nEnthalpy change when each ion in one mole of gaseous 1- gains one electron to form one mole of gaseous 2- ions\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the \u0394H sign for ionisation enthalpy?\n"
+            ],
+            [
+                "\nPositive\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the \u0394H sign for first electron affinity?\n"
+            ],
+            [
+                "\nNegative\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the \u0394H sign for second electron affinity?\n"
+            ],
+            [
+                "\nPositive\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for enthalpy of first ionisation energy of magnesium?\n"
+            ],
+            [
+                "\nMg (g) \u2192 Mg\u207a (g) + e\u207b\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for enthalpy of second ionisation energy of magnesium?\n"
+            ],
+            [
+                "\nMg\u207a (g) \u2192 Mg\u00b2\u207a (g) + e\u207b\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for first electron affinity of oxygen?\n"
+            ],
+            [
+                "\nO (g) + e\u207b \u2192 O\u207b(g)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for second electron affinity of oxygen?\n"
+            ],
+            [
+                "\nO\u207b (g) + e\u207b \u2192 O\u00b2\u207b (g)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is bond dissociation?\n"
+            ],
+            [
+                "\nEnthalpy change when one mole of covalent bonds is broken in the gaseous state\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is enthalpy of atomisation of an element?\n"
+            ],
+            [
+                "\nEnthalpy change when one mole of gaseous atoms is produced from an element in its standard state\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is enthalpy of atomisation of a compound?\n"
+            ],
+            [
+                "\nEnthalpy change when gaseous atoms are produced from one mole of a compound in its standard state\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is lattice enthalpy of formation?\n"
+            ],
+            [
+                "\nEnthalpy change when one mole of a solid ionic compound is formed from into its constituent ions in the gas phase\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is lattice enthalpy of dissociation?\n"
+            ],
+            [
+                "\nEnthalpy change when one mole of a solid ionic compound is broken up into its constituent ions in the gas phase\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is hydration enthalpy?\n"
+            ],
+            [
+                "\nEnthalpy change when one mole of gaseous ions become hydrated (dissolved in water)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is enthalpy of solution?\n"
+            ],
+            [
+                "\nEnthalpy change when one mole of an ionic solid dissolves in an amount of water large enough so that the dissolved ions are well separated and do not interact with each other\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the \u0394H sign for bond dissociation?\n"
+            ],
+            [
+                "\nPositive\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the \u0394H sign for enthalpy of atomisation of an element?\n"
+            ],
+            [
+                "\nPositive\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the \u0394H sign for enthalpy of atomisation of a compound?\n"
+            ],
+            [
+                "\nPositive\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the \u0394H sign for lattice enthalpy of formation?\n"
+            ],
+            [
+                "\nPositive\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the \u0394H sign for lattice enthalpy of dissociation?\n"
+            ],
+            [
+                "\nNegative\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the \u0394H sign for hydration enthalpy?\n"
+            ],
+            [
+                "\nNegative\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the \u0394H sign for enthalpy of solution?\n"
+            ],
+            [
+                "\nPositive or negative\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for the bond dissociation of iodine?\n"
+            ],
+            [
+                "\nI\u2082 (g) \u2192 2I (g)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for the enthalpy of atomisation of iodine?\n"
+            ],
+            [
+                "\n1/2 I\u2082 (g) \u2192 I (g)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for the enthalpy of atomisation of methane?\n"
+            ],
+            [
+                "\nCH\u2084 (g) \u2192 C (g) + 4H (g)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for the lattice enthalpy of formation of magnesium chloride?\n"
+            ],
+            [
+                "\nMg\u00b2\u207a (g) + 2Cl\u207b (g) \u2192 MgCl\u2082 (s)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for the lattice enthalpy of dissociation of magnesium chloride?\n"
+            ],
+            [
+                "\nMgCl\u2082 (s) \u2192 Mg\u00b2\u207a (g) + 2Cl\u207b (g)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for the hydration enthalpy of magnesium ions?\n"
+            ],
+            [
+                "\nMg\u00b2\u207a (g) \u2192 Mg\u00b2\u207a (aq)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for the enthalpy of solution of sodium chloride?\n"
+            ],
+            [
+                "\nNaCl (s) \u2192 Na\u207a (aq) + Cl\u207b (aq)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat can 3 stages can reactions involving the formation of ionic compounds be broken into?\n"
+            ],
+            [
+                "\n1. Formation of free gaseous atoms from the elements in their standard states (enthalpy of atomisation)2. Addition or removal of electrons to form ions (enthalpy of ionisation/electron affinity)3. Attraction of ions to form the ionic compound (enthalpy of lattice formation)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat can be used to calculate the enthalpy change in the formation of ionic compounds?\n"
+            ],
+            [
+                "\nBorn-Haber cycles\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat principles are applied in a Born-Haber cycle?\n"
+            ],
+            [
+                "\nHess's Law\n"
+            ]
+        ],
+        [
+            [
+                "\nIn a Born-Haber cycle, which way do the arrows for endo and exothermic changes go?\n"
+            ],
+            [
+                "\n\u2022 endothermic changes go up\u2022 exothermic changes go down\n"
+            ]
+        ],
+        [
+            [
+                "\nIn Born-Haber cycles, how can the enthalpy changes required to form free gaseous atoms be obtained?\n"
+            ],
+            [
+                "\nFrom the atomisation enthalpies or bond dissociation enthalpies\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy is first electron affinity always exothermic?\n"
+            ],
+            [
+                "\nThe electron is attracted by the nuclear charge\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy are second and third electron affinities always endothermic?\n"
+            ],
+            [
+                "\nAn electron is being added to an already negative ion (which repel)\n"
+            ]
+        ],
+        [
+            [
+                "\nIn Born-Haber cycles, which way are lattice enthalpies of formation drawn?\n"
+            ],
+            [
+                "\nDownwards as they are exothermic\n"
+            ]
+        ],
+        [
+            [
+                "\nIn Born-Haber cycles, which way are lattice enthalpies of dissociation drawn?\n"
+            ],
+            [
+                "\nUpwards as they are endothermic\n"
+            ]
+        ],
+        [
+            [
+                "\nIn a Born-Haber cycle, what should be done if the enthalpy of lattice dissociation is given instead of lattice formation?\n"
+            ],
+            [
+                "\nTurn the arrow around and this value will be subtracted from the rest of the alternative route\n"
+            ]
+        ],
+        [
+            [
+                "\nIn a Born-Haber cycle, what should be done if the bond dissociation of Cl2 was given instead of enthalpy of atomisation of Cl?\n"
+            ],
+            [
+                "\nDivide the value by 2 as in bond dissociation 2 moles of Cl are formed\n"
+            ]
+        ],
+        [
+            [
+                "\nIn a Born-Haber cycle, why is the lattice enthalpy usually shown as lattice enthalpy of formation (with a negative value)?\n"
+            ],
+            [
+                "\nSo that an equation can be written where the enthalpy of formation of the ionic compound equals the sum of all the other enthalpy changes\n"
+            ]
+        ],
+        [
+            [
+                "\nIf there is stronger attraction in an ionic compound, what will happen to the lattice formation enthalpy?\n"
+            ],
+            [
+                "\nIt will increase\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the lattice formation enthalpy dependent on?\n"
+            ],
+            [
+                "\n\u2022 charge on ions\u2022 size of ions\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat effect does a higher charge on ions have on lattice formation?\n"
+            ],
+            [
+                "\nIncrease\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat effect does smaller ions have on lattice formation?\n"
+            ],
+            [
+                "\nIncrease\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is lattice enthalpy found in Born-Haber cycles often called?\n"
+            ],
+            [
+                "\nThe experimental value\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the perfect ionic model?\n"
+            ],
+            [
+                "\nBoth ions are spheres with no polarisation\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does a difference between theoretical and experimental values of lattice enthalpy show?\n"
+            ],
+            [
+                "\nThe compounds are not perfectly ionic\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy is the perfect ionic model not realistic?\n"
+            ],
+            [
+                "\nIn reality the positive ion will attract the outer electrons of the negative ion - this leads to polarisation\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does a bigger difference between theoretical and experimental values of lattice enthalpy indicate?\n"
+            ],
+            [
+                "\nThe bigger difference, the more covalent character\n"
+            ]
+        ],
+        [
+            [
+                "\nFor lattice enthalpy values, which is the experimental and which is the theoretical?\n"
+            ],
+            [
+                "\nThe experimental value is the one calculated by Born-Haber cycles\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does it mean, that the values for theoretical and experimental values of lattice enthalpy for NaCl are very close?\n"
+            ],
+            [
+                "\nIt is an ionic compound\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does it mean, that the values for theoretical and experimental values of lattice enthalpy for AgBr are very different?\n"
+            ],
+            [
+                "\nIt would be classed as ionic with covalent character\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does the magnitude of the lattice enthalpy indicate?\n"
+            ],
+            [
+                "\nThe overall strength of the ionic bonding\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does the difference between theoretical and experimental values of lattice enthalpy indicate?\n"
+            ],
+            [
+                "\nThe amount of covalent character\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy is water a polar molecule?\n"
+            ],
+            [
+                "\nBecause of the difference in electronegativity of the oxygen and hydrogen in the molecule\n"
+            ]
+        ],
+        [
+            [
+                "\nHow do ions become hydrated?\n"
+            ],
+            [
+                "\n\u2022 ions in an ionic lattice\u2022 cations attracted to O\u02e2\u207b and anions to H\u02e2\u207a\u2022 distorts charge cloud of ions and reduces forces holding them together\u2022 in solution, ions move from lattice and become surrounded by water molecules\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen has a solid dissolved?\n"
+            ],
+            [
+                "\nWhen the ions no longer interact with each other\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen does enthalpy of hydration increase?\n"
+            ],
+            [
+                "\nFor smaller ions with an increasing charge - due to increased attraction from the nucleus\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat 3 processes can dissolving an ionic compound be broken into?\n"
+            ],
+            [
+                "\n1. Breaking the ionic solid into gaseous ions \u2192 lattice dissociation2. Hydrating the positive ions \u2192 enthalpy of hydration of cations3. Hydrating the negative ions \u2192 enthalpy of hydration of anions\n"
+            ]
+        ],
+        [
+            [
+                "\nHow can the processes for dissolving an ionic compound be shown?\n"
+            ],
+            [
+                "\nIn a Hess cycle or a Born-Haber cycle\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen is a compound more likely to dissolve, in terms of enthalpy of solution?\n"
+            ],
+            [
+                "\nWhen the enthalpy of solution is more exothermic\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat equation can be used to calculate the enthalpy of solution?\n"
+            ],
+            [
+                "\n\u0394H solution = \u0394H lattice dissociation + \u0394H hydration\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat are feasible/spontaneous reactions?\n"
+            ],
+            [
+                "\nOnes that occur of their own accord - thermodynamically possible\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat type of reaction are many feasible reactions?\n"
+            ],
+            [
+                "\nExothermic\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen is it possible for an endothermic reaction to occur spontaneously?\n"
+            ],
+            [
+                "\nWhen there is an increase in disorder and involve mixing or spreading out\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is entropy?\n"
+            ],
+            [
+                "\nThe degree of disorder in a system\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the degree of disorder in a system?\n"
+            ],
+            [
+                "\nEntropy\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the symbol for entropy?\n"
+            ],
+            [
+                "\nS\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen will the value for entropy of a reaction be positive?\n"
+            ],
+            [
+                "\nWhen the products are more disordered than the reactants\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens to particles at 0K (absolute 0)?\n"
+            ],
+            [
+                "\nParticles do not move as they have no energy\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens to entropy as a substance melts?\n"
+            ],
+            [
+                "\nLarge jump - increasing value of entropy\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens to entropy as a substance boils?\n"
+            ],
+            [
+                "\nVery large jump - increasing value of entropy\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat effect will dissolving a substance have on entropy?\n"
+            ],
+            [
+                "\nIncrease entropy\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat effect will a reaction that produces a gas have on entropy?\n"
+            ],
+            [
+                "\nIncrease entropy\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat factors can increase the entropy of a reaction?\n"
+            ],
+            [
+                "\n\u2022 dissolving a substance\u2022 reactions that produce a gas\u2022 reactions that produce more moles of a product\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat formula can be used to calculate the entropy change of a reaction?\n"
+            ],
+            [
+                "\n\u0394S = \u03a3S products - \u03a3S reactants\n"
+            ]
+        ],
+        [
+            [
+                "\nHow can you see what entropy values are?\n"
+            ],
+            [
+                "\nBy looking them up in tables\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen are chemical reactions favoured?\n"
+            ],
+            [
+                "\nIf there is an increase in entropy\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens in terms of feasibility if \u0394S is positive?\n"
+            ],
+            [
+                "\nLikely to be feasible\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens in terms of feasibility if \u0394S is negative?\n"
+            ],
+            [
+                "\nUnlikely to be feasible\n"
+            ]
+        ],
+        [
+            [
+                "\nIs entropy the only factor involved in the feasibility of reactions?\n"
+            ],
+            [
+                "\nNo\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does the chance that a reaction proceeds depend on?\n"
+            ],
+            [
+                "\nA balance between enthalpy, entropy and temperature\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is Gibbs free energy a combination of?\n"
+            ],
+            [
+                "\nEnthalpy, entropy and temperature\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat equation shows the relationship between enthalpy, entropy and temperature?\n"
+            ],
+            [
+                "\n\u0394G = \u0394H - T\u0394S\n"
+            ]
+        ],
+        [
+            [
+                "\nIn \u0394G = \u0394H - T\u0394S, what does G stand for?\n"
+            ],
+            [
+                "\nGibbs free energy (kJmol\u207b\u00b9)\n"
+            ]
+        ],
+        [
+            [
+                "\nIn \u0394G = \u0394H - T\u0394S, what does H stand for?\n"
+            ],
+            [
+                "\nEnthalpy (kJmol\u207b\u00b9)\n"
+            ]
+        ],
+        [
+            [
+                "\nIn \u0394G = \u0394H - T\u0394S, what does T stand for?\n"
+            ],
+            [
+                "\nTemperature (K)\n"
+            ]
+        ],
+        [
+            [
+                "\nIn \u0394G = \u0394H - T\u0394S, what does S stand for?\n"
+            ],
+            [
+                "\nEntropy (JK\u207b\u00b9mol\u207b\u00b9)\n"
+            ]
+        ],
+        [
+            [
+                "\nIn \u0394G = \u0394H - T\u0394S, what must be remembered for the units of S?\n"
+            ],
+            [
+                "\nNeeds to be divided by 1000\n"
+            ]
+        ],
+        [
+            [
+                "\nIn \u0394G = \u0394H - T\u0394S, what does it mean if \u0394G is less than or equal to zero?\n"
+            ],
+            [
+                "\nThe reaction is feasible, even if \u0394H is positive\n"
+            ]
+        ],
+        [
+            [
+                "\nIn \u0394G = \u0394H - T\u0394S, what does it mean if \u0394G is positive?\n"
+            ],
+            [
+                "\nThe reaction is not feasible, even if \u0394H is negative\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy might many endothermic reactions proceed spontaneously?\n"
+            ],
+            [
+                "\nThere is an increase in entropy(also become feasible when temperature is increased)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy might some exothermic reactions not proceed spontaneously?\n"
+            ],
+            [
+                "\nBecause there is a decrease in entropy\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen does the effect of entropy become more important, and why?\n"
+            ],
+            [
+                "\nEndothermic reactions because \u0394G depends on T\u0394S\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the critical temperature?\n"
+            ],
+            [
+                "\nThe temperature at which \u0394G=O, i.e. the point at which the reaction is just feasible\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat equation is used to calculate the critical temperature of a reaction?\n"
+            ],
+            [
+                "\nT = \u0394H/\u0394S\n"
+            ]
+        ]
+    ],
+    "Energetics": [
+        [
+            [
+                "\nWhat is energy transfer during a reaction due to?\n"
+            ],
+            [
+                "\nThe breaking and forming of bonds\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens to energy when bonds are broken?\n"
+            ],
+            [
+                "\nEnergy is taken in\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens to energy when bonds are formed?\n"
+            ],
+            [
+                "\nEnergy is released\n"
+            ]
+        ],
+        [
+            [
+                "\nIn terms of bonds, when is energy taken in?\n"
+            ],
+            [
+                "\nWhen bonds are broken\n"
+            ]
+        ],
+        [
+            [
+                "\nIn terms of bonds, when is energy released?\n"
+            ],
+            [
+                "\nWhen bonds are formed\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is stored energy known as?\n"
+            ],
+            [
+                "\nEnthalpy\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the symbol for enthalpy?\n"
+            ],
+            [
+                "\nH\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is enthalpy?\n"
+            ],
+            [
+                "\nStored energy\n"
+            ]
+        ],
+        [
+            [
+                "\nCan enthalpy be measured?\n"
+            ],
+            [
+                "\nNo\n"
+            ]
+        ],
+        [
+            [
+                "\nHow can enthalpy changes be found?\n"
+            ],
+            [
+                "\nBy measuring the change in temperature during reactions - at a constant pressure \n"
+            ]
+        ],
+        [
+            [
+                "\nWhat must be constant when measuring change in temperature to work out enthalpy change?\n"
+            ],
+            [
+                "\nPressure\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the mnemonic to remember energy when breaking/making bonds?\n"
+            ],
+            [
+                "\nBendy Mexicans(breaking = endo, making = exo)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens to energy in an endothermic reaction?\n"
+            ],
+            [
+                "\nIt is taken in\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen energy is taken in during an endothermic reaction, what form does it usually take?\n"
+            ],
+            [
+                "\nHeat\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens to the temperature of the surroundings during an endothermic reaction?\n"
+            ],
+            [
+                "\nIt decreases\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is higher in an endothermic reaction; the energy to make bonds or to break them?\n"
+            ],
+            [
+                "\nEnergy to break bonds is higher than to make them\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does it mean, in terms of energy, that endothermic reactions need more energy to break bonds than to make them?\n"
+            ],
+            [
+                "\nThere is an overall need for energy for the reaction to take place = positive \u0394H value\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy do endothermic reactions have a positive \u0394H value?\n"
+            ],
+            [
+                "\nThere is an overall need for energy in order for the reaction to take place - so the system gains energy \n"
+            ]
+        ],
+        [
+            [
+                "\nDo endothermic reactions have a positive or negative \u0394H value?\n"
+            ],
+            [
+                "\nPositive\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens to energy in an exothermic reaction?\n"
+            ],
+            [
+                "\nIt is released\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen energy is released during an endothermic reaction, what form does it usually take?\n"
+            ],
+            [
+                "\nHeat\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat happens to the temperature of the surroundings during an exothermic reaction?\n"
+            ],
+            [
+                "\nIt increases\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy does the temperature of the surroundings increase during an exothermic reaction?\n"
+            ],
+            [
+                "\nEnergy is transferred to the surroundings\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is higher in an exothermic reaction; the energy to make bonds or to break them?\n"
+            ],
+            [
+                "\nThe energy when making bonds\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does it mean, in terms of energy, that exothermic reactions need less energy to break bonds than to make them?\n"
+            ],
+            [
+                "\nThere is an overall release of energy when the reaction takes place = negative \u0394H value\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy do exothermic reactions have a negative \u0394H value?\n"
+            ],
+            [
+                "\nThere is an overall release of energy when a reaction takes place - so the system loses energy \n"
+            ]
+        ],
+        [
+            [
+                "\nDoes a system lose or gain energy during an endothermic reaction?\n"
+            ],
+            [
+                "\nGains energy \n"
+            ]
+        ],
+        [
+            [
+                "\nDoes a system lose or gain energy during an exothermic reaction?\n"
+            ],
+            [
+                "\nLoses energy\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat do values for enthalpy change depend on?\n"
+            ],
+            [
+                "\nThe pressure and temperature at which the reaction is carried out at\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the standard enthalpy change of a reaction?\n"
+            ],
+            [
+                "\nThe heat energy exchange with its surroundings at a constant pressure and temperature (under standard conditions)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat are the standard conditions for standard enthalpy change?\n"
+            ],
+            [
+                "\n\u2022 pressure - 100kPa\u2022 temperature - 298K\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is standard enthalpy change measured in?\n"
+            ],
+            [
+                "\nkJ mol-1\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the standard enthalpy change of formation?\n"
+            ],
+            [
+                "\nThe enthalpy change when 1 mole of a substance is formed from its elements under standard conditions, with all substances being in their standard states\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the symbol for standard enthalpy change of formation?\n"
+            ],
+            [
+                "\n\u0394Hf\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the \u0394Hf of an element?\n"
+            ],
+            [
+                "\nZero\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is standard enthalpy change of combustion?\n"
+            ],
+            [
+                "\nThe enthalpy change when 1 mole of a substances undergoes complete combustion under standard conditions, with all substances being in their standard states\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the symbol for standard enthalpy change of combustion?\n"
+            ],
+            [
+                "\n\u0394Hc\n"
+            ]
+        ],
+        [
+            [
+                "\nWhich experimental technique is used to measure the standard enthalpy of combustion?\n"
+            ],
+            [
+                "\nCalorimetry\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is calorimetry?\n"
+            ],
+            [
+                "\nAn experimental technique used to measure standard enthalpy change\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat has to be 1 mole during an equation for standard enthalpy change of combustion?\n"
+            ],
+            [
+                "\nThe reactant\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat has to be 1 mole during an equation for standard enthalpy change of formation?\n"
+            ],
+            [
+                "\nThe product\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for the standard enthalpy change of formation of methane?\n"
+            ],
+            [
+                "\nC + 2H\u2082 -> CH\u2084\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation for the standard enthalpy change of combustion of methane?\n"
+            ],
+            [
+                "\nCH\u2084 + 2O\u2082 -> CO\u2082 + 2H\u2082O\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is calorimetry?\n"
+            ],
+            [
+                "\nThe process of measuring enthalpy changes of reactions\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is a calorimeter?\n"
+            ],
+            [
+                "\nAny container used to measure enthalpy change\n"
+            ]
+        ],
+        [
+            [
+                "\nIs combustion an endo or exothermic reaction?\n"
+            ],
+            [
+                "\nExothermic\n"
+            ]
+        ],
+        [
+            [
+                "\nIs energy released or taken in during combustion?\n"
+            ],
+            [
+                "\nReleased\n"
+            ]
+        ],
+        [
+            [
+                "\nHow is the enthalpy of combustion measured?\n"
+            ],
+            [
+                "\nBy measuring the heat transferred (when fuel is burnt) to a given volume of water in the calorimeter\n"
+            ]
+        ],
+        [
+            [
+                "\nCan the enthalpy of combustion be measured directly?\n"
+            ],
+            [
+                "\nNo - instead it is measured by the heat transferred to a given volume of water\n"
+            ]
+        ],
+        [
+            [
+                "\nShould a calorimeter be a good conductor?\n"
+            ],
+            [
+                "\nYes\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy should a calorimeter be a good conductor?\n"
+            ],
+            [
+                "\nEnthalpy is measured by the heat transferred to a given volume of water in the calorimeter\n"
+            ]
+        ],
+        [
+            [
+                "\nFor neutralisation and displacement, should the calorimeter be a good conductor?\n"
+            ],
+            [
+                "\nNo - it should be an insulator\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat can be used as a calorimeter in neutralisation and displacement reactions?\n"
+            ],
+            [
+                "\nA polystyrene cup\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat can be used to measure more accurately the volume of acids and alkalis for neutralisation reactions?\n"
+            ],
+            [
+                "\nA burette\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is specific heat capacity?\n"
+            ],
+            [
+                "\nThe amount of energy required to raise the temperature of 1g of a substance by 1K\n"
+            ]
+        ],
+        [
+            [
+                "\nHow much energy is required to raise the temperature of one gram of water by one kelvin?\n"
+            ],
+            [
+                "\n4.18J\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the specific heat capacity of water?\n"
+            ],
+            [
+                "\n4.18 J g\u207b\u00b9 K\u207b\u00b9\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation used to calculate heat released from a reaction?\n"
+            ],
+            [
+                "\nq=mc\u0394T\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does the 'q' stand for in q=mc\u0394T?\n"
+            ],
+            [
+                "\nHeat released (in Joules)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does the 'm' stand for in q=mc\u0394T?\n"
+            ],
+            [
+                "\nMass of substance being heated - often water (in grams)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does the 'c' stand for in q=mc\u0394T?\n"
+            ],
+            [
+                "\nSpecific heat capacity in J g\u207b\u00b9 K\u207b\u00b9\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the equation used to calculate enthalpy change?\n"
+            ],
+            [
+                "\n\u0394H=q/n\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the unit for enthalpy change?\n"
+            ],
+            [
+                "\nkJmol\u207b\u00b9\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat  does the 'q' stand for in \u0394H=q/n?\n"
+            ],
+            [
+                "\nHeat released in kJ\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the heat released in the equation \u0394H=q/n measued in?\n"
+            ],
+            [
+                "\nkJ\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat  does the '\u0394H' stand for in \u0394H=q/n?\n"
+            ],
+            [
+                "\nEnthalpy change\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat  does the 'n' stand for in \u0394H=q/n?\n"
+            ],
+            [
+                "\nThe number of moles of substance\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the mass of water equal to?\n"
+            ],
+            [
+                "\nThe volume of water being heated\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat equations are used to calculate enthalpy change?\n"
+            ],
+            [
+                "\n\u2022 q=mc\u0394T\u2022 \u0394H=q/n\n"
+            ]
+        ],
+        [
+            [
+                "\nHow is the number of moles of fuel (used to calculate enthalpy change of combustion) calculated?\n"
+            ],
+            [
+                "\n\u2022 if fuel or solid: n=mass/mr\u2022 if solution: n=cv (v in dm\u00b3)\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen working out the enthalpy of neutralisation, what are the density and specific heat capacities of the acid and base taken as?\n"
+            ],
+            [
+                "\nThe same as for pure water\n"
+            ]
+        ],
+        [
+            [
+                "\nWhen measuring the energy transferred for other reactions (other than combustion), what is the mass of water assumed to be equal to?\n"
+            ],
+            [
+                "\nThe total volume of the solution used\n"
+            ]
+        ],
+        [
+            [
+                "\nWhich substance is used to calculate the enthalpy change of a reaction?\n"
+            ],
+            [
+                "\nWhichever substance is not in excess\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat are you required to do on graphs when reagents have just been mixed so a temperature cannot be recorded?\n"
+            ],
+            [
+                "\nThe graphs must be extrapolated\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat can you calculate after extrapolating graphs with axes time and temperature?\n"
+            ],
+            [
+                "\nThe maximum temperature change\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat law enables us to calculate enthalpy changes uses known enthalpy changes?\n"
+            ],
+            [
+                "\nThe law of conservation, stating that energy cannot be created or destroyed\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat does Hess's law state?\n"
+            ],
+            [
+                "\nThat the overall enthalpy change for a reaction is independent of the route the reaction takes\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the enthalpy of formation of an element?\n"
+            ],
+            [
+                "\n0 kJ mol\u207b\u00b9\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the enthalpy of combustion of carbon equal to?\n"
+            ],
+            [
+                "\nThe enthalpy of formation of CO2\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is the enthalpy of combustion of hydrogen equal to?\n"
+            ],
+            [
+                "\nThe enthalpy of formation of H2O\n"
+            ]
+        ],
+        [
+            [
+                "\nDoes breaking bonds require or release energy?\n"
+            ],
+            [
+                "\nRequires energy\n"
+            ]
+        ],
+        [
+            [
+                "\nIs breaking bonds exo or endothermic?\n"
+            ],
+            [
+                "\nEndothermic\n"
+            ]
+        ],
+        [
+            [
+                "\nDoes making bonds require or release energy?\n"
+            ],
+            [
+                "\nReleases energy\n"
+            ]
+        ],
+        [
+            [
+                "\nIs making bonds exo or endothermic?\n"
+            ],
+            [
+                "\nExothermic\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat is mean bond enthalpy?\n"
+            ],
+            [
+                "\nThe average bond dissociation enthalpy for a particular bond in a range of different compounds\n"
+            ]
+        ],
+        [
+            [
+                "\nDoes the bond enthalpy of the same bond ever vary?\n"
+            ],
+            [
+                "\nYes, slightly\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy might the bond enthalpy of the same bond vary?\n"
+            ],
+            [
+                "\nDepending on the molecule it is in\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat are mean bond enthalpies used to calculate?\n"
+            ],
+            [
+                "\nAn approximate value for enthalpy changes of a reaction\n"
+            ]
+        ],
+        [
+            [
+                "\nWhy do enthalpy values calculated using mean bond enthalpies differ from those determined using Hess's law?\n"
+            ],
+            [
+                "\nMean bond enthalpies are approximate values whereas those determined using Hess's law are actual values\n"
+            ]
+        ],
+        [
+            [
+                "\nWhat method of calculating enthalpy change should be used if you are given enthalpies of formation/combustion?\n"
+            ],
+            [
+                "\nHess cycle\n"
+            ]
+        ],
+        [
+            [
+                "\nHow to calculate enthalpy change using mean bond enthalpies?\n"
+            ],
+            [
+                "\n1. Add up values for each bond in reactants to calculate total energy required to break bonds.2. Add up values for each bond in products to calculate total energy released when bonds formed3. Use equation BB - MB = \u0394H\n"
+            ]
+        ]
     ]
 }

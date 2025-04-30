@@ -25,7 +25,7 @@ def main():
     options = webdriver.ChromeOptions()
     options.add_argument('--ignore-certificate-errors')
     options.add_argument('--ignore-ssl-errors')
-    browser = webdriver.Chrome("C:\\Users\\green\\Desktop\\Python code\\chromedriver_win32\\chromedriver.exe", options=options)
+    browser = webdriver.Chrome("C:\\Users\\green\\OneDrive\\Desktop\\chromedriver_win32\\chromedriver.exe", options=options)
 
     for title, ID in zip(titles, IDs):
         browser.get(f"https://www.brainscape.com/flashcards/{ID}")
